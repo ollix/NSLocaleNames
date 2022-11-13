@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Akâan
+ak_GH: Akâan (Ganäa)
+am: Amarîki
+am_ET: Amarîki (Etiopïi)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Arâbo
+ar_001: Arâbo (001)
+ar_AE: Arâbo (Arâbo Emirâti Ôko)
+ar_BH: Arâbo (Bahrâina)
+ar_DJ: Arâbo (Dibutùii)
+ar_DZ: Arâbo (Alzerïi)
+ar_EG: Arâbo (Kâmitâ)
+ar_EH: Arâbo (EH)
+ar_ER: Arâbo (Eritrëe)
+ar_IL: Arâbo (Israëli)
+ar_IQ: Arâbo (Irâki)
+ar_JO: Arâbo (Zordanïi)
+ar_KM: Arâbo (Kömôro)
+ar_KW: Arâbo (Köwêti)
+ar_LB: Arâbo (Libùaan)
+ar_LY: Arâbo (Libïi)
+ar_MA: Arâbo (Marôko)
+ar_MR: Arâbo (Moritanïi)
+ar_OM: Arâbo (Omâni)
+ar_PS: Arâbo (Sêse tî Palestîni)
+ar_QA: Arâbo (Katära)
+ar_SA: Arâbo (Saûdi Arabïi)
+ar_SD: Arâbo (Sudäan)
+ar_SO: Arâbo (Somalïi)
+ar_SS: Arâbo (SS)
+ar_SY: Arâbo (Sirïi)
+ar_TD: Arâbo (Tyâde)
+ar_TN: Arâbo (Tunizïi)
+ar_YE: Arâbo (Yëmêni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Bielörûsi
+be_BY: Bielörûsi (Belarüsi)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Bulugäri
+bg_BG: Bulugäri (Bulugarïi)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Bengäli
+bn_BD: Bengäli (Bengladêshi)
+bn_IN: Bengäli (Ênnde)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Tyêki
+cs_CZ: Tyêki (Ködörösêse tî Tyêki)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: Zâmani
+de_AT: Zâmani (Otrîsi)
+de_BE: Zâmani (Bêleze, Belezîki)
+de_CH: Zâmani (Sûîsi)
+de_DE: Zâmani (Zâmani)
+de_IT: Zâmani (Italùii)
+de_LI: Zâmani (Liechtenstein,)
+de_LU: Zâmani (Lugzambûru)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Gerêki
+el_CY: Gerêki (Sîpri)
+el_GR: Gerêki (Gerêsi)
+en: Anglëe
+en_001: Anglëe (001)
+en_150: Anglëe (150)
+en_AE: Anglëe (Arâbo Emirâti Ôko)
+en_AG: Anglëe (Antîgua na Barbûda)
+en_AI: Anglëe (Angûîla)
+en_AL: Anglëe (Albanïi)
+en_AR: Anglëe (Arzantîna)
+en_AS: Anglëe (Samöa tî Amerîka)
+en_AT: Anglëe (Otrîsi)
+en_AU: Anglëe (Ostralïi, Sotralïi)
+en_BB: Anglëe (Barabâda)
+en_BD: Anglëe (Bengladêshi)
+en_BE: Anglëe (Bêleze, Belezîki)
+en_BG: Anglëe (Bulugarïi)
+en_BI: Anglëe (Burundïi)
+en_BM: Anglëe (Beremûda)
+en_BN: Anglëe (Brunêi)
+en_BR: Anglëe (Brezîli)
+en_BS: Anglëe (Bahâmasa)
+en_BW: Anglëe (Botswana)
+en_BZ: Anglëe (Belîzi)
+en_CA: Anglëe (Kanadäa)
+en_CC: Anglëe (CC)
+en_CH: Anglëe (Sûîsi)
+en_CK: Anglëe (âzûâ Kûku)
+en_CL: Anglëe (Shilïi)
+en_CM: Anglëe (Kamerûne)
+en_CN: Anglëe (Shîna)
+en_CO: Anglëe (Kolombïi)
+en_CV: Anglëe (Azûâ tî Kâpo-Vêre)
+en_CX: Anglëe (CX)
+en_CY: Anglëe (Sîpri)
+en_CZ: Anglëe (Ködörösêse tî Tyêki)
+en_DE: Anglëe (Zâmani)
+en_DG: Anglëe (DG)
+en_DK: Anglëe (Danemêrke)
+en_DM: Anglëe (Dömïnîka)
+en_EE: Anglëe (Estonïi)
+en_ER: Anglëe (Eritrëe)
+en_FI: Anglëe (Fëlânde)
+en_FJ: Anglëe (Fidyïi)
+en_FK: Anglëe (Âzûâ tî Mälüîni)
+en_FM: Anglëe (Mikronezïi)
+en_FR: Anglëe (Farânzi)
+en_GB: Anglëe (Ködörögbïä--Ôko)
+en_GD: Anglëe (Grenâda)
+en_GG: Anglëe (GG)
+en_GH: Anglëe (Ganäa)
+en_GI: Anglëe (Zibraltära, Zibaratära)
+en_GM: Anglëe (Gambïi)
+en_GR: Anglëe (Gerêsi)
+en_GU: Anglëe (Guâm)
+en_GY: Anglëe (Gayâna)
+en_HK: Anglëe (HK)
+en_HU: Anglëe (Hongirùii)
+en_ID: Anglëe (Ênndonezïi)
+en_IE: Anglëe (Irlânde)
+en_IL: Anglëe (Israëli)
+en_IM: Anglëe (IM)
+en_IN: Anglëe (Ênnde)
+en_IO: Anglëe (Sêse tî Anglëe na Ngûyämä tî Ênnde)
+en_JE: Anglëe (JE)
+en_JM: Anglëe (Zamaîka)
+en_JP: Anglëe (Zapöon)
+en_KE: Anglëe (Kenyäa)
+en_KI: Anglëe (Kiribati)
+en_KN: Anglëe (Sên-Krïstôfo-na-Nevîsi)
+en_KR: Anglëe (Korëe tî Mbongo)
+en_KY: Anglëe (Âzûâ Ngundë, Kaimäni)
+en_LC: Anglëe (Sênt-Lisïi)
+en_LR: Anglëe (Liberïa)
+en_LS: Anglëe (Lesôtho)
+en_LT: Anglëe (Lituanïi)
+en_LV: Anglëe (Letonùii)
+en_MG: Anglëe (Madagaskära)
+en_MH: Anglëe (Âzûâ Märshâl)
+en_MM: Anglëe (Myämâra)
+en_MO: Anglëe (MO)
+en_MP: Anglëe (Âzûâ Märïâni tî Banga)
+en_MS: Anglëe (Monserâte)
+en_MT: Anglëe (Mâlta)
+en_MU: Anglëe (Mörîsi)
+en_MV: Anglëe (Maldîva)
+en_MW: Anglëe (Malawïi)
+en_MX: Anglëe (Mekisîki)
+en_MY: Anglëe (Malezïi)
+en_NA: Anglëe (Namibùii)
+en_NF: Anglëe (Zûâ Nôrfôlko)
+en_NG: Anglëe (Nizerïa)
+en_NL: Anglëe (Holände)
+en_NO: Anglëe (Nörvêzi)
+en_NR: Anglëe (Nauru)
+en_NU: Anglëe (Niue)
+en_NZ: Anglëe (Finî Zelânde)
+en_PG: Anglëe (Papû Finî Ginëe, Papuazïi)
+en_PH: Anglëe (Filipîni)
+en_PK: Anglëe (Pakistäan)
+en_PL: Anglëe (Pölôni)
+en_PN: Anglëe (Pitikêrni)
+en_PR: Anglëe (Porto Rîko)
+en_PT: Anglëe (Pörtugäle, Ködörö Pûra)
+en_PW: Anglëe (Palau)
+en_RU: Anglëe (Rusïi)
+en_RW: Anglëe (Ruandäa)
+en_SA: Anglëe (Saûdi Arabïi)
+en_SB: Anglëe (Zûâ Salomöon)
+en_SC: Anglëe (Sëyshêle)
+en_SD: Anglëe (Sudäan)
+en_SE: Anglëe (Suêde)
+en_SG: Anglëe (Sïngäpûru)
+en_SH: Anglëe (Sênt-Helêna)
+en_SI: Anglëe (Solovenïi)
+en_SK: Anglëe (Solovakïi)
+en_SL: Anglëe (Sierä-Leône)
+en_SS: Anglëe (SS)
+en_SX: Anglëe (SX)
+en_SZ: Anglëe (Swäzïlânde)
+en_TC: Anglëe (Âzûâ Turku na Kaîki)
+en_TH: Anglëe (Tailânde)
+en_TK: Anglëe (Tokelau)
+en_TO: Anglëe (Tonga)
+en_TR: Anglëe (Turukïi)
+en_TT: Anglëe (Trinitùee na Tobagö)
+en_TV: Anglëe (Tüvalü)
+en_TW: Anglëe (Tâiwâni)
+en_TZ: Anglëe (Tanzanïi)
+en_UA: Anglëe (Ukrêni)
+en_UG: Anglëe (Ugandäa)
+en_UM: Anglëe (UM)
+en_US: Anglëe (ÂLeaa-Ôko tî Amerika)
+en_US_POSIX: Anglëe (ÂLeaa-Ôko tî Amerika, POSIX)
+en_VC: Anglëe (Sên-Vensäan na âGrenadîni)
+en_VG: Anglëe (Âzôâ Viîrîggo tî Anglëe)
+en_VI: Anglëe (Âzûâ Virîgo tî Amerîka)
+en_VU: Anglëe (Vanuatü)
+en_WS: Anglëe (Samoäa)
+en_ZA: Anglëe (Mbongo-Afrîka)
+en_ZM: Anglëe (Zambïi)
+en_ZW: Anglëe (Zimbäbwe)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Espanyöl
+es_003: Espanyöl (003)
+es_419: Espanyöl (419)
+es_AG: Espanyöl (Antîgua na Barbûda)
+es_AR: Espanyöl (Arzantîna)
+es_BB: Espanyöl (Barabâda)
+es_BM: Espanyöl (Beremûda)
+es_BO: Espanyöl (Bolivïi)
+es_BQ: Espanyöl (BQ)
+es_BR: Espanyöl (Brezîli)
+es_BS: Espanyöl (Bahâmasa)
+es_BZ: Espanyöl (Belîzi)
+es_CA: Espanyöl (Kanadäa)
+es_CL: Espanyöl (Shilïi)
+es_CO: Espanyöl (Kolombïi)
+es_CR: Espanyöl (Kôsta Rîka)
+es_CU: Espanyöl (Kubäa)
+es_CW: Espanyöl (CW)
+es_DM: Espanyöl (Dömïnîka)
+es_DO: Espanyöl (Ködörösêse tî Dominîka)
+es_EA: Espanyöl (EA)
+es_EC: Espanyöl (Ekuatëre)
+es_ES: Espanyöl (Espânye)
+es_GD: Espanyöl (Grenâda)
+es_GQ: Espanyöl (Ginëe tî Ekuatëre)
+es_GT: Espanyöl (Guatêmälä)
+es_GY: Espanyöl (Gayâna)
+es_HN: Espanyöl (Honduräsi)
+es_HT: Espanyöl (Haitïi)
+es_IC: Espanyöl (IC)
+es_KN: Espanyöl (Sên-Krïstôfo-na-Nevîsi)
+es_KY: Espanyöl (Âzûâ Ngundë, Kaimäni)
+es_LC: Espanyöl (Sênt-Lisïi)
+es_MX: Espanyöl (Mekisîki)
+es_NI: Espanyöl (Nikaragua)
+es_PA: Espanyöl (Panama)
+es_PE: Espanyöl (Perüu)
+es_PH: Espanyöl (Filipîni)
+es_PR: Espanyöl (Porto Rîko)
+es_PY: Espanyöl (Paraguëe)
+es_SV: Espanyöl (Salvadöro)
+es_TC: Espanyöl (Âzûâ Turku na Kaîki)
+es_TT: Espanyöl (Trinitùee na Tobagö)
+es_US: Espanyöl (ÂLeaa-Ôko tî Amerika)
+es_UY: Espanyöl (Uruguëe)
+es_VC: Espanyöl (Sên-Vensäan na âGrenadîni)
+es_VE: Espanyöl (Venezueläa)
+es_VG: Espanyöl (Âzôâ Viîrîggo tî Anglëe)
+es_VI: Espanyöl (Âzûâ Virîgo tî Amerîka)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Farsî
+fa_AF: Farsî (Faganïta, Afganïstäan)
+fa_IR: Farsî (Iräan)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Farânzi
+fr_BE: Farânzi (Bêleze, Belezîki)
+fr_BF: Farânzi (Burkina Faso)
+fr_BI: Farânzi (Burundïi)
+fr_BJ: Farânzi (Benëen)
+fr_BL: Farânzi (BL)
+fr_CA: Farânzi (Kanadäa)
+fr_CD: Farânzi (Ködörösêse tî Ngunuhalëzo tî kongö)
+fr_CF: Farânzi (Ködörösêse tî Bêafrîka)
+fr_CG: Farânzi (Kongö)
+fr_CH: Farânzi (Sûîsi)
+fr_CI: Farânzi (Kôdivüära)
+fr_CM: Farânzi (Kamerûne)
+fr_DJ: Farânzi (Dibutùii)
+fr_DZ: Farânzi (Alzerïi)
+fr_FR: Farânzi (Farânzi)
+fr_GA: Farânzi (Gaböon)
+fr_GF: Farânzi (Güyâni tî farânzi)
+fr_GN: Farânzi (Ginëe)
+fr_GP: Farânzi (Guadelûpu)
+fr_GQ: Farânzi (Ginëe tî Ekuatëre)
+fr_HT: Farânzi (Haitïi)
+fr_KM: Farânzi (Kömôro)
+fr_LU: Farânzi (Lugzambûru)
+fr_MA: Farânzi (Marôko)
+fr_MC: Farânzi (Monaköo)
+fr_MF: Farânzi (MF)
+fr_MG: Farânzi (Madagaskära)
+fr_ML: Farânzi (Malïi)
+fr_MQ: Farânzi (Märtïnîki)
+fr_MR: Farânzi (Moritanïi)
+fr_MU: Farânzi (Mörîsi)
+fr_NC: Farânzi (Finî Kaledonïi)
+fr_NE: Farânzi (Nizëre)
+fr_PF: Farânzi (Polinezïi tî farânzi)
+fr_PM: Farânzi (Sên-Pyêre na Mikelöon)
+fr_RE: Farânzi (Reinïon)
+fr_RW: Farânzi (Ruandäa)
+fr_SC: Farânzi (Sëyshêle)
+fr_SN: Farânzi (Senegäle)
+fr_SY: Farânzi (Sirïi)
+fr_TD: Farânzi (Tyâde)
+fr_TG: Farânzi (Togö)
+fr_TN: Farânzi (Tunizïi)
+fr_VU: Farânzi (Vanuatü)
+fr_WF: Farânzi (Walîsi na Futuna)
+fr_YT: Farânzi (Mäyôte)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Haüsä
+ha_GH: Haüsä (Ganäa)
+ha_NE: Haüsä (Nizëre)
+ha_NG: Haüsä (Nizerïa)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: Hîndi
+hi_IN: Hîndi (Ênnde)
+hi_Latn: Hîndi (Latn)
+hi_Latn_IN: Hîndi (Latn, Ênnde)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Hongruäa
+hu_HU: Hongruäa (Hongirùii)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Enndonezïi
+id_ID: Enndonezïi (Ênndonezïi)
+ig: Ïgbö
+ig_NG: Ïgbö (Nizerïa)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: Ênnde
+it_CH: Ênnde (Sûîsi)
+it_IT: Ênnde (Italùii)
+it_SM: Ênnde (Sên-Marëen)
+it_VA: Ênnde (Letëe tî Vatikäan)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Zaponëe
+ja_JP: Zaponëe (Zapöon)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Zavanëe
+jv_ID: Zavanëe (Ênndonezïi)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Kmêre
+km_KH: Kmêre (Kämbôzi)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Koreyëen
+ko_KP: Koreyëen (Korëe tî Banga)
+ko_KR: Koreyëen (Korëe tî Mbongo)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, Ênnde)
+ks_Aran_IN: ks (Aran, Ênnde)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, Ênnde)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Malëe
+ms_Arab: Malëe (Arab)
+ms_Arab_BN: Malëe (Arab, Brunêi)
+ms_Arab_MY: Malëe (Arab, Malezïi)
+ms_BN: Malëe (Brunêi)
+ms_ID: Malëe (Ênndonezïi)
+ms_MY: Malëe (Malezïi)
+ms_SG: Malëe (Sïngäpûru)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Miamära, Birimäni
+my_MM: Miamära, Birimäni (Myämâra)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Nepalëe
+ne_IN: Nepalëe (Ênnde)
+ne_NP: Nepalëe (Nëpâli)
+nl: Holandëe
+nl_AW: Holandëe (Arûba)
+nl_BE: Holandëe (Bêleze, Belezîki)
+nl_BQ: Holandëe (BQ)
+nl_CW: Holandëe (CW)
+nl_NL: Holandëe (Holände)
+nl_SR: Holandëe (Surinäm)
+nl_SX: Holandëe (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Penzäbï
+pa_Arab: Penzäbï (Arab)
+pa_Arab_PK: Penzäbï (Arab, Pakistäan)
+pa_Aran_PK: Penzäbï (Aran, Pakistäan)
+pa_Guru: Penzäbï (Guru)
+pa_Guru_IN: Penzäbï (Guru, Ênnde)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Polonëe
+pl_PL: Polonëe (Pölôni)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Portugëe, Pûra
+pt_AO: Portugëe, Pûra (Angoläa)
+pt_BR: Portugëe, Pûra (Brezîli)
+pt_CH: Portugëe, Pûra (Sûîsi)
+pt_CV: Portugëe, Pûra (Azûâ tî Kâpo-Vêre)
+pt_FR: Portugëe, Pûra (Farânzi)
+pt_GQ: Portugëe, Pûra (Ginëe tî Ekuatëre)
+pt_GW: Portugëe, Pûra (Gninëe-Bisau)
+pt_LU: Portugëe, Pûra (Lugzambûru)
+pt_MO: Portugëe, Pûra (MO)
+pt_MZ: Portugëe, Pûra (Mözämbîka)
+pt_PT: Portugëe, Pûra (Pörtugäle, Ködörö Pûra)
+pt_ST: Portugëe, Pûra (Sâô Tömê na Prinsîpe)
+pt_TL: Portugëe, Pûra (Timôro tî Tö)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Rumëen
+ro_MD: Rumëen (Moldavùii)
+ro_RO: Rumëen (Rumanïi)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Rûsi
+ru_BY: Rûsi (Belarüsi)
+ru_KG: Rûsi (Kirigizitùaan)
+ru_KZ: Rûsi (Kazakisitäan)
+ru_MD: Rûsi (Moldavùii)
+ru_RU: Rûsi (Rusïi)
+ru_UA: Rûsi (Ukrêni)
+rw: Ruandäa
+rw_RW: Ruandäa (Ruandäa)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sängö
+sg_CF: Sängö (Ködörösêse tî Bêafrîka)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Somalïi
+so_DJ: Somalïi (Dibutùii)
+so_ET: Somalïi (Etiopïi)
+so_KE: Somalïi (Kenyäa)
+so_SO: Somalïi (Somalïi)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Sueduäa
+sv_AX: Sueduäa (AX)
+sv_FI: Sueduäa (Fëlânde)
+sv_SE: Sueduäa (Suêde)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Tämûli
+ta_IN: Tämûli (Ênnde)
+ta_LK: Tämûli (Sirî-Lanka)
+ta_MY: Tämûli (Malezïi)
+ta_SG: Tämûli (Sïngäpûru)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Thâi
+th_TH: Thâi (Tailânde)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Tûrûku
+tr_CY: Tûrûku (Sîpri)
+tr_TR: Tûrûku (Turukïi)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Ukrêni
+uk_UA: Ukrêni (Ukrêni)
+ur: Ûrdu
+ur_Arab: Ûrdu (Arab)
+ur_Arab_IN: Ûrdu (Arab, Ênnde)
+ur_Arab_PK: Ûrdu (Arab, Pakistäan)
+ur_Aran_PK: Ûrdu (Aran, Pakistäan)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Vietnäm
+vi_VN: Vietnäm (Vietnäm)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Yoruba
+yo_BJ: Yoruba (Benëen)
+yo_NG: Yoruba (Nizerïa)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, Shîna)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Shinuäa
+zh_Hans: Shinuäa (Hans)
+zh_Hans_CN: Shinuäa (Hans, Shîna)
+zh_Hans_HK: Shinuäa (Hans, HK)
+zh_Hans_JP: Shinuäa (Hans, Zapöon)
+zh_Hans_MO: Shinuäa (Hans, MO)
+zh_Hans_SG: Shinuäa (Hans, Sïngäpûru)
+zh_Hant: Shinuäa (Hant)
+zh_Hant_CN: Shinuäa (Hant, Shîna)
+zh_Hant_HK: Shinuäa (Hant, HK)
+zh_Hant_MO: Shinuäa (Hant, MO)
+zh_Hant_TW: Shinuäa (Hant, Tâiwâni)
+zu: Zûlu
+zu_ZA: Zûlu (Mbongo-Afrîka)

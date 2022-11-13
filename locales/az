@@ -1,0 +1,945 @@
+af: afrikaans
+af_NA: afrikaans (Namibiya)
+af_ZA: afrikaans (Cənub Afrika)
+agq: aqhem
+agq_CM: aqhem (Kamerun)
+ain: aynu
+ain_JP: aynu (Yaponiya)
+ak: akan
+ak_GH: akan (Qana)
+am: amhar
+am_ET: amhar (Efiopiya)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: ərəb
+ar_001: ərəb (Dünya)
+ar_AE: ərəb (Birləşmiş Ərəb Əmirlikləri)
+ar_BH: ərəb (Bəhreyn)
+ar_DJ: ərəb (Cibuti)
+ar_DZ: ərəb (Əlcəzair)
+ar_EG: ərəb (Misir)
+ar_EH: ərəb (Qərbi Saxara)
+ar_ER: ərəb (Eritreya)
+ar_IL: ərəb (İsrail)
+ar_IQ: ərəb (İraq)
+ar_JO: ərəb (İordaniya)
+ar_KM: ərəb (Komor adaları)
+ar_KW: ərəb (Küveyt)
+ar_LB: ərəb (Livan)
+ar_LY: ərəb (Liviya)
+ar_MA: ərəb (Mərakeş)
+ar_MR: ərəb (Mavritaniya)
+ar_OM: ərəb (Oman)
+ar_PS: ərəb (Fələstin Əraziləri)
+ar_QA: ərəb (Qətər)
+ar_SA: ərəb (Səudiyyə Ərəbistanı)
+ar_SD: ərəb (Sudan)
+ar_SO: ərəb (Somali)
+ar_SS: ərəb (Cənubi Sudan)
+ar_SY: ərəb (Suriya)
+ar_TD: ərəb (Çad)
+ar_TN: ərəb (Tunis)
+ar_YE: ərəb (Yəmən)
+arn: mapuçe
+arn_CL: mapuçe (Çili)
+as: assam
+as_IN: assam (Hindistan)
+asa: asu
+asa_TZ: asu (Tanzaniya)
+ast: asturiya
+ast_ES: asturiya (İspaniya)
+az: azərbaycan
+az_Cyrl: azərbaycan (kiril)
+az_Cyrl_AZ: azərbaycan (kiril, Azərbaycan)
+az_Latn: azərbaycan (latın)
+az_Latn_AZ: azərbaycan (latın, Azərbaycan)
+ba: başqırd
+ba_RU: başqırd (Rusiya)
+bas: basa
+bas_CM: basa (Kamerun)
+be: belarus
+be_BY: belarus (Belarus)
+bem: bemba
+bem_ZM: bemba (Zambiya)
+bez: bena
+bez_TZ: bena (Tanzaniya)
+bg: bolqar
+bg_BG: bolqar (Bolqarıstan)
+bm: bambara
+bm_ML: bambara (Mali)
+bn: benqal
+bn_BD: benqal (Banqladeş)
+bn_IN: benqal (Hindistan)
+bo: tibet
+bo_CN: tibet (Çin)
+bo_IN: tibet (Hindistan)
+br: breton
+br_FR: breton (Fransa)
+brx: bodo
+brx_IN: bodo (Hindistan)
+bs: bosniya
+bs_Cyrl: bosniya (kiril)
+bs_Cyrl_BA: bosniya (kiril, Bosniya və Herseqovina)
+bs_Latn: bosniya (latın)
+bs_Latn_BA: bosniya (latın, Bosniya və Herseqovina)
+byn: blin
+byn_ER: blin (Eritreya)
+ca: katalan
+ca_AD: katalan (Andorra)
+ca_ES: katalan (İspaniya)
+ca_FR: katalan (Fransa)
+ca_IT: katalan (İtaliya)
+ccp: Çakma
+ccp_BD: Çakma (Banqladeş)
+ccp_IN: Çakma (Hindistan)
+ce: çeçen
+ce_RU: çeçen (Rusiya)
+ceb: sebuan
+ceb_PH: sebuan (Filippin)
+cgg: çiqa
+cgg_UG: çiqa (Uqanda)
+chr: çeroki
+chr_US: çeroki (Amerika Birləşmiş Ştatları)
+ckb: Mərkəzi kürdcə
+ckb_IQ: Mərkəzi kürdcə (İraq)
+ckb_IR: Mərkəzi kürdcə (İran)
+co: korsika
+co_FR: korsika (Fransa)
+cs: çex
+cs_CZ: çex (Çexiya)
+cv: çuvaş
+cv_RU: çuvaş (Rusiya)
+cy: uels
+cy_GB: uels (Birləşmiş Krallıq)
+da: danimarka
+da_DK: danimarka (Danimarka)
+da_GL: danimarka (Qrenlandiya)
+dav: taita
+dav_KE: taita (Keniya)
+de: alman
+de_AT: alman (Avstriya)
+de_BE: alman (Belçika)
+de_CH: alman (İsveçrə)
+de_DE: alman (Almaniya)
+de_IT: alman (İtaliya)
+de_LI: alman (Lixtenşteyn)
+de_LU: alman (Lüksemburq)
+dje: zarma
+dje_NE: zarma (Niger)
+doi: doqri
+doi_IN: doqri (Hindistan)
+dsb: aşağı sorb
+dsb_DE: aşağı sorb (Almaniya)
+dua: duala
+dua_CM: duala (Kamerun)
+dv: maldiv
+dv_MV: maldiv (Maldiv adaları)
+dyo: diola
+dyo_SN: diola (Seneqal)
+dz: dzonqxa
+dz_BT: dzonqxa (Butan)
+ebu: embu
+ebu_KE: embu (Keniya)
+ee: eve
+ee_GH: eve (Qana)
+ee_TG: eve (Toqo)
+el: yunan
+el_CY: yunan (Kipr)
+el_GR: yunan (Yunanıstan)
+en: ingilis
+en_001: ingilis (Dünya)
+en_150: ingilis (Avropa)
+en_AE: ingilis (Birləşmiş Ərəb Əmirlikləri)
+en_AG: ingilis (Antiqua və Barbuda)
+en_AI: ingilis (Angilya)
+en_AL: ingilis (Albaniya)
+en_AR: ingilis (Argentina)
+en_AS: ingilis (Amerika Samoası)
+en_AT: ingilis (Avstriya)
+en_AU: ingilis (Avstraliya)
+en_BB: ingilis (Barbados)
+en_BD: ingilis (Banqladeş)
+en_BE: ingilis (Belçika)
+en_BG: ingilis (Bolqarıstan)
+en_BI: ingilis (Burundi)
+en_BM: ingilis (Bermud adaları)
+en_BN: ingilis (Bruney)
+en_BR: ingilis (Braziliya)
+en_BS: ingilis (Baham adaları)
+en_BW: ingilis (Botsvana)
+en_BZ: ingilis (Beliz)
+en_CA: ingilis (Kanada)
+en_CC: ingilis (Kokos [Kilinq] adaları)
+en_CH: ingilis (İsveçrə)
+en_CK: ingilis (Kuk adaları)
+en_CL: ingilis (Çili)
+en_CM: ingilis (Kamerun)
+en_CN: ingilis (Çin)
+en_CO: ingilis (Kolumbiya)
+en_CV: ingilis (Kabo-Verde)
+en_CX: ingilis (Milad adası)
+en_CY: ingilis (Kipr)
+en_CZ: ingilis (Çexiya)
+en_DE: ingilis (Almaniya)
+en_DG: ingilis (Dieqo Qarsiya)
+en_DK: ingilis (Danimarka)
+en_DM: ingilis (Dominika)
+en_EE: ingilis (Estoniya)
+en_ER: ingilis (Eritreya)
+en_FI: ingilis (Finlandiya)
+en_FJ: ingilis (Fici)
+en_FK: ingilis (Folklend adaları)
+en_FM: ingilis (Mikroneziya)
+en_FR: ingilis (Fransa)
+en_GB: ingilis (Birləşmiş Krallıq)
+en_GD: ingilis (Qrenada)
+en_GG: ingilis (Gernsi)
+en_GH: ingilis (Qana)
+en_GI: ingilis (Cəbəllütariq)
+en_GM: ingilis (Qambiya)
+en_GR: ingilis (Yunanıstan)
+en_GU: ingilis (Quam)
+en_GY: ingilis (Qayana)
+en_HK: ingilis (Honq Konq)
+en_HU: ingilis (Macarıstan)
+en_ID: ingilis (İndoneziya)
+en_IE: ingilis (İrlandiya)
+en_IL: ingilis (İsrail)
+en_IM: ingilis (Men adası)
+en_IN: ingilis (Hindistan)
+en_IO: ingilis (Britaniyanın Hind Okeanı Ərazisi)
+en_JE: ingilis (Cersi)
+en_JM: ingilis (Yamayka)
+en_JP: ingilis (Yaponiya)
+en_KE: ingilis (Keniya)
+en_KI: ingilis (Kiribati)
+en_KN: ingilis (Sent-Kits və Nevis)
+en_KR: ingilis (Cənubi Koreya)
+en_KY: ingilis (Kayman adaları)
+en_LC: ingilis (Sent-Lusiya)
+en_LR: ingilis (Liberiya)
+en_LS: ingilis (Lesoto)
+en_LT: ingilis (Litva)
+en_LV: ingilis (Latviya)
+en_MG: ingilis (Madaqaskar)
+en_MH: ingilis (Marşal adaları)
+en_MM: ingilis (Myanma)
+en_MO: ingilis (Makao)
+en_MP: ingilis (Şimali Marian adaları)
+en_MS: ingilis (Monserat)
+en_MT: ingilis (Malta)
+en_MU: ingilis (Mavriki)
+en_MV: ingilis (Maldiv adaları)
+en_MW: ingilis (Malavi)
+en_MX: ingilis (Meksika)
+en_MY: ingilis (Malayziya)
+en_NA: ingilis (Namibiya)
+en_NF: ingilis (Norfolk adası)
+en_NG: ingilis (Nigeriya)
+en_NL: ingilis (Niderland)
+en_NO: ingilis (Norveç)
+en_NR: ingilis (Nauru)
+en_NU: ingilis (Niue)
+en_NZ: ingilis (Yeni Zelandiya)
+en_PG: ingilis (Papua-Yeni Qvineya)
+en_PH: ingilis (Filippin)
+en_PK: ingilis (Pakistan)
+en_PL: ingilis (Polşa)
+en_PN: ingilis (Pitkern adaları)
+en_PR: ingilis (Puerto Riko)
+en_PT: ingilis (Portuqaliya)
+en_PW: ingilis (Palau)
+en_RU: ingilis (Rusiya)
+en_RW: ingilis (Ruanda)
+en_SA: ingilis (Səudiyyə Ərəbistanı)
+en_SB: ingilis (Solomon adaları)
+en_SC: ingilis (Seyşel adaları)
+en_SD: ingilis (Sudan)
+en_SE: ingilis (İsveç)
+en_SG: ingilis (Sinqapur)
+en_SH: ingilis (Müqəddəs Yelena)
+en_SI: ingilis (Sloveniya)
+en_SK: ingilis (Slovakiya)
+en_SL: ingilis (Syerra-Leone)
+en_SS: ingilis (Cənubi Sudan)
+en_SX: ingilis (Sint-Marten)
+en_SZ: ingilis (Esvatini)
+en_TC: ingilis (Törks və Kaykos adaları)
+en_TH: ingilis (Tailand)
+en_TK: ingilis (Tokelau)
+en_TO: ingilis (Tonqa)
+en_TR: ingilis (Türkiyə)
+en_TT: ingilis (Trinidad və Tobaqo)
+en_TV: ingilis (Tuvalu)
+en_TW: ingilis (Tayvan)
+en_TZ: ingilis (Tanzaniya)
+en_UA: ingilis (Ukrayna)
+en_UG: ingilis (Uqanda)
+en_UM: ingilis (ABŞ-a bağlı kiçik adacıqlar)
+en_US: ingilis (Amerika Birləşmiş Ştatları)
+en_US_POSIX: ingilis (Amerika Birləşmiş Ştatları, POSIX)
+en_VC: ingilis (Sent-Vinsent və Qrenadinlər)
+en_VG: ingilis (Britaniyanın Virgin adaları)
+en_VI: ingilis (ABŞ Virgin adaları)
+en_VU: ingilis (Vanuatu)
+en_WS: ingilis (Samoa)
+en_ZA: ingilis (Cənub Afrika)
+en_ZM: ingilis (Zambiya)
+en_ZW: ingilis (Zimbabve)
+eo: esperanto
+eo_001: esperanto (Dünya)
+es: ispan
+es_003: ispan (Şimali Amerika)
+es_419: ispan (Latın Amerikası)
+es_AG: ispan (Antiqua və Barbuda)
+es_AR: ispan (Argentina)
+es_BB: ispan (Barbados)
+es_BM: ispan (Bermud adaları)
+es_BO: ispan (Boliviya)
+es_BQ: ispan (Karib Niderlandı)
+es_BR: ispan (Braziliya)
+es_BS: ispan (Baham adaları)
+es_BZ: ispan (Beliz)
+es_CA: ispan (Kanada)
+es_CL: ispan (Çili)
+es_CO: ispan (Kolumbiya)
+es_CR: ispan (Kosta Rika)
+es_CU: ispan (Kuba)
+es_CW: ispan (Kurasao)
+es_DM: ispan (Dominika)
+es_DO: ispan (Dominikan Respublikası)
+es_EA: ispan (Seuta və Melilya)
+es_EC: ispan (Ekvador)
+es_ES: ispan (İspaniya)
+es_GD: ispan (Qrenada)
+es_GQ: ispan (Ekvatorial Qvineya)
+es_GT: ispan (Qvatemala)
+es_GY: ispan (Qayana)
+es_HN: ispan (Honduras)
+es_HT: ispan (Haiti)
+es_IC: ispan (Kanar adaları)
+es_KN: ispan (Sent-Kits və Nevis)
+es_KY: ispan (Kayman adaları)
+es_LC: ispan (Sent-Lusiya)
+es_MX: ispan (Meksika)
+es_NI: ispan (Nikaraqua)
+es_PA: ispan (Panama)
+es_PE: ispan (Peru)
+es_PH: ispan (Filippin)
+es_PR: ispan (Puerto Riko)
+es_PY: ispan (Paraqvay)
+es_SV: ispan (Salvador)
+es_TC: ispan (Törks və Kaykos adaları)
+es_TT: ispan (Trinidad və Tobaqo)
+es_US: ispan (Amerika Birləşmiş Ştatları)
+es_UY: ispan (Uruqvay)
+es_VC: ispan (Sent-Vinsent və Qrenadinlər)
+es_VE: ispan (Venesuela)
+es_VG: ispan (Britaniyanın Virgin adaları)
+es_VI: ispan (ABŞ Virgin adaları)
+et: eston
+et_EE: eston (Estoniya)
+eu: bask
+eu_ES: bask (İspaniya)
+ewo: evondo
+ewo_CM: evondo (Kamerun)
+fa: fars
+fa_AF: fars (Əfqanıstan)
+fa_IR: fars (İran)
+ff: fula
+ff_Adlm: fula (Adlm)
+ff_Adlm_BF: fula (Adlm, Burkina Faso)
+ff_Adlm_CM: fula (Adlm, Kamerun)
+ff_Adlm_GH: fula (Adlm, Qana)
+ff_Adlm_GM: fula (Adlm, Qambiya)
+ff_Adlm_GN: fula (Adlm, Qvineya)
+ff_Adlm_GW: fula (Adlm, Qvineya-Bisau)
+ff_Adlm_LR: fula (Adlm, Liberiya)
+ff_Adlm_MR: fula (Adlm, Mavritaniya)
+ff_Adlm_NE: fula (Adlm, Niger)
+ff_Adlm_NG: fula (Adlm, Nigeriya)
+ff_Adlm_SL: fula (Adlm, Syerra-Leone)
+ff_Adlm_SN: fula (Adlm, Seneqal)
+ff_Latn: fula (latın)
+ff_Latn_BF: fula (latın, Burkina Faso)
+ff_Latn_CM: fula (latın, Kamerun)
+ff_Latn_GH: fula (latın, Qana)
+ff_Latn_GM: fula (latın, Qambiya)
+ff_Latn_GN: fula (latın, Qvineya)
+ff_Latn_GW: fula (latın, Qvineya-Bisau)
+ff_Latn_LR: fula (latın, Liberiya)
+ff_Latn_MR: fula (latın, Mavritaniya)
+ff_Latn_NE: fula (latın, Niger)
+ff_Latn_NG: fula (latın, Nigeriya)
+ff_Latn_SL: fula (latın, Syerra-Leone)
+ff_Latn_SN: fula (latın, Seneqal)
+fi: fin
+fi_FI: fin (Finlandiya)
+fil: filippin
+fil_PH: filippin (Filippin)
+fo: farer
+fo_DK: farer (Danimarka)
+fo_FO: farer (Farer adaları)
+fr: fransız
+fr_BE: fransız (Belçika)
+fr_BF: fransız (Burkina Faso)
+fr_BI: fransız (Burundi)
+fr_BJ: fransız (Benin)
+fr_BL: fransız (Sent-Bartelemi)
+fr_CA: fransız (Kanada)
+fr_CD: fransız (Konqo - Kinşasa)
+fr_CF: fransız (Mərkəzi Afrika Respublikası)
+fr_CG: fransız (Konqo - Brazzavil)
+fr_CH: fransız (İsveçrə)
+fr_CI: fransız (Kotd’ivuar)
+fr_CM: fransız (Kamerun)
+fr_DJ: fransız (Cibuti)
+fr_DZ: fransız (Əlcəzair)
+fr_FR: fransız (Fransa)
+fr_GA: fransız (Qabon)
+fr_GF: fransız (Fransa Qvianası)
+fr_GN: fransız (Qvineya)
+fr_GP: fransız (Qvadelupa)
+fr_GQ: fransız (Ekvatorial Qvineya)
+fr_HT: fransız (Haiti)
+fr_KM: fransız (Komor adaları)
+fr_LU: fransız (Lüksemburq)
+fr_MA: fransız (Mərakeş)
+fr_MC: fransız (Monako)
+fr_MF: fransız (Sent Martin)
+fr_MG: fransız (Madaqaskar)
+fr_ML: fransız (Mali)
+fr_MQ: fransız (Martinik)
+fr_MR: fransız (Mavritaniya)
+fr_MU: fransız (Mavriki)
+fr_NC: fransız (Yeni Kaledoniya)
+fr_NE: fransız (Niger)
+fr_PF: fransız (Fransa Polineziyası)
+fr_PM: fransız (Müqəddəs Pyer və Mikelon)
+fr_RE: fransız (Reyunyon)
+fr_RW: fransız (Ruanda)
+fr_SC: fransız (Seyşel adaları)
+fr_SN: fransız (Seneqal)
+fr_SY: fransız (Suriya)
+fr_TD: fransız (Çad)
+fr_TG: fransız (Toqo)
+fr_TN: fransız (Tunis)
+fr_VU: fransız (Vanuatu)
+fr_WF: fransız (Uollis və Futuna)
+fr_YT: fransız (Mayot)
+fur: friul
+fur_IT: friul (İtaliya)
+fy: qərbi friz
+fy_NL: qərbi friz (Niderland)
+ga: irland
+ga_GB: irland (Birləşmiş Krallıq)
+ga_IE: irland (İrlandiya)
+gaa: qa
+gaa_GH: qa (Qana)
+gd: Şotlandiya keltcəsi
+gd_GB: Şotlandiya keltcəsi (Birləşmiş Krallıq)
+gez: qez
+gez_ER: qez (Eritreya)
+gez_ET: qez (Efiopiya)
+gl: qalisiya
+gl_ES: qalisiya (İspaniya)
+gn: quarani
+gn_PY: quarani (Paraqvay)
+gsw: İsveçrə almancası
+gsw_CH: İsveçrə almancası (İsveçrə)
+gsw_FR: İsveçrə almancası (Fransa)
+gsw_LI: İsveçrə almancası (Lixtenşteyn)
+gu: qucarat
+gu_IN: qucarat (Hindistan)
+guz: qusi
+guz_KE: qusi (Keniya)
+gv: manks
+gv_IM: manks (Men adası)
+ha: hausa
+ha_GH: hausa (Qana)
+ha_NE: hausa (Niger)
+ha_NG: hausa (Nigeriya)
+haw: havay
+haw_US: havay (Amerika Birləşmiş Ştatları)
+he: ivrit
+he_IL: ivrit (İsrail)
+hi: hind
+hi_IN: hind (Hindistan)
+hi_Latn: hind (latın)
+hi_Latn_IN: hind (latın, Hindistan)
+hr: xorvat
+hr_BA: xorvat (Bosniya və Herseqovina)
+hr_HR: xorvat (Xorvatiya)
+hsb: yuxarı sorb
+hsb_DE: yuxarı sorb (Almaniya)
+hu: macar
+hu_HU: macar (Macarıstan)
+hy: erməni
+hy_AM: erməni (Ermənistan)
+ia: interlinqua
+ia_001: interlinqua (Dünya)
+id: indoneziya
+id_ID: indoneziya (İndoneziya)
+ig: iqbo
+ig_NG: iqbo (Nigeriya)
+ii: siçuan yi
+ii_CN: siçuan yi (Çin)
+io: ido
+io_001: ido (Dünya)
+is: island
+is_IS: island (İslandiya)
+it: italyan
+it_CH: italyan (İsveçrə)
+it_IT: italyan (İtaliya)
+it_SM: italyan (San-Marino)
+it_VA: italyan (Vatikan)
+iu: inuktitut
+iu_CA: inuktitut (Kanada)
+ja: yapon
+ja_JP: yapon (Yaponiya)
+jbo: loğban
+jbo_001: loğban (Dünya)
+jgo: nqomba
+jgo_CM: nqomba (Kamerun)
+jmc: maçam
+jmc_TZ: maçam (Tanzaniya)
+jv: yava
+jv_ID: yava (İndoneziya)
+ka: gürcü
+ka_GE: gürcü (Gürcüstan)
+kab: kabile
+kab_DZ: kabile (Əlcəzair)
+kaj: ju
+kaj_NG: ju (Nigeriya)
+kam: kamba
+kam_KE: kamba (Keniya)
+kcg: tiyap
+kcg_NG: tiyap (Nigeriya)
+kde: makond
+kde_TZ: makond (Tanzaniya)
+kea: kabuverdian
+kea_CV: kabuverdian (Kabo-Verde)
+khq: koyra çiini
+khq_ML: koyra çiini (Mali)
+ki: kikuyu
+ki_KE: kikuyu (Keniya)
+kk: qazax
+kk_KZ: qazax (Qazaxıstan)
+kkj: kako
+kkj_CM: kako (Kamerun)
+kl: kalaallisut
+kl_GL: kalaallisut (Qrenlandiya)
+kln: kalencin
+kln_KE: kalencin (Keniya)
+km: kxmer
+km_KH: kxmer (Kamboca)
+kn: kannada
+kn_IN: kannada (Hindistan)
+ko: koreya
+ko_KP: koreya (Şimali Koreya)
+ko_KR: koreya (Cənubi Koreya)
+kok: konkani
+kok_IN: konkani (Hindistan)
+kpe: kpelle
+kpe_GN: kpelle (Qvineya)
+kpe_LR: kpelle (Liberiya)
+ks: kəşmir
+ks_Arab: kəşmir (ərəb)
+ks_Arab_IN: kəşmir (ərəb, Hindistan)
+ks_Aran_IN: kəşmir (Aran, Hindistan)
+ks_Deva: kəşmir (devanaqari)
+ks_Deva_IN: kəşmir (devanaqari, Hindistan)
+ksb: şambala
+ksb_TZ: şambala (Tanzaniya)
+ksf: bafia
+ksf_CM: bafia (Kamerun)
+ksh: köln
+ksh_DE: köln (Almaniya)
+ku: kürd
+ku_TR: kürd (Türkiyə)
+kw: korn
+kw_GB: korn (Birləşmiş Krallıq)
+ky: qırğız
+ky_KG: qırğız (Qırğızıstan)
+lag: langi
+lag_TZ: langi (Tanzaniya)
+lb: lüksemburq
+lb_LU: lüksemburq (Lüksemburq)
+lg: qanda
+lg_UG: qanda (Uqanda)
+lkt: lakota
+lkt_US: lakota (Amerika Birləşmiş Ştatları)
+ln: linqala
+ln_AO: linqala (Anqola)
+ln_CD: linqala (Konqo - Kinşasa)
+ln_CF: linqala (Mərkəzi Afrika Respublikası)
+ln_CG: linqala (Konqo - Brazzavil)
+lo: laos
+lo_LA: laos (Laos)
+lrc: şimali luri
+lrc_IQ: şimali luri (İraq)
+lrc_IR: şimali luri (İran)
+lt: litva
+lt_LT: litva (Litva)
+lu: luba-katanqa
+lu_CD: luba-katanqa (Konqo - Kinşasa)
+luo: luo
+luo_KE: luo (Keniya)
+luy: luyia
+luy_KE: luyia (Keniya)
+lv: latış
+lv_LV: latış (Latviya)
+mai: maitili
+mai_IN: maitili (Hindistan)
+mas: masay
+mas_KE: masay (Keniya)
+mas_TZ: masay (Tanzaniya)
+mer: meru
+mer_KE: meru (Keniya)
+mfe: morisien
+mfe_MU: morisien (Mavriki)
+mg: malaqas
+mg_MG: malaqas (Madaqaskar)
+mgh: maxuva-meetto
+mgh_MZ: maxuva-meetto (Mozambik)
+mgo: meta’
+mgo_CM: meta’ (Kamerun)
+mi: māori
+mi_NZ: māori (Yeni Zelandiya)
+mk: makedon
+mk_MK: makedon (Şimali Makedoniya)
+ml: malayalam
+ml_IN: malayalam (Hindistan)
+mn: monqol
+mn_MN: monqol (Monqolustan)
+mni: manipüri
+mni_Beng: manipüri (benqal)
+mni_Beng_IN: manipüri (benqal, Hindistan)
+mni_Mtei: manipüri (meytey mayek)
+mni_Mtei_IN: manipüri (meytey mayek, Hindistan)
+moh: mohavk
+moh_CA: mohavk (Kanada)
+mr: marathi
+mr_IN: marathi (Hindistan)
+ms: malay
+ms_Arab: malay (ərəb)
+ms_Arab_BN: malay (ərəb, Bruney)
+ms_Arab_MY: malay (ərəb, Malayziya)
+ms_BN: malay (Bruney)
+ms_ID: malay (İndoneziya)
+ms_MY: malay (Malayziya)
+ms_SG: malay (Sinqapur)
+mt: malta
+mt_MT: malta (Malta)
+mua: mundanq
+mua_CM: mundanq (Kamerun)
+my: birman
+my_MM: birman (Myanma)
+myv: erzya
+myv_RU: erzya (Rusiya)
+mzn: mazandaran
+mzn_IR: mazandaran (İran)
+naq: nama
+naq_NA: nama (Namibiya)
+nb: bokmal norveç
+nb_NO: bokmal norveç (Norveç)
+nb_SJ: bokmal norveç (Svalbard və Yan-Mayen)
+nd: şimali ndebele
+nd_ZW: şimali ndebele (Zimbabve)
+nds: aşağı alman
+nds_DE: aşağı alman (Almaniya)
+nds_NL: aşağı alman (Niderland)
+ne: nepal
+ne_IN: nepal (Hindistan)
+ne_NP: nepal (Nepal)
+nl: holland
+nl_AW: holland (Aruba)
+nl_BE: holland (Belçika)
+nl_BQ: holland (Karib Niderlandı)
+nl_CW: holland (Kurasao)
+nl_NL: holland (Niderland)
+nl_SR: holland (Surinam)
+nl_SX: holland (Sint-Marten)
+nmg: kvasio
+nmg_CM: kvasio (Kamerun)
+nn: nünorsk norveç
+nn_NO: nünorsk norveç (Norveç)
+nnh: ngiemboon
+nnh_CM: ngiemboon (Kamerun)
+no: norveç
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: cənubi ndebele
+nr_ZA: cənubi ndebele (Cənub Afrika)
+nso: şimal soto
+nso_ZA: şimal soto (Cənub Afrika)
+nus: nuer
+nus_SS: nuer (Cənubi Sudan)
+nv: navayo
+nv_US: navayo (Amerika Birləşmiş Ştatları)
+ny: nyanca
+ny_MW: nyanca (Malavi)
+nyn: nyankol
+nyn_UG: nyankol (Uqanda)
+oc: oksitan
+oc_FR: oksitan (Fransa)
+om: oromo
+om_ET: oromo (Efiopiya)
+om_KE: oromo (Keniya)
+or: odiya
+or_IN: odiya (Hindistan)
+os: osetin
+os_GE: osetin (Gürcüstan)
+os_RU: osetin (Rusiya)
+pa: pəncab
+pa_Arab: pəncab (ərəb)
+pa_Arab_PK: pəncab (ərəb, Pakistan)
+pa_Aran_PK: pəncab (Aran, Pakistan)
+pa_Guru: pəncab (qurmuxi)
+pa_Guru_IN: pəncab (qurmuxi, Hindistan)
+pcm: niger kreol
+pcm_NG: niger kreol (Nigeriya)
+pl: polyak
+pl_PL: polyak (Polşa)
+ps: puştu
+ps_AF: puştu (Əfqanıstan)
+ps_PK: puştu (Pakistan)
+pt: portuqal
+pt_AO: portuqal (Anqola)
+pt_BR: portuqal (Braziliya)
+pt_CH: portuqal (İsveçrə)
+pt_CV: portuqal (Kabo-Verde)
+pt_FR: portuqal (Fransa)
+pt_GQ: portuqal (Ekvatorial Qvineya)
+pt_GW: portuqal (Qvineya-Bisau)
+pt_LU: portuqal (Lüksemburq)
+pt_MO: portuqal (Makao)
+pt_MZ: portuqal (Mozambik)
+pt_PT: portuqal (Portuqaliya)
+pt_ST: portuqal (San-Tome və Prinsipi)
+pt_TL: portuqal (Şərqi Timor)
+qu: keçua
+qu_BO: keçua (Boliviya)
+qu_EC: keçua (Ekvador)
+qu_PE: keçua (Peru)
+rhg: Rohinca
+rhg_Rohg: Rohinca (Rohg)
+rhg_Rohg_BD: Rohinca (Rohg, Banqladeş)
+rhg_Rohg_MM: Rohinca (Rohg, Myanma)
+rm: romanş
+rm_CH: romanş (İsveçrə)
+rn: rundi
+rn_BI: rundi (Burundi)
+ro: rumın
+ro_MD: rumın (Moldova)
+ro_RO: rumın (Rumıniya)
+rof: rombo
+rof_TZ: rombo (Tanzaniya)
+ru: rus
+ru_BY: rus (Belarus)
+ru_KG: rus (Qırğızıstan)
+ru_KZ: rus (Qazaxıstan)
+ru_MD: rus (Moldova)
+ru_RU: rus (Rusiya)
+ru_UA: rus (Ukrayna)
+rw: kinyarvanda
+rw_RW: kinyarvanda (Ruanda)
+rwk: rua
+rwk_TZ: rua (Tanzaniya)
+sa: sanskrit
+sa_IN: sanskrit (Hindistan)
+sah: saxa
+sah_RU: saxa (Rusiya)
+saq: samburu
+saq_KE: samburu (Keniya)
+sat: santal
+sat_Deva: santal (devanaqari)
+sat_Deva_IN: santal (devanaqari, Hindistan)
+sat_Olck: santal (ol çiki)
+sat_Olck_IN: santal (ol çiki, Hindistan)
+sbp: sanqu
+sbp_TZ: sanqu (Tanzaniya)
+sc: sardin
+sc_IT: sardin (İtaliya)
+scn: siciliya
+scn_IT: siciliya (İtaliya)
+sd: sindhi
+sd_Arab: sindhi (ərəb)
+sd_Arab_PK: sindhi (ərəb, Pakistan)
+sd_Deva: sindhi (devanaqari)
+sd_Deva_IN: sindhi (devanaqari, Hindistan)
+se: şimali sami
+se_FI: şimali sami (Finlandiya)
+se_NO: şimali sami (Norveç)
+se_SE: şimali sami (İsveç)
+seh: sena
+seh_MZ: sena (Mozambik)
+ses: koyraboro senni
+ses_ML: koyraboro senni (Mali)
+sg: sanqo
+sg_CF: sanqo (Mərkəzi Afrika Respublikası)
+shi: taçelit
+shi_Latn: taçelit (latın)
+shi_Latn_MA: taçelit (latın, Mərakeş)
+shi_Tfng: taçelit (tifinaq)
+shi_Tfng_MA: taçelit (tifinaq, Mərakeş)
+si: sinhala
+si_LK: sinhala (Şri-Lanka)
+sk: slovak
+sk_SK: slovak (Slovakiya)
+sl: sloven
+sl_SI: sloven (Sloveniya)
+sm: samoa
+sm_AS: samoa (Amerika Samoası)
+sm_WS: samoa (Samoa)
+smn: inari sami
+smn_FI: inari sami (Finlandiya)
+sn: şona
+sn_ZW: şona (Zimbabve)
+so: somali
+so_DJ: somali (Cibuti)
+so_ET: somali (Efiopiya)
+so_KE: somali (Keniya)
+so_SO: somali (Somali)
+sq: alban
+sq_AL: alban (Albaniya)
+sq_MK: alban (Şimali Makedoniya)
+sq_XK: alban (Kosovo)
+sr: serb
+sr_Cyrl: serb (kiril)
+sr_Cyrl_BA: serb (kiril, Bosniya və Herseqovina)
+sr_Cyrl_ME: serb (kiril, Monteneqro)
+sr_Cyrl_RS: serb (kiril, Serbiya)
+sr_Cyrl_XK: serb (kiril, Kosovo)
+sr_Latn: serb (latın)
+sr_Latn_BA: serb (latın, Bosniya və Herseqovina)
+sr_Latn_ME: serb (latın, Monteneqro)
+sr_Latn_RS: serb (latın, Serbiya)
+sr_Latn_XK: serb (latın, Kosovo)
+ss: svati
+ss_SZ: svati (Esvatini)
+ss_ZA: svati (Cənub Afrika)
+st: sesoto
+st_LS: sesoto (Lesoto)
+st_ZA: sesoto (Cənub Afrika)
+su: sundan
+su_Latn: sundan (latın)
+su_Latn_ID: sundan (latın, İndoneziya)
+sv: isveç
+sv_AX: isveç (Aland adaları)
+sv_FI: isveç (Finlandiya)
+sv_SE: isveç (İsveç)
+sw: suahili
+sw_CD: suahili (Konqo - Kinşasa)
+sw_KE: suahili (Keniya)
+sw_TZ: suahili (Tanzaniya)
+sw_UG: suahili (Uqanda)
+syr: suriya
+syr_IQ: suriya (İraq)
+syr_SY: suriya (Suriya)
+ta: tamil
+ta_IN: tamil (Hindistan)
+ta_LK: tamil (Şri-Lanka)
+ta_MY: tamil (Malayziya)
+ta_SG: tamil (Sinqapur)
+te: teluqu
+te_IN: teluqu (Hindistan)
+teo: teso
+teo_KE: teso (Keniya)
+teo_UG: teso (Uqanda)
+tg: tacik
+tg_TJ: tacik (Tacikistan)
+th: tay
+th_TH: tay (Tailand)
+ti: tiqrin
+ti_ER: tiqrin (Eritreya)
+ti_ET: tiqrin (Efiopiya)
+tig: tiqre
+tig_ER: tiqre (Eritreya)
+tk: türkmən
+tk_TM: türkmən (Türkmənistan)
+tn: svana
+tn_BW: svana (Botsvana)
+tn_ZA: svana (Cənub Afrika)
+to: tonqa
+to_TO: tonqa (Tonqa)
+tr: türk
+tr_CY: türk (Kipr)
+tr_TR: türk (Türkiyə)
+trv: taroko
+trv_TW: taroko (Tayvan)
+ts: sonqa
+ts_ZA: sonqa (Cənub Afrika)
+tt: tatar
+tt_RU: tatar (Rusiya)
+twq: tasavaq
+twq_NE: tasavaq (Niger)
+tzm: Mərkəzi Atlas tamazicəsi
+tzm_MA: Mərkəzi Atlas tamazicəsi (Mərakeş)
+ug: uyğur
+ug_CN: uyğur (Çin)
+uk: ukrayna
+uk_UA: ukrayna (Ukrayna)
+ur: urdu
+ur_Arab: urdu (ərəb)
+ur_Arab_IN: urdu (ərəb, Hindistan)
+ur_Arab_PK: urdu (ərəb, Pakistan)
+ur_Aran_PK: urdu (Aran, Pakistan)
+uz: özbək
+uz_Arab: özbək (ərəb)
+uz_Arab_AF: özbək (ərəb, Əfqanıstan)
+uz_Cyrl: özbək (kiril)
+uz_Cyrl_UZ: özbək (kiril, Özbəkistan)
+uz_Latn: özbək (latın)
+uz_Latn_UZ: özbək (latın, Özbəkistan)
+vai: vai
+vai_Latn: vai (latın)
+vai_Latn_LR: vai (latın, Liberiya)
+vai_Vaii: vai (vay)
+vai_Vaii_LR: vai (vay, Liberiya)
+ve: venda
+ve_ZA: venda (Cənub Afrika)
+vi: vyetnam
+vi_VN: vyetnam (Vyetnam)
+vun: vunyo
+vun_TZ: vunyo (Tanzaniya)
+wa: valun
+wa_BE: valun (Belçika)
+wae: valles
+wae_CH: valles (İsveçrə)
+wal: valamo
+wal_ET: valamo (Efiopiya)
+wo: volof
+wo_SN: volof (Seneqal)
+xh: xosa
+xh_ZA: xosa (Cənub Afrika)
+xog: soqa
+xog_UG: soqa (Uqanda)
+yav: yanqben
+yav_CM: yanqben (Kamerun)
+yi: idiş
+yi_001: idiş (Dünya)
+yo: yoruba
+yo_BJ: yoruba (Benin)
+yo_NG: yoruba (Nigeriya)
+yue: kanton
+yue_Hans: kanton (sadələşmiş)
+yue_Hans_CN: kanton (sadələşmiş, Çin)
+yue_Hant: kanton (ənənəvi)
+yue_Hant_HK: kanton (ənənəvi, Honq Konq)
+zgh: tamazi
+zgh_MA: tamazi (Mərakeş)
+zh: çin
+zh_Hans: sadələşmiş çin
+zh_Hans_CN: sadələşmiş çin (Çin)
+zh_Hans_HK: sadələşmiş çin (Honq Konq)
+zh_Hans_JP: sadələşmiş çin (Yaponiya)
+zh_Hans_MO: sadələşmiş çin (Makao)
+zh_Hans_SG: sadələşmiş çin (Sinqapur)
+zh_Hant: ənənəvi çin
+zh_Hant_CN: ənənəvi çin (Çin)
+zh_Hant_HK: ənənəvi çin (Honq Konq)
+zh_Hant_MO: ənənəvi çin (Makao)
+zh_Hant_TW: ənənəvi çin (Tayvan)
+zu: zulu
+zu_ZA: zulu (Cənub Afrika)

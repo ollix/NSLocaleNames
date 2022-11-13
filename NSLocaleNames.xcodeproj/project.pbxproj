@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		55EB293B2920A46200B71517 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB293A2920A46200B71517 /* main.m */; };
+		55EB29412920B06A00B71517 /* main.mm in Sources */ = {isa = PBXBuildFile; fileRef = 55EB293A2920A46200B71517 /* main.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		55EB29372920A46200B71517 /* NSLocaleNames */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NSLocaleNames; sourceTree = BUILT_PRODUCTS_DIR; };
-		55EB293A2920A46200B71517 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		55EB293A2920A46200B71517 /* main.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = main.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		55EB29392920A46200B71517 /* NSLocaleNames */ = {
 			isa = PBXGroup;
 			children = (
-				55EB293A2920A46200B71517 /* main.m */,
+				55EB293A2920A46200B71517 /* main.mm */,
 			);
 			path = NSLocaleNames;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55EB293B2920A46200B71517 /* main.m in Sources */,
+				55EB29412920B06A00B71517 /* main.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

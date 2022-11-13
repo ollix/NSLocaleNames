@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibië)
+af_ZA: Afrikaans (Zuid-Afrika)
+agq: Aghem
+agq_CM: Aghem (Kameroen)
+ain: Aino
+ain_JP: Aino (Japan)
+ak: Akan
+ak_GH: Akan (Ghana)
+am: Amhaars
+am_ET: Amhaars (Ethiopië)
+apw: Apache, West-
+apw_US: Apache, West- (Verenigde Staten)
+ar: Arabisch
+ar_001: Arabisch (wereld)
+ar_AE: Arabisch (Verenigde Arabische Emiraten)
+ar_BH: Arabisch (Bahrein)
+ar_DJ: Arabisch (Djibouti)
+ar_DZ: Arabisch (Algerije)
+ar_EG: Arabisch (Egypte)
+ar_EH: Arabisch (Westelijke Sahara)
+ar_ER: Arabisch (Eritrea)
+ar_IL: Arabisch (Israël)
+ar_IQ: Arabisch (Irak)
+ar_JO: Arabisch (Jordanië)
+ar_KM: Arabisch (Comoren)
+ar_KW: Arabisch (Koeweit)
+ar_LB: Arabisch (Libanon)
+ar_LY: Arabisch (Libië)
+ar_MA: Arabisch (Marokko)
+ar_MR: Arabisch (Mauritanië)
+ar_OM: Arabisch (Oman)
+ar_PS: Arabisch (Palestijnse gebieden)
+ar_QA: Arabisch (Qatar)
+ar_SA: Arabisch (Saoedi-Arabië)
+ar_SD: Arabisch (Soedan)
+ar_SO: Arabisch (Somalië)
+ar_SS: Arabisch (Zuid-Soedan)
+ar_SY: Arabisch (Syrië)
+ar_TD: Arabisch (Tsjaad)
+ar_TN: Arabisch (Tunesië)
+ar_YE: Arabisch (Jemen)
+arn: Mapudungun
+arn_CL: Mapudungun (Chili)
+as: Assamees
+as_IN: Assamees (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturisch
+ast_ES: Asturisch (Spanje)
+az: Azerbeidzjaans
+az_Cyrl: Azerbeidzjaans (Cyrillisch)
+az_Cyrl_AZ: Azerbeidzjaans (Cyrillisch, Azerbeidzjan)
+az_Latn: Azerbeidzjaans (Latijns)
+az_Latn_AZ: Azerbeidzjaans (Latijns, Azerbeidzjan)
+ba: Basjkiers
+ba_RU: Basjkiers (Rusland)
+bas: Basa
+bas_CM: Basa (Kameroen)
+be: Belarussisch
+be_BY: Belarussisch (Belarus)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Bulgaars
+bg_BG: Bulgaars (Bulgarije)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Bengaals
+bn_BD: Bengaals (Bangladesh)
+bn_IN: Bengaals (India)
+bo: Tibetaans
+bo_CN: Tibetaans (China, vasteland)
+bo_IN: Tibetaans (India)
+br: Bretons
+br_FR: Bretons (Frankrijk)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnisch
+bs_Cyrl: Bosnisch (Cyrillisch)
+bs_Cyrl_BA: Bosnisch (Cyrillisch, Bosnië en Herzegovina)
+bs_Latn: Bosnisch (Latijns)
+bs_Latn_BA: Bosnisch (Latijns, Bosnië en Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalaans
+ca_AD: Catalaans (Andorra)
+ca_ES: Catalaans (Spanje)
+ca_FR: Catalaans (Frankrijk)
+ca_IT: Catalaans (Italië)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Tsjetsjeens
+ce_RU: Tsjetsjeens (Rusland)
+ceb: Cebuano
+ceb_PH: Cebuano (Filipijnen)
+cgg: Chiga
+cgg_UG: Chiga (Oeganda)
+chr: Cherokee
+chr_US: Cherokee (Verenigde Staten)
+ckb: Koerdisch, Soranî
+ckb_IQ: Koerdisch, Soranî (Irak)
+ckb_IR: Koerdisch, Soranî (Iran)
+co: Corsicaans
+co_FR: Corsicaans (Frankrijk)
+cs: Tsjechisch
+cs_CZ: Tsjechisch (Tsjechië)
+cv: Tsjoevasjisch
+cv_RU: Tsjoevasjisch (Rusland)
+cy: Welsh
+cy_GB: Welsh (Verenigd Koninkrijk)
+da: Deens
+da_DK: Deens (Denemarken)
+da_GL: Deens (Groenland)
+dav: Taita
+dav_KE: Taita (Kenia)
+de: Duits
+de_AT: Duits (Oostenrijk)
+de_BE: Duits (België)
+de_CH: Duits (Zwitserland)
+de_DE: Duits (Duitsland)
+de_IT: Duits (Italië)
+de_LI: Duits (Liechtenstein)
+de_LU: Duits (Luxemburg)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Nedersorbisch
+dsb_DE: Nedersorbisch (Duitsland)
+dua: Duala
+dua_CM: Duala (Kameroen)
+dv: Divehi
+dv_MV: Divehi (Maldiven)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenia)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Grieks
+el_CY: Grieks (Cyprus)
+el_GR: Grieks (Griekenland)
+en: Engels
+en_001: Engels (wereld)
+en_150: Engels (Europa)
+en_AE: Engels (Verenigde Arabische Emiraten)
+en_AG: Engels (Antigua en Barbuda)
+en_AI: Engels (Anguilla)
+en_AL: Engels (Albanië)
+en_AR: Engels (Argentinië)
+en_AS: Engels (Amerikaans-Samoa)
+en_AT: Engels (Oostenrijk)
+en_AU: Engels (Australië)
+en_BB: Engels (Barbados)
+en_BD: Engels (Bangladesh)
+en_BE: Engels (België)
+en_BG: Engels (Bulgarije)
+en_BI: Engels (Burundi)
+en_BM: Engels (Bermuda)
+en_BN: Engels (Brunei)
+en_BR: Engels (Brazilië)
+en_BS: Engels (Bahama’s)
+en_BW: Engels (Botswana)
+en_BZ: Engels (Belize)
+en_CA: Engels (Canada)
+en_CC: Engels (Cocoseilanden)
+en_CH: Engels (Zwitserland)
+en_CK: Engels (Cookeilanden)
+en_CL: Engels (Chili)
+en_CM: Engels (Kameroen)
+en_CN: Engels (China, vasteland)
+en_CO: Engels (Colombia)
+en_CV: Engels (Kaapverdië)
+en_CX: Engels (Christmaseiland)
+en_CY: Engels (Cyprus)
+en_CZ: Engels (Tsjechië)
+en_DE: Engels (Duitsland)
+en_DG: Engels (Diego Garcia)
+en_DK: Engels (Denemarken)
+en_DM: Engels (Dominica)
+en_EE: Engels (Estland)
+en_ER: Engels (Eritrea)
+en_FI: Engels (Finland)
+en_FJ: Engels (Fiji)
+en_FK: Engels (Falklandeilanden)
+en_FM: Engels (Micronesia)
+en_FR: Engels (Frankrijk)
+en_GB: Engels (Verenigd Koninkrijk)
+en_GD: Engels (Grenada)
+en_GG: Engels (Guernsey)
+en_GH: Engels (Ghana)
+en_GI: Engels (Gibraltar)
+en_GM: Engels (Gambia)
+en_GR: Engels (Griekenland)
+en_GU: Engels (Guam)
+en_GY: Engels (Guyana)
+en_HK: Engels (Hongkong)
+en_HU: Engels (Hongarije)
+en_ID: Engels (Indonesië)
+en_IE: Engels (Ierland)
+en_IL: Engels (Israël)
+en_IM: Engels (Isle of Man)
+en_IN: Engels (India)
+en_IO: Engels (Chagosarchipel)
+en_JE: Engels (Jersey)
+en_JM: Engels (Jamaica)
+en_JP: Engels (Japan)
+en_KE: Engels (Kenia)
+en_KI: Engels (Kiribati)
+en_KN: Engels (Saint Kitts en Nevis)
+en_KR: Engels (Zuid-Korea)
+en_KY: Engels (Kaaimaneilanden)
+en_LC: Engels (Saint Lucia)
+en_LR: Engels (Liberia)
+en_LS: Engels (Lesotho)
+en_LT: Engels (Litouwen)
+en_LV: Engels (Letland)
+en_MG: Engels (Madagaskar)
+en_MH: Engels (Marshalleilanden)
+en_MM: Engels (Myanmar [Birma])
+en_MO: Engels (Macau)
+en_MP: Engels (Noordelijke Marianen)
+en_MS: Engels (Montserrat)
+en_MT: Engels (Malta)
+en_MU: Engels (Mauritius)
+en_MV: Engels (Maldiven)
+en_MW: Engels (Malawi)
+en_MX: Engels (Mexico)
+en_MY: Engels (Maleisië)
+en_NA: Engels (Namibië)
+en_NF: Engels (Norfolk)
+en_NG: Engels (Nigeria)
+en_NL: Engels (Nederland)
+en_NO: Engels (Noorwegen)
+en_NR: Engels (Nauru)
+en_NU: Engels (Niue)
+en_NZ: Engels (Nieuw-Zeeland)
+en_PG: Engels (Papoea-Nieuw-Guinea)
+en_PH: Engels (Filipijnen)
+en_PK: Engels (Pakistan)
+en_PL: Engels (Polen)
+en_PN: Engels (Pitcairneilanden)
+en_PR: Engels (Puerto Rico)
+en_PT: Engels (Portugal)
+en_PW: Engels (Palau)
+en_RU: Engels (Rusland)
+en_RW: Engels (Rwanda)
+en_SA: Engels (Saoedi-Arabië)
+en_SB: Engels (Salomonseilanden)
+en_SC: Engels (Seychellen)
+en_SD: Engels (Soedan)
+en_SE: Engels (Zweden)
+en_SG: Engels (Singapore)
+en_SH: Engels (Sint-Helena)
+en_SI: Engels (Slovenië)
+en_SK: Engels (Slowakije)
+en_SL: Engels (Sierra Leone)
+en_SS: Engels (Zuid-Soedan)
+en_SX: Engels (Sint-Maarten)
+en_SZ: Engels (Eswatini)
+en_TC: Engels (Turks- en Caicoseilanden)
+en_TH: Engels (Thailand)
+en_TK: Engels (Tokelau)
+en_TO: Engels (Tonga)
+en_TR: Engels (Turkije)
+en_TT: Engels (Trinidad en Tobago)
+en_TV: Engels (Tuvalu)
+en_TW: Engels (Taiwan)
+en_TZ: Engels (Tanzania)
+en_UA: Engels (Oekraïne)
+en_UG: Engels (Oeganda)
+en_UM: Engels (Kleine afgelegen eilanden van de Verenigde Staten)
+en_US: Engels (Verenigde Staten)
+en_US_POSIX: Engels (Verenigde Staten, Computer)
+en_VC: Engels (Saint Vincent en de Grenadines)
+en_VG: Engels (Britse Maagdeneilanden)
+en_VI: Engels (Amerikaanse Maagdeneilanden)
+en_VU: Engels (Vanuatu)
+en_WS: Engels (Samoa)
+en_ZA: Engels (Zuid-Afrika)
+en_ZM: Engels (Zambia)
+en_ZW: Engels (Zimbabwe)
+eo: Esperanto
+eo_001: Esperanto (wereld)
+es: Spaans
+es_003: Spaans (Noord-Amerika)
+es_419: Spaans (Latijns-Amerika)
+es_AG: Spaans (Antigua en Barbuda)
+es_AR: Spaans (Argentinië)
+es_BB: Spaans (Barbados)
+es_BM: Spaans (Bermuda)
+es_BO: Spaans (Bolivia)
+es_BQ: Spaans (Caribisch Nederland)
+es_BR: Spaans (Brazilië)
+es_BS: Spaans (Bahama’s)
+es_BZ: Spaans (Belize)
+es_CA: Spaans (Canada)
+es_CL: Spaans (Chili)
+es_CO: Spaans (Colombia)
+es_CR: Spaans (Costa Rica)
+es_CU: Spaans (Cuba)
+es_CW: Spaans (Curaçao)
+es_DM: Spaans (Dominica)
+es_DO: Spaans (Dominicaanse Republiek)
+es_EA: Spaans (Ceuta en Melilla)
+es_EC: Spaans (Ecuador)
+es_ES: Spaans (Spanje)
+es_GD: Spaans (Grenada)
+es_GQ: Spaans (Equatoriaal-Guinea)
+es_GT: Spaans (Guatemala)
+es_GY: Spaans (Guyana)
+es_HN: Spaans (Honduras)
+es_HT: Spaans (Haïti)
+es_IC: Spaans (Canarische Eilanden)
+es_KN: Spaans (Saint Kitts en Nevis)
+es_KY: Spaans (Kaaimaneilanden)
+es_LC: Spaans (Saint Lucia)
+es_MX: Spaans (Mexico)
+es_NI: Spaans (Nicaragua)
+es_PA: Spaans (Panama)
+es_PE: Spaans (Peru)
+es_PH: Spaans (Filipijnen)
+es_PR: Spaans (Puerto Rico)
+es_PY: Spaans (Paraguay)
+es_SV: Spaans (El Salvador)
+es_TC: Spaans (Turks- en Caicoseilanden)
+es_TT: Spaans (Trinidad en Tobago)
+es_US: Spaans (Verenigde Staten)
+es_UY: Spaans (Uruguay)
+es_VC: Spaans (Saint Vincent en de Grenadines)
+es_VE: Spaans (Venezuela)
+es_VG: Spaans (Britse Maagdeneilanden)
+es_VI: Spaans (Amerikaanse Maagdeneilanden)
+et: Estisch
+et_EE: Estisch (Estland)
+eu: Baskisch
+eu_ES: Baskisch (Spanje)
+ewo: Ewondo
+ewo_CM: Ewondo (Kameroen)
+fa: Perzisch
+fa_AF: Perzisch (Afghanistan)
+fa_IR: Perzisch (Iran)
+ff: Fulah
+ff_Adlm: Fulah (Adlam)
+ff_Adlm_BF: Fulah (Adlam, Burkina Faso)
+ff_Adlm_CM: Fulah (Adlam, Kameroen)
+ff_Adlm_GH: Fulah (Adlam, Ghana)
+ff_Adlm_GM: Fulah (Adlam, Gambia)
+ff_Adlm_GN: Fulah (Adlam, Guinee)
+ff_Adlm_GW: Fulah (Adlam, Guinee-Bissau)
+ff_Adlm_LR: Fulah (Adlam, Liberia)
+ff_Adlm_MR: Fulah (Adlam, Mauritanië)
+ff_Adlm_NE: Fulah (Adlam, Niger)
+ff_Adlm_NG: Fulah (Adlam, Nigeria)
+ff_Adlm_SL: Fulah (Adlam, Sierra Leone)
+ff_Adlm_SN: Fulah (Adlam, Senegal)
+ff_Latn: Fulah (Latijns)
+ff_Latn_BF: Fulah (Latijns, Burkina Faso)
+ff_Latn_CM: Fulah (Latijns, Kameroen)
+ff_Latn_GH: Fulah (Latijns, Ghana)
+ff_Latn_GM: Fulah (Latijns, Gambia)
+ff_Latn_GN: Fulah (Latijns, Guinee)
+ff_Latn_GW: Fulah (Latijns, Guinee-Bissau)
+ff_Latn_LR: Fulah (Latijns, Liberia)
+ff_Latn_MR: Fulah (Latijns, Mauritanië)
+ff_Latn_NE: Fulah (Latijns, Niger)
+ff_Latn_NG: Fulah (Latijns, Nigeria)
+ff_Latn_SL: Fulah (Latijns, Sierra Leone)
+ff_Latn_SN: Fulah (Latijns, Senegal)
+fi: Fins
+fi_FI: Fins (Finland)
+fil: Filipijns
+fil_PH: Filipijns (Filipijnen)
+fo: Faeröers
+fo_DK: Faeröers (Denemarken)
+fo_FO: Faeröers (Faeröer)
+fr: Frans
+fr_BE: Frans (België)
+fr_BF: Frans (Burkina Faso)
+fr_BI: Frans (Burundi)
+fr_BJ: Frans (Benin)
+fr_BL: Frans (Saint-Barthélemy)
+fr_CA: Frans (Canada)
+fr_CD: Frans (Congo-Kinshasa)
+fr_CF: Frans (Centraal-Afrikaanse Republiek)
+fr_CG: Frans (Congo-Brazzaville)
+fr_CH: Frans (Zwitserland)
+fr_CI: Frans (Côte d’Ivoire)
+fr_CM: Frans (Kameroen)
+fr_DJ: Frans (Djibouti)
+fr_DZ: Frans (Algerije)
+fr_FR: Frans (Frankrijk)
+fr_GA: Frans (Gabon)
+fr_GF: Frans (Frans-Guyana)
+fr_GN: Frans (Guinee)
+fr_GP: Frans (Guadeloupe)
+fr_GQ: Frans (Equatoriaal-Guinea)
+fr_HT: Frans (Haïti)
+fr_KM: Frans (Comoren)
+fr_LU: Frans (Luxemburg)
+fr_MA: Frans (Marokko)
+fr_MC: Frans (Monaco)
+fr_MF: Frans (Saint-Martin)
+fr_MG: Frans (Madagaskar)
+fr_ML: Frans (Mali)
+fr_MQ: Frans (Martinique)
+fr_MR: Frans (Mauritanië)
+fr_MU: Frans (Mauritius)
+fr_NC: Frans (Nieuw-Caledonië)
+fr_NE: Frans (Niger)
+fr_PF: Frans (Frans-Polynesië)
+fr_PM: Frans (Saint-Pierre en Miquelon)
+fr_RE: Frans (Réunion)
+fr_RW: Frans (Rwanda)
+fr_SC: Frans (Seychellen)
+fr_SN: Frans (Senegal)
+fr_SY: Frans (Syrië)
+fr_TD: Frans (Tsjaad)
+fr_TG: Frans (Togo)
+fr_TN: Frans (Tunesië)
+fr_VU: Frans (Vanuatu)
+fr_WF: Frans (Wallis en Futuna)
+fr_YT: Frans (Mayotte)
+fur: Friulisch
+fur_IT: Friulisch (Italië)
+fy: Fries
+fy_NL: Fries (Nederland)
+ga: Iers
+ga_GB: Iers (Verenigd Koninkrijk)
+ga_IE: Iers (Ierland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Schots-Gaelisch
+gd_GB: Schots-Gaelisch (Verenigd Koninkrijk)
+gez: Ge’ez
+gez_ER: Ge’ez (Eritrea)
+gez_ET: Ge’ez (Ethiopië)
+gl: Galicisch
+gl_ES: Galicisch (Spanje)
+gn: Guaraní
+gn_PY: Guaraní (Paraguay)
+gsw: Zwitserduits
+gsw_CH: Zwitserduits (Zwitserland)
+gsw_FR: Zwitserduits (Frankrijk)
+gsw_LI: Zwitserduits (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenia)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Hausa
+ha_GH: Hausa (Ghana)
+ha_NE: Hausa (Niger)
+ha_NG: Hausa (Nigeria)
+haw: Hawaïaans
+haw_US: Hawaïaans (Verenigde Staten)
+he: Hebreeuws
+he_IL: Hebreeuws (Israël)
+hi: Hindi
+hi_IN: Hindi (India)
+hi_Latn: Hindi (Latijns)
+hi_Latn_IN: Hindi (Latijns, India)
+hr: Kroatisch
+hr_BA: Kroatisch (Bosnië en Herzegovina)
+hr_HR: Kroatisch (Kroatië)
+hsb: Oppersorbisch
+hsb_DE: Oppersorbisch (Duitsland)
+hu: Hongaars
+hu_HU: Hongaars (Hongarije)
+hy: Armeens
+hy_AM: Armeens (Armenië)
+ia: Interlingua
+ia_001: Interlingua (wereld)
+id: Indonesisch
+id_ID: Indonesisch (Indonesië)
+ig: Igbo
+ig_NG: Igbo (Nigeria)
+ii: Yi
+ii_CN: Yi (China, vasteland)
+io: Ido
+io_001: Ido (wereld)
+is: IJslands
+is_IS: IJslands (IJsland)
+it: Italiaans
+it_CH: Italiaans (Zwitserland)
+it_IT: Italiaans (Italië)
+it_SM: Italiaans (San Marino)
+it_VA: Italiaans (Vaticaanstad)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Japans
+ja_JP: Japans (Japan)
+jbo: Lojban
+jbo_001: Lojban (wereld)
+jgo: Ngomba
+jgo_CM: Ngomba (Kameroen)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Javaans
+jv_ID: Javaans (Indonesië)
+ka: Georgisch
+ka_GE: Georgisch (Georgië)
+kab: Kabylisch
+kab_DZ: Kabylisch (Algerije)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenia)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kaapverdisch Creools
+kea_CV: Kaapverdisch Creools (Kaapverdië)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Gikuyu
+ki_KE: Gikuyu (Kenia)
+kk: Kazachs
+kk_KZ: Kazachs (Kazachstan)
+kkj: Kako
+kkj_CM: Kako (Kameroen)
+kl: Groenlands
+kl_GL: Groenlands (Groenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenia)
+km: Khmer
+km_KH: Khmer (Cambodja)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Koreaans
+ko_KP: Koreaans (Noord-Korea)
+ko_KR: Koreaans (Zuid-Korea)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinee)
+kpe_LR: Kpelle (Liberia)
+ks: Kasjmiri
+ks_Arab: Kasjmiri (Naskh)
+ks_Arab_IN: Kasjmiri (Naskh, India)
+ks_Aran_IN: Kasjmiri (Nastaliq, India)
+ks_Deva: Kasjmiri (Devanagari)
+ks_Deva_IN: Kasjmiri (Devanagari, India)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Kameroen)
+ksh: Kölsch
+ksh_DE: Kölsch (Duitsland)
+ku: Koerdisch
+ku_TR: Koerdisch (Turkije)
+kw: Cornish
+kw_GB: Cornish (Verenigd Koninkrijk)
+ky: Kirgizisch
+ky_KG: Kirgizisch (Kirgizië)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxemburgs
+lb_LU: Luxemburgs (Luxemburg)
+lg: Luganda
+lg_UG: Luganda (Oeganda)
+lkt: Lakota
+lkt_US: Lakota (Verenigde Staten)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo-Kinshasa)
+ln_CF: Lingala (Centraal-Afrikaanse Republiek)
+ln_CG: Lingala (Congo-Brazzaville)
+lo: Laotiaans
+lo_LA: Laotiaans (Laos)
+lrc: Noordelijk Luri
+lrc_IQ: Noordelijk Luri (Irak)
+lrc_IR: Noordelijk Luri (Iran)
+lt: Litouws
+lt_LT: Litouws (Litouwen)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo-Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenia)
+luy: Luyia
+luy_KE: Luyia (Kenia)
+lv: Lets
+lv_LV: Lets (Letland)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Maa
+mas_KE: Maa (Kenia)
+mas_TZ: Maa (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenia)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagassisch
+mg_MG: Malagassisch (Madagaskar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Meta’
+mgo_CM: Meta’ (Kameroen)
+mi: Maori
+mi_NZ: Maori (Nieuw-Zeeland)
+mk: Macedonisch
+mk_MK: Macedonisch (Noord-Macedonië)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongools
+mn_MN: Mongools (Mongolië)
+mni: Meitei
+mni_Beng: Meitei (Bengaals)
+mni_Beng_IN: Meitei (Bengaals, India)
+mni_Mtei: Meitei (Meitei)
+mni_Mtei_IN: Meitei (Meitei, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Maleis
+ms_Arab: Maleis (Arabisch)
+ms_Arab_BN: Maleis (Arabisch, Brunei)
+ms_Arab_MY: Maleis (Arabisch, Maleisië)
+ms_BN: Maleis (Brunei)
+ms_ID: Maleis (Indonesië)
+ms_MY: Maleis (Maleisië)
+ms_SG: Maleis (Singapore)
+mt: Maltees
+mt_MT: Maltees (Malta)
+mua: Mundang
+mua_CM: Mundang (Kameroen)
+my: Birmaans
+my_MM: Birmaans (Myanmar [Birma])
+myv: Erzja
+myv_RU: Erzja (Rusland)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibië)
+nb: Noors - Bokmål
+nb_NO: Noors - Bokmål (Noorwegen)
+nb_SJ: Noors - Bokmål (Spitsbergen en Jan Mayen)
+nd: Noord-Ndebele
+nd_ZW: Noord-Ndebele (Zimbabwe)
+nds: Nedersaksisch
+nds_DE: Nedersaksisch (Duitsland)
+nds_NL: Nedersaksisch (Nederland)
+ne: Nepalees
+ne_IN: Nepalees (India)
+ne_NP: Nepalees (Nepal)
+nl: Nederlands
+nl_AW: Nederlands (Aruba)
+nl_BE: Nederlands (België)
+nl_BQ: Nederlands (Caribisch Nederland)
+nl_CW: Nederlands (Curaçao)
+nl_NL: Nederlands (Nederland)
+nl_SR: Nederlands (Suriname)
+nl_SX: Nederlands (Sint-Maarten)
+nmg: Ngumba
+nmg_CM: Ngumba (Kameroen)
+nn: Noors - Nynorsk
+nn_NO: Noors - Nynorsk (Noorwegen)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Kameroen)
+no: Noors
+nqo: N’Ko
+nqo_GN: N’Ko (Guinee)
+nr: Zuid-Ndbele
+nr_ZA: Zuid-Ndbele (Zuid-Afrika)
+nso: Noord-Sotho
+nso_ZA: Noord-Sotho (Zuid-Afrika)
+nus: Nuer
+nus_SS: Nuer (Zuid-Soedan)
+nv: Navajo
+nv_US: Navajo (Verenigde Staten)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Oeganda)
+oc: Occitaans
+oc_FR: Occitaans (Frankrijk)
+om: Afaan Oromo
+om_ET: Afaan Oromo (Ethiopië)
+om_KE: Afaan Oromo (Kenia)
+or: Odia
+or_IN: Odia (India)
+os: Ossetisch
+os_GE: Ossetisch (Georgië)
+os_RU: Ossetisch (Rusland)
+pa: Punjabi
+pa_Arab: Punjabi (Naskh)
+pa_Arab_PK: Punjabi (Naskh, Pakistan)
+pa_Aran_PK: Punjabi (Nastaliq, Pakistan)
+pa_Guru: Punjabi (Gurmukhi)
+pa_Guru_IN: Punjabi (Gurmukhi, India)
+pcm: Nigeriaans Pidgin
+pcm_NG: Nigeriaans Pidgin (Nigeria)
+pl: Pools
+pl_PL: Pools (Polen)
+ps: Pasjtoe
+ps_AF: Pasjtoe (Afghanistan)
+ps_PK: Pasjtoe (Pakistan)
+pt: Portugees
+pt_AO: Portugees (Angola)
+pt_BR: Portugees (Brazilië)
+pt_CH: Portugees (Zwitserland)
+pt_CV: Portugees (Kaapverdië)
+pt_FR: Portugees (Frankrijk)
+pt_GQ: Portugees (Equatoriaal-Guinea)
+pt_GW: Portugees (Guinee-Bissau)
+pt_LU: Portugees (Luxemburg)
+pt_MO: Portugees (Macau)
+pt_MZ: Portugees (Mozambique)
+pt_PT: Portugees (Portugal)
+pt_ST: Portugees (Sao Tomé en Principe)
+pt_TL: Portugees (Oost-Timor)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi Rohingya)
+rhg_Rohg_BD: Rohingya (Hanifi Rohingya, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi Rohingya, Myanmar [Birma])
+rm: Reto-Romaans
+rm_CH: Reto-Romaans (Zwitserland)
+rn: Kirundi
+rn_BI: Kirundi (Burundi)
+ro: Roemeens
+ro_MD: Roemeens (Moldavië)
+ro_RO: Roemeens (Roemenië)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Russisch
+ru_BY: Russisch (Belarus)
+ru_KG: Russisch (Kirgizië)
+ru_KZ: Russisch (Kazachstan)
+ru_MD: Russisch (Moldavië)
+ru_RU: Russisch (Rusland)
+ru_UA: Russisch (Oekraïne)
+rw: Kinyarwanda
+rw_RW: Kinyarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskriet
+sa_IN: Sanskriet (India)
+sah: Jakoets
+sah_RU: Jakoets (Rusland)
+saq: Samburu
+saq_KE: Samburu (Kenia)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardijns
+sc_IT: Sardijns (Italië)
+scn: Siciliaans
+scn_IT: Siciliaans (Italië)
+sd: Sindhi
+sd_Arab: Sindhi (Arabisch)
+sd_Arab_PK: Sindhi (Arabisch, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Noord-Samisch
+se_FI: Noord-Samisch (Finland)
+se_NO: Noord-Samisch (Noorwegen)
+se_SE: Noord-Samisch (Zweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Centraal-Afrikaanse Republiek)
+shi: Tashelhiyt
+shi_Latn: Tashelhiyt (Latijns)
+shi_Latn_MA: Tashelhiyt (Latijns, Marokko)
+shi_Tfng: Tashelhiyt (Tifinagh)
+shi_Tfng_MA: Tashelhiyt (Tifinagh, Marokko)
+si: Singalees
+si_LK: Singalees (Sri Lanka)
+sk: Slowaaks
+sk_SK: Slowaaks (Slowakije)
+sl: Sloveens
+sl_SI: Sloveens (Slovenië)
+sm: Samoaans
+sm_AS: Samoaans (Amerikaans-Samoa)
+sm_WS: Samoaans (Samoa)
+smn: Inari-Samisch
+smn_FI: Inari-Samisch (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Somalisch
+so_DJ: Somalisch (Djibouti)
+so_ET: Somalisch (Ethiopië)
+so_KE: Somalisch (Kenia)
+so_SO: Somalisch (Somalië)
+sq: Albanees
+sq_AL: Albanees (Albanië)
+sq_MK: Albanees (Noord-Macedonië)
+sq_XK: Albanees (Kosovo)
+sr: Servisch
+sr_Cyrl: Servisch (Cyrillisch)
+sr_Cyrl_BA: Servisch (Cyrillisch, Bosnië en Herzegovina)
+sr_Cyrl_ME: Servisch (Cyrillisch, Montenegro)
+sr_Cyrl_RS: Servisch (Cyrillisch, Servië)
+sr_Cyrl_XK: Servisch (Cyrillisch, Kosovo)
+sr_Latn: Servisch (Latijns)
+sr_Latn_BA: Servisch (Latijns, Bosnië en Herzegovina)
+sr_Latn_ME: Servisch (Latijns, Montenegro)
+sr_Latn_RS: Servisch (Latijns, Servië)
+sr_Latn_XK: Servisch (Latijns, Kosovo)
+ss: Swazi
+ss_SZ: Swazi (Eswatini)
+ss_ZA: Swazi (Zuid-Afrika)
+st: Zuid-Sotho
+st_LS: Zuid-Sotho (Lesotho)
+st_ZA: Zuid-Sotho (Zuid-Afrika)
+su: Soendanees
+su_Latn: Soendanees (Latijns)
+su_Latn_ID: Soendanees (Latijns, Indonesië)
+sv: Zweeds
+sv_AX: Zweeds (Åland)
+sv_FI: Zweeds (Finland)
+sv_SE: Zweeds (Zweden)
+sw: Swahili
+sw_CD: Swahili (Congo-Kinshasa)
+sw_KE: Swahili (Kenia)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Oeganda)
+syr: Syrisch
+syr_IQ: Syrisch (Irak)
+syr_SY: Syrisch (Syrië)
+ta: Tamil
+ta_IN: Tamil (India)
+ta_LK: Tamil (Sri Lanka)
+ta_MY: Tamil (Maleisië)
+ta_SG: Tamil (Singapore)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenia)
+teo_UG: Teso (Oeganda)
+tg: Tadzjieks
+tg_TJ: Tadzjieks (Tadzjikistan)
+th: Thai
+th_TH: Thai (Thailand)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopië)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmeens
+tk_TM: Turkmeens (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (Zuid-Afrika)
+to: Tongaans
+to_TO: Tongaans (Tonga)
+tr: Turks
+tr_CY: Turks (Cyprus)
+tr_TR: Turks (Turkije)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (Zuid-Afrika)
+tt: Tataars
+tt_RU: Tataars (Rusland)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Tamazight (Centraal-Marokko)
+tzm_MA: Tamazight (Centraal-Marokko) (Marokko)
+ug: Oeigoers
+ug_CN: Oeigoers (China, vasteland)
+uk: Oekraïens
+uk_UA: Oekraïens (Oekraïne)
+ur: Urdu
+ur_Arab: Urdu (Naskh)
+ur_Arab_IN: Urdu (Naskh, India)
+ur_Arab_PK: Urdu (Naskh, Pakistan)
+ur_Aran_PK: Urdu (Nastaliq, Pakistan)
+uz: Oezbeeks
+uz_Arab: Oezbeeks (Arabisch)
+uz_Arab_AF: Oezbeeks (Arabisch, Afghanistan)
+uz_Cyrl: Oezbeeks (Cyrillisch)
+uz_Cyrl_UZ: Oezbeeks (Cyrillisch, Oezbekistan)
+uz_Latn: Oezbeeks (Latijns)
+uz_Latn_UZ: Oezbeeks (Latijns, Oezbekistan)
+vai: Vai
+vai_Latn: Vai (Latijns)
+vai_Latn_LR: Vai (Latijns, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (Zuid-Afrika)
+vi: Vietnamees
+vi_VN: Vietnamees (Vietnam)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Waals
+wa_BE: Waals (België)
+wae: Walser
+wae_CH: Walser (Zwitserland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopië)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (Zuid-Afrika)
+xog: Soga
+xog_UG: Soga (Oeganda)
+yav: Yangben
+yav_CM: Yangben (Kameroen)
+yi: Jiddisch
+yi_001: Jiddisch (wereld)
+yo: Yoruba
+yo_BJ: Yoruba (Benin)
+yo_NG: Yoruba (Nigeria)
+yue: Kantonees
+yue_Hans: Kantonees (vereenvoudigd)
+yue_Hans_CN: Kantonees (vereenvoudigd, China, vasteland)
+yue_Hant: Kantonees (traditioneel)
+yue_Hant_HK: Kantonees (traditioneel, Hongkong)
+zgh: Standaard Marokkaanse Tamazight
+zgh_MA: Standaard Marokkaanse Tamazight (Marokko)
+zh: Chinees
+zh_Hans: Chinees (vereenvoudigd)
+zh_Hans_CN: Chinees (vereenvoudigd, China, vasteland)
+zh_Hans_HK: Chinees (vereenvoudigd, Hongkong)
+zh_Hans_JP: Chinees (vereenvoudigd, Japan)
+zh_Hans_MO: Chinees (vereenvoudigd, Macau)
+zh_Hans_SG: Chinees (vereenvoudigd, Singapore)
+zh_Hant: Chinees (traditioneel)
+zh_Hant_CN: Chinees (traditioneel, China, vasteland)
+zh_Hant_HK: Chinees (traditioneel, Hongkong)
+zh_Hant_MO: Chinees (traditioneel, Macau)
+zh_Hant_TW: Chinees (traditioneel, Taiwan)
+zu: Zoeloe
+zu_ZA: Zoeloe (Zuid-Afrika)

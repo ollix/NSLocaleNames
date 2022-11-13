@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Akan
+ak_GH: Akan (Ghana)
+am: Amharic
+am_ET: Amharic (Ethiopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: عرب
+ar_001: عرب (دنيا)
+ar_AE: عرب (AE)
+ar_BH: عرب (BH)
+ar_DJ: عرب (DJ)
+ar_DZ: عرب (DZ)
+ar_EG: عرب (EG)
+ar_EH: عرب (EH)
+ar_ER: عرب (ER)
+ar_IL: عرب (IL)
+ar_IQ: عرب (IQ)
+ar_JO: عرب (JO)
+ar_KM: عرب (KM)
+ar_KW: عرب (KW)
+ar_LB: عرب (LB)
+ar_LY: عرب (LY)
+ar_MA: عرب (MA)
+ar_MR: عرب (MR)
+ar_OM: عرب (OM)
+ar_PS: عرب (PS)
+ar_QA: عرب (QA)
+ar_SA: عرب (عرب سعودي)
+ar_SD: عرب (SD)
+ar_SO: عرب (SO)
+ar_SS: عرب (SS)
+ar_SY: عرب (SY)
+ar_TD: عرب (TD)
+ar_TN: عرب (TN)
+ar_YE: عرب (YE)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Belarusian
+be_BY: Belarusian (Belarus)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Bulgarian
+bg_BG: Bulgarian (Bulgaria)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Bangla
+bn_BD: Bangla (Bangladesh)
+bn_IN: Bangla (India)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Czech
+cs_CZ: Czech (Czechia)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: جرمان
+de_AT: جرمان (AT)
+de_BE: جرمان (BE)
+de_CH: جرمان (CH)
+de_DE: جرمان (جرمان)
+de_IT: جرمان (إيطاليا)
+de_LI: جرمان (LI)
+de_LU: جرمان (LU)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Greek
+el_CY: Greek (Cyprus)
+el_GR: Greek (Greece)
+en: ايغضريس
+en_001: ايغضريس (دنيا)
+en_150: ايغضريس (150)
+en_AE: ايغضريس (AE)
+en_AG: ايغضريس (AG)
+en_AI: ايغضريس (AI)
+en_AL: ايغضريس (AL)
+en_AR: ايغضريس (AR)
+en_AS: ايغضريس (AS)
+en_AT: ايغضريس (AT)
+en_AU: ايغضريس (AU)
+en_BB: ايغضريس (BB)
+en_BD: ايغضريس (BD)
+en_BE: ايغضريس (BE)
+en_BG: ايغضريس (BG)
+en_BI: ايغضريس (BI)
+en_BM: ايغضريس (BM)
+en_BN: ايغضريس (بروني)
+en_BR: ايغضريس (البرازيل)
+en_BS: ايغضريس (BS)
+en_BW: ايغضريس (BW)
+en_BZ: ايغضريس (BZ)
+en_CA: ايغضريس (CA)
+en_CC: ايغضريس (CC)
+en_CH: ايغضريس (CH)
+en_CK: ايغضريس (CK)
+en_CL: ايغضريس (CL)
+en_CM: ايغضريس (CM)
+en_CN: ايغضريس (چينا)
+en_CO: ايغضريس (CO)
+en_CV: ايغضريس (CV)
+en_CX: ايغضريس (CX)
+en_CY: ايغضريس (CY)
+en_CZ: ايغضريس (CZ)
+en_DE: ايغضريس (جرمان)
+en_DG: ايغضريس (DG)
+en_DK: ايغضريس (DK)
+en_DM: ايغضريس (DM)
+en_EE: ايغضريس (EE)
+en_ER: ايغضريس (ER)
+en_FI: ايغضريس (FI)
+en_FJ: ايغضريس (FJ)
+en_FK: ايغضريس (FK)
+en_FM: ايغضريس (FM)
+en_FR: ايغضريس (ڤرنچيس)
+en_GB: ايغضريس (GB)
+en_GD: ايغضريس (GD)
+en_GG: ايغضريس (GG)
+en_GH: ايغضريس (GH)
+en_GI: ايغضريس (GI)
+en_GM: ايغضريس (GM)
+en_GR: ايغضريس (GR)
+en_GU: ايغضريس (GU)
+en_GY: ايغضريس (GY)
+en_HK: ايغضريس (HK)
+en_HU: ايغضريس (HU)
+en_ID: ايغضريس (إندونيسيا)
+en_IE: ايغضريس (IE)
+en_IL: ايغضريس (IL)
+en_IM: ايغضريس (IM)
+en_IN: ايغضريس (اينديا)
+en_IO: ايغضريس (IO)
+en_JE: ايغضريس (JE)
+en_JM: ايغضريس (JM)
+en_JP: ايغضريس (جڤون)
+en_KE: ايغضريس (KE)
+en_KI: ايغضريس (KI)
+en_KN: ايغضريس (KN)
+en_KR: ايغضريس (KR)
+en_KY: ايغضريس (KY)
+en_LC: ايغضريس (LC)
+en_LR: ايغضريس (LR)
+en_LS: ايغضريس (LS)
+en_LT: ايغضريس (LT)
+en_LV: ايغضريس (LV)
+en_MG: ايغضريس (MG)
+en_MH: ايغضريس (MH)
+en_MM: ايغضريس (MM)
+en_MO: ايغضريس (MO)
+en_MP: ايغضريس (MP)
+en_MS: ايغضريس (MS)
+en_MT: ايغضريس (MT)
+en_MU: ايغضريس (MU)
+en_MV: ايغضريس (MV)
+en_MW: ايغضريس (MW)
+en_MX: ايغضريس (MX)
+en_MY: ايغضريس (مليسيا)
+en_NA: ايغضريس (NA)
+en_NF: ايغضريس (NF)
+en_NG: ايغضريس (NG)
+en_NL: ايغضريس (NL)
+en_NO: ايغضريس (NO)
+en_NR: ايغضريس (NR)
+en_NU: ايغضريس (NU)
+en_NZ: ايغضريس (NZ)
+en_PG: ايغضريس (PG)
+en_PH: ايغضريس (PH)
+en_PK: ايغضريس (PK)
+en_PL: ايغضريس (PL)
+en_PN: ايغضريس (PN)
+en_PR: ايغضريس (PR)
+en_PT: ايغضريس (PT)
+en_PW: ايغضريس (PW)
+en_RU: ايغضريس (RU)
+en_RW: ايغضريس (RW)
+en_SA: ايغضريس (عرب سعودي)
+en_SB: ايغضريس (SB)
+en_SC: ايغضريس (SC)
+en_SD: ايغضريس (SD)
+en_SE: ايغضريس (SE)
+en_SG: ايغضريس (سيڠاڤورا)
+en_SH: ايغضريس (SH)
+en_SI: ايغضريس (SI)
+en_SK: ايغضريس (SK)
+en_SL: ايغضريس (SL)
+en_SS: ايغضريس (SS)
+en_SX: ايغضريس (SX)
+en_SZ: ايغضريس (SZ)
+en_TC: ايغضريس (TC)
+en_TH: ايغضريس (تايلان)
+en_TK: ايغضريس (TK)
+en_TO: ايغضريس (TO)
+en_TR: ايغضريس (TR)
+en_TT: ايغضريس (TT)
+en_TV: ايغضريس (TV)
+en_TW: ايغضريس (تايوان)
+en_TZ: ايغضريس (TZ)
+en_UA: ايغضريس (UA)
+en_UG: ايغضريس (UG)
+en_UM: ايغضريس (UM)
+en_US: ايغضريس (اميريک شريکت)
+en_US_POSIX: ايغضريس (اميريک شريکت، POSIX)
+en_VC: ايغضريس (VC)
+en_VG: ايغضريس (VG)
+en_VI: ايغضريس (VI)
+en_VU: ايغضريس (VU)
+en_WS: ايغضريس (WS)
+en_ZA: ايغضريس (ZA)
+en_ZM: ايغضريس (ZM)
+en_ZW: ايغضريس (ZW)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Spanish
+es_003: Spanish (North America)
+es_419: Spanish (Latin America)
+es_AG: Spanish (Antigua & Barbuda)
+es_AR: Spanish (Argentina)
+es_BB: Spanish (Barbados)
+es_BM: Spanish (Bermuda)
+es_BO: Spanish (Bolivia)
+es_BQ: Spanish (Caribbean Netherlands)
+es_BR: Spanish (Brazil)
+es_BS: Spanish (Bahamas)
+es_BZ: Spanish (Belize)
+es_CA: Spanish (Canada)
+es_CL: Spanish (Chile)
+es_CO: Spanish (Colombia)
+es_CR: Spanish (Costa Rica)
+es_CU: Spanish (Cuba)
+es_CW: Spanish (Curaçao)
+es_DM: Spanish (Dominica)
+es_DO: Spanish (Dominican Republic)
+es_EA: Spanish (Ceuta & Melilla)
+es_EC: Spanish (Ecuador)
+es_ES: Spanish (Spain)
+es_GD: Spanish (Grenada)
+es_GQ: Spanish (Equatorial Guinea)
+es_GT: Spanish (Guatemala)
+es_GY: Spanish (Guyana)
+es_HN: Spanish (Honduras)
+es_HT: Spanish (Haiti)
+es_IC: Spanish (Canary Islands)
+es_KN: Spanish (St. Kitts & Nevis)
+es_KY: Spanish (Cayman Islands)
+es_LC: Spanish (St. Lucia)
+es_MX: Spanish (Mexico)
+es_NI: Spanish (Nicaragua)
+es_PA: Spanish (Panama)
+es_PE: Spanish (Peru)
+es_PH: Spanish (Philippines)
+es_PR: Spanish (Puerto Rico)
+es_PY: Spanish (Paraguay)
+es_SV: Spanish (El Salvador)
+es_TC: Spanish (Turks & Caicos Islands)
+es_TT: Spanish (Trinidad & Tobago)
+es_US: Spanish (United States)
+es_UY: Spanish (Uruguay)
+es_VC: Spanish (St. Vincent & Grenadines)
+es_VE: Spanish (Venezuela)
+es_VG: Spanish (British Virgin Islands)
+es_VI: Spanish (U.S. Virgin Islands)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Persian
+fa_AF: Persian (Afghanistan)
+fa_IR: Persian (Iran)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: ڤرنچيس
+fr_BE: ڤرنچيس (BE)
+fr_BF: ڤرنچيس (BF)
+fr_BI: ڤرنچيس (BI)
+fr_BJ: ڤرنچيس (BJ)
+fr_BL: ڤرنچيس (BL)
+fr_CA: ڤرنچيس (CA)
+fr_CD: ڤرنچيس (CD)
+fr_CF: ڤرنچيس (CF)
+fr_CG: ڤرنچيس (CG)
+fr_CH: ڤرنچيس (CH)
+fr_CI: ڤرنچيس (CI)
+fr_CM: ڤرنچيس (CM)
+fr_DJ: ڤرنچيس (DJ)
+fr_DZ: ڤرنچيس (DZ)
+fr_FR: ڤرنچيس (ڤرنچيس)
+fr_GA: ڤرنچيس (GA)
+fr_GF: ڤرنچيس (GF)
+fr_GN: ڤرنچيس (GN)
+fr_GP: ڤرنچيس (GP)
+fr_GQ: ڤرنچيس (GQ)
+fr_HT: ڤرنچيس (HT)
+fr_KM: ڤرنچيس (KM)
+fr_LU: ڤرنچيس (LU)
+fr_MA: ڤرنچيس (MA)
+fr_MC: ڤرنچيس (MC)
+fr_MF: ڤرنچيس (MF)
+fr_MG: ڤرنچيس (MG)
+fr_ML: ڤرنچيس (ML)
+fr_MQ: ڤرنچيس (MQ)
+fr_MR: ڤرنچيس (MR)
+fr_MU: ڤرنچيس (MU)
+fr_NC: ڤرنچيس (NC)
+fr_NE: ڤرنچيس (NE)
+fr_PF: ڤرنچيس (PF)
+fr_PM: ڤرنچيس (PM)
+fr_RE: ڤرنچيس (RE)
+fr_RW: ڤرنچيس (RW)
+fr_SC: ڤرنچيس (SC)
+fr_SN: ڤرنچيس (SN)
+fr_SY: ڤرنچيس (SY)
+fr_TD: ڤرنچيس (TD)
+fr_TG: ڤرنچيس (TG)
+fr_TN: ڤرنچيس (TN)
+fr_VU: ڤرنچيس (VU)
+fr_WF: ڤرنچيس (WF)
+fr_YT: ڤرنچيس (YT)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Hausa
+ha_GH: Hausa (Ghana)
+ha_NE: Hausa (Niger)
+ha_NG: Hausa (Nigeria)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: هيندي
+hi_IN: هيندي (اينديا)
+hi_Latn: هيندي (لاتين)
+hi_Latn_IN: هيندي (لاتين، اينديا)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Hungarian
+hu_HU: Hungarian (Hungary)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: إندونيسيا
+id_ID: إندونيسيا (إندونيسيا)
+ig: Igbo
+ig_NG: Igbo (Nigeria)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: إيطاليا
+it_CH: إيطاليا (CH)
+it_IT: إيطاليا (إيطاليا)
+it_SM: إيطاليا (SM)
+it_VA: إيطاليا (VA)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: جڤون
+ja_JP: جڤون (جڤون)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: جاو
+jv_ID: جاو (إندونيسيا)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Khmer
+km_KH: Khmer (Cambodia)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Korean
+ko_KP: Korean (North Korea)
+ko_KR: Korean (South Korea)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (عرب)
+ks_Arab_IN: ks (عرب، اينديا)
+ks_Aran_IN: ks (Aran، اينديا)
+ks_Deva: ks (ديؤاناݢري)
+ks_Deva_IN: ks (ديؤاناݢري، اينديا)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: مالايالم
+ml_IN: مالايالم (اينديا)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: بهاس ملايو
+ms_Arab: بهاس ملايو (عرب)
+ms_Arab_BN: بهاس ملايو (عرب، بروني)
+ms_Arab_MY: بهاس ملايو (عرب، مليسيا)
+ms_BN: بهاس ملايو (بروني)
+ms_ID: بهاس ملايو (إندونيسيا)
+ms_MY: بهاس ملايو (مليسيا)
+ms_SG: بهاس ملايو (سيڠاڤورا)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Burmese
+my_MM: Burmese (Myanmar [Burma])
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Nepali
+ne_IN: Nepali (India)
+ne_NP: Nepali (Nepal)
+nl: بلندا
+nl_AW: بلندا (AW)
+nl_BE: بلندا (BE)
+nl_BQ: بلندا (BQ)
+nl_CW: بلندا (CW)
+nl_NL: بلندا (NL)
+nl_SR: بلندا (SR)
+nl_SX: بلندا (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Punjabi
+pa_Arab: pa (عرب)
+pa_Arab_PK: pa (عرب، PK)
+pa_Aran_PK: pa (Aran، PK)
+pa_Guru: pa (Guru)
+pa_Guru_IN: pa (Guru، اينديا)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: ڤولندا
+pl_PL: ڤولندا (PL)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: ڤورتوݢيس
+pt_AO: ڤورتوݢيس (AO)
+pt_BR: ڤورتوݢيس (البرازيل)
+pt_CH: ڤورتوݢيس (CH)
+pt_CV: ڤورتوݢيس (CV)
+pt_FR: ڤورتوݢيس (ڤرنچيس)
+pt_GQ: ڤورتوݢيس (GQ)
+pt_GW: ڤورتوݢيس (GW)
+pt_LU: ڤورتوݢيس (LU)
+pt_MO: ڤورتوݢيس (MO)
+pt_MZ: ڤورتوݢيس (MZ)
+pt_PT: ڤورتوݢيس (PT)
+pt_ST: ڤورتوݢيس (ST)
+pt_TL: ڤورتوݢيس (TL)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Romanian
+ro_MD: Romanian (Moldova)
+ro_RO: Romanian (Romania)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Russian
+ru_BY: Russian (Belarus)
+ru_KG: Russian (Kyrgyzstan)
+ru_KZ: Russian (Kazakhstan)
+ru_MD: Russian (Moldova)
+ru_RU: Russian (Russia)
+ru_UA: Russian (Ukraine)
+rw: Kinyarwanda
+rw_RW: Kinyarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Somali
+so_DJ: Somali (Djibouti)
+so_ET: Somali (Ethiopia)
+so_KE: Somali (Kenya)
+so_SO: Somali (Somalia)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Swedish
+sv_AX: Swedish (Åland Islands)
+sv_FI: Swedish (Finland)
+sv_SE: Swedish (Sweden)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: تاميل
+ta_IN: تاميل (اينديا)
+ta_LK: تاميل (LK)
+ta_MY: تاميل (مليسيا)
+ta_SG: تاميل (سيڠاڤورا)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Thai
+th_TH: Thai (Thailand)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: ترکيا
+tr_CY: ترکيا (CY)
+tr_TR: ترکيا (TR)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Ukrainian
+uk_UA: Ukrainian (Ukraine)
+ur: Urdu
+ur_Arab: ur (عرب)
+ur_Arab_IN: ur (عرب، اينديا)
+ur_Arab_PK: ur (عرب، PK)
+ur_Aran_PK: ur (Aran، PK)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Vietnamese
+vi_VN: Vietnamese (Vietnam)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Yoruba
+yo_BJ: Yoruba (Benin)
+yo_NG: Yoruba (Nigeria)
+yue: Cantonese
+yue_Hans: yue (ريڠکس)
+yue_Hans_CN: yue (ريڠکس، چينا)
+yue_Hant: yue (تراديسيونل)
+yue_Hant_HK: yue (تراديسيونل، HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: چينا
+zh_Hans: چينا ريڠکس
+zh_Hans_CN: چينا ريڠکس (چينا)
+zh_Hans_HK: چينا ريڠکس (HK)
+zh_Hans_JP: چينا ريڠکس (جڤون)
+zh_Hans_MO: چينا ريڠکس (MO)
+zh_Hans_SG: چينا ريڠکس (سيڠاڤورا)
+zh_Hant: چينا تراديسيونل
+zh_Hant_CN: چينا تراديسيونل (چينا)
+zh_Hant_HK: چينا تراديسيونل (HK)
+zh_Hant_MO: چينا تراديسيونل (MO)
+zh_Hant_TW: چينا تراديسيونل (تايوان)
+zu: Zulu
+zu_ZA: Zulu (South Africa)

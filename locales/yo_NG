@@ -1,0 +1,945 @@
+af: Èdè Afrikani
+af_NA: Èdè Afrikani (Namibia)
+af_ZA: Èdè Afrikani (Gúúṣù Áfíríkà)
+agq: Èdè Ágẹ̀ẹ̀mù
+agq_CM: Èdè Ágẹ̀ẹ̀mù (Kamerúúnì)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Èdè Akani
+ak_GH: Èdè Akani (Gana)
+am: Èdè Amariki
+am_ET: Èdè Amariki (Etopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Èdè Árábìkì
+ar_001: Èdè Árábìkì (Agbáyé)
+ar_AE: Èdè Árábìkì (Ẹmirate ti Awọn Arabu)
+ar_BH: Èdè Árábìkì (Báránì)
+ar_DJ: Èdè Árábìkì (Díbọ́ótì)
+ar_DZ: Èdè Árábìkì (Àlùgèríánì)
+ar_EG: Èdè Árábìkì (Égípítì)
+ar_EH: Èdè Árábìkì (Ìwọ̀òòrùn Sàhárà)
+ar_ER: Èdè Árábìkì (Eritira)
+ar_IL: Èdè Árábìkì (Iserẹli)
+ar_IQ: Èdè Árábìkì (Iraki)
+ar_JO: Èdè Árábìkì (Jọdani)
+ar_KM: Èdè Árábìkì (Kòmòrósì)
+ar_KW: Èdè Árábìkì (Kuweti)
+ar_LB: Èdè Árábìkì (Lebanoni)
+ar_LY: Èdè Árábìkì (Libiya)
+ar_MA: Èdè Árábìkì (Moroko)
+ar_MR: Èdè Árábìkì (Maritania)
+ar_OM: Èdè Árábìkì (Ọọma)
+ar_PS: Èdè Árábìkì (Agbègbè ara Palẹsítínì)
+ar_QA: Èdè Árábìkì (Kota)
+ar_SA: Èdè Árábìkì (Saudi Arabia)
+ar_SD: Èdè Árábìkì (Sudani)
+ar_SO: Èdè Árábìkì (Somalia)
+ar_SS: Èdè Árábìkì (Gúúsù Sudan)
+ar_SY: Èdè Árábìkì (Siria)
+ar_TD: Èdè Árábìkì (Ṣààdì)
+ar_TN: Èdè Árábìkì (Tuniṣia)
+ar_YE: Èdè Árábìkì (Yemeni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Èdè Ti Assam
+as_IN: Èdè Ti Assam (India)
+asa: Èdè Asu
+asa_TZ: Èdè Asu (Tàǹsáníà)
+ast: Èdè Asturian
+ast_ES: Èdè Asturian (Sipani)
+az: Èdè Azerbaijani
+az_Cyrl: Èdè Azerbaijani (èdè ilẹ̀ Rọ́ṣíà)
+az_Cyrl_AZ: Èdè Azerbaijani (èdè ilẹ̀ Rọ́ṣíà, Asẹ́bájánì)
+az_Latn: Èdè Azerbaijani (Èdè Látìn)
+az_Latn_AZ: Èdè Azerbaijani (Èdè Látìn, Asẹ́bájánì)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Èdè Basaa
+bas_CM: Èdè Basaa (Kamerúúnì)
+be: Èdè Belarusi
+be_BY: Èdè Belarusi (Bélárúsì)
+bem: Èdè Béḿbà
+bem_ZM: Èdè Béḿbà (Ṣamibia)
+bez: Èdè Bẹ́nà
+bez_TZ: Èdè Bẹ́nà (Tàǹsáníà)
+bg: Èdè Bugaria
+bg_BG: Èdè Bugaria (Bùùgáríà)
+bm: Èdè Báḿbàrà
+bm_ML: Èdè Báḿbàrà (Mali)
+bn: Èdè Bengali
+bn_BD: Èdè Bengali (Bángáládésì)
+bn_IN: Èdè Bengali (India)
+bo: Tibetán
+bo_CN: Tibetán (Ṣáínà)
+bo_IN: Tibetán (India)
+br: Èdè Bretoni
+br_FR: Èdè Bretoni (Faranse)
+brx: Èdè Bódò
+brx_IN: Èdè Bódò (India)
+bs: Èdè Bosnia
+bs_Cyrl: Èdè Bosnia (èdè ilẹ̀ Rọ́ṣíà)
+bs_Cyrl_BA: Èdè Bosnia (èdè ilẹ̀ Rọ́ṣíà, Bọ̀síníà àti Ẹtisẹgófínà)
+bs_Latn: Èdè Bosnia (Èdè Látìn)
+bs_Latn_BA: Èdè Bosnia (Èdè Látìn, Bọ̀síníà àti Ẹtisẹgófínà)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Èdè Catala
+ca_AD: Èdè Catala (Ààndórà)
+ca_ES: Èdè Catala (Sipani)
+ca_FR: Èdè Catala (Faranse)
+ca_IT: Èdè Catala (Itáli)
+ccp: Èdè Chakma
+ccp_BD: Èdè Chakma (Bángáládésì)
+ccp_IN: Èdè Chakma (India)
+ce: Èdè Chechen
+ce_RU: Èdè Chechen (Rọṣia)
+ceb: Èdè Cebuano
+ceb_PH: Èdè Cebuano (Filipini)
+cgg: Èdè Chiga
+cgg_UG: Èdè Chiga (Uganda)
+chr: Èdè Shẹ́rókiì
+chr_US: Èdè Shẹ́rókiì (Amẹrikà)
+ckb: Ààrin Gbùngbùn Kurdish
+ckb_IQ: Ààrin Gbùngbùn Kurdish (Iraki)
+ckb_IR: Ààrin Gbùngbùn Kurdish (Irani)
+co: Èdè Corsican
+co_FR: Èdè Corsican (Faranse)
+cs: Èdè Seeki
+cs_CZ: Èdè Seeki (Ṣẹ́ẹ́kì)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Èdè Welshi
+cy_GB: Èdè Welshi (Gẹ̀ẹ́sì)
+da: Èdè Ilẹ̀ Denmark
+da_DK: Èdè Ilẹ̀ Denmark (Dẹ́mákì)
+da_GL: Èdè Ilẹ̀ Denmark (Gerelandi)
+dav: Táítà
+dav_KE: Táítà (Kenya)
+de: Èdè Jámánì
+de_AT: Èdè Jámánì (Asítíríà)
+de_BE: Èdè Jámánì (Bégíọ́mù)
+de_CH: Èdè Jámánì (switiṣilandi)
+de_DE: Èdè Jámánì (Jámánì)
+de_IT: Èdè Jámánì (Itáli)
+de_LI: Èdè Jámánì (Lẹṣitẹnisiteni)
+de_LU: Èdè Jámánì (Lusemogi)
+dje: Ṣárúmà
+dje_NE: Ṣárúmà (Nàìjá)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Ṣóbíánù Apá Ìṣàlẹ̀
+dsb_DE: Ṣóbíánù Apá Ìṣàlẹ̀ (Jámánì)
+dua: Èdè Duala
+dua_CM: Èdè Duala (Kamerúúnì)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Sẹnẹga)
+dz: Èdè Dzongkha
+dz_BT: Èdè Dzongkha (Bútánì)
+ebu: Èdè Ẹmbù
+ebu_KE: Èdè Ẹmbù (Kenya)
+ee: Èdè Ewè
+ee_GH: Èdè Ewè (Gana)
+ee_TG: Èdè Ewè (Togo)
+el: Èdè Giriki
+el_CY: Èdè Giriki (Kúrúsì)
+el_GR: Èdè Giriki (Geriisi)
+en: Èdè Gẹ̀ẹ́sì
+en_001: Èdè Gẹ̀ẹ́sì (Agbáyé)
+en_150: Èdè Gẹ̀ẹ́sì (Yúróòpù)
+en_AE: Èdè Gẹ̀ẹ́sì (Ẹmirate ti Awọn Arabu)
+en_AG: Èdè Gẹ̀ẹ́sì (Ààntígúà àti Báríbúdà)
+en_AI: Èdè Gẹ̀ẹ́sì (Ààngúlílà)
+en_AL: Èdè Gẹ̀ẹ́sì (Àlùbàníánì)
+en_AR: Èdè Gẹ̀ẹ́sì (Agentínà)
+en_AS: Èdè Gẹ̀ẹ́sì (Sámóánì ti Orílẹ́ède Àméríkà)
+en_AT: Èdè Gẹ̀ẹ́sì (Asítíríà)
+en_AU: Èdè Gẹ̀ẹ́sì (Ástràlìá)
+en_BB: Èdè Gẹ̀ẹ́sì (Bábádósì)
+en_BD: Èdè Gẹ̀ẹ́sì (Bángáládésì)
+en_BE: Èdè Gẹ̀ẹ́sì (Bégíọ́mù)
+en_BG: Èdè Gẹ̀ẹ́sì (Bùùgáríà)
+en_BI: Èdè Gẹ̀ẹ́sì (Bùùrúndì)
+en_BM: Èdè Gẹ̀ẹ́sì (Bémúdà)
+en_BN: Èdè Gẹ̀ẹ́sì (Búrúnẹ́lì)
+en_BR: Èdè Gẹ̀ẹ́sì (Bàràsílì)
+en_BS: Èdè Gẹ̀ẹ́sì (Bàhámásì)
+en_BW: Èdè Gẹ̀ẹ́sì (Bọ̀tìsúwánà)
+en_BZ: Èdè Gẹ̀ẹ́sì (Bèlísẹ̀)
+en_CA: Èdè Gẹ̀ẹ́sì (Kánádà)
+en_CC: Èdè Gẹ̀ẹ́sì (Erékùsù Cocos [Keeling])
+en_CH: Èdè Gẹ̀ẹ́sì (switiṣilandi)
+en_CK: Èdè Gẹ̀ẹ́sì (Etíokun Kùúkù)
+en_CL: Èdè Gẹ̀ẹ́sì (Ṣílè)
+en_CM: Èdè Gẹ̀ẹ́sì (Kamerúúnì)
+en_CN: Èdè Gẹ̀ẹ́sì (Ṣáínà)
+en_CO: Èdè Gẹ̀ẹ́sì (Kòlómíbìa)
+en_CV: Èdè Gẹ̀ẹ́sì (Etíokun Kápé féndè)
+en_CX: Èdè Gẹ̀ẹ́sì (Erékùsù Christmas)
+en_CY: Èdè Gẹ̀ẹ́sì (Kúrúsì)
+en_CZ: Èdè Gẹ̀ẹ́sì (Ṣẹ́ẹ́kì)
+en_DE: Èdè Gẹ̀ẹ́sì (Jámánì)
+en_DG: Èdè Gẹ̀ẹ́sì (Diego Gaṣia)
+en_DK: Èdè Gẹ̀ẹ́sì (Dẹ́mákì)
+en_DM: Èdè Gẹ̀ẹ́sì (Dòmíníkà)
+en_EE: Èdè Gẹ̀ẹ́sì (Esitonia)
+en_ER: Èdè Gẹ̀ẹ́sì (Eritira)
+en_FI: Èdè Gẹ̀ẹ́sì (Filandi)
+en_FJ: Èdè Gẹ̀ẹ́sì (Fiji)
+en_FK: Èdè Gẹ̀ẹ́sì (Etikun Fakalandi)
+en_FM: Èdè Gẹ̀ẹ́sì (Makoronesia)
+en_FR: Èdè Gẹ̀ẹ́sì (Faranse)
+en_GB: Èdè Gẹ̀ẹ́sì (Gẹ̀ẹ́sì)
+en_GD: Èdè Gẹ̀ẹ́sì (Genada)
+en_GG: Èdè Gẹ̀ẹ́sì (Guernsey)
+en_GH: Èdè Gẹ̀ẹ́sì (Gana)
+en_GI: Èdè Gẹ̀ẹ́sì (Gibaratara)
+en_GM: Èdè Gẹ̀ẹ́sì (Gambia)
+en_GR: Èdè Gẹ̀ẹ́sì (Geriisi)
+en_GU: Èdè Gẹ̀ẹ́sì (Guamu)
+en_GY: Èdè Gẹ̀ẹ́sì (Guyana)
+en_HK: Èdè Gẹ̀ẹ́sì (Hong Kong)
+en_HU: Èdè Gẹ̀ẹ́sì (Hungari)
+en_ID: Èdè Gẹ̀ẹ́sì (Indonesia)
+en_IE: Èdè Gẹ̀ẹ́sì (Ailandi)
+en_IL: Èdè Gẹ̀ẹ́sì (Iserẹli)
+en_IM: Èdè Gẹ̀ẹ́sì (Isle of Man)
+en_IN: Èdè Gẹ̀ẹ́sì (India)
+en_IO: Èdè Gẹ̀ẹ́sì (Etíkun Índíánì ti Ìlú Bírítísì)
+en_JE: Èdè Gẹ̀ẹ́sì (Jersey)
+en_JM: Èdè Gẹ̀ẹ́sì (Jamaika)
+en_JP: Èdè Gẹ̀ẹ́sì (Japani)
+en_KE: Èdè Gẹ̀ẹ́sì (Kenya)
+en_KI: Èdè Gẹ̀ẹ́sì (Kiribati)
+en_KN: Èdè Gẹ̀ẹ́sì (Kiiti ati Neefi)
+en_KR: Èdè Gẹ̀ẹ́sì (Ariwa Kọria)
+en_KY: Èdè Gẹ̀ẹ́sì (Etíokun Kámánì)
+en_LC: Èdè Gẹ̀ẹ́sì (Luṣia)
+en_LR: Èdè Gẹ̀ẹ́sì (Laberia)
+en_LS: Èdè Gẹ̀ẹ́sì (Lesoto)
+en_LT: Èdè Gẹ̀ẹ́sì (Lituania)
+en_LV: Èdè Gẹ̀ẹ́sì (Latifia)
+en_MG: Èdè Gẹ̀ẹ́sì (Madasika)
+en_MH: Èdè Gẹ̀ẹ́sì (Etikun Máṣali)
+en_MM: Èdè Gẹ̀ẹ́sì (Manamari)
+en_MO: Èdè Gẹ̀ẹ́sì (Màkáò)
+en_MP: Èdè Gẹ̀ẹ́sì (Etikun Guusu Mariana)
+en_MS: Èdè Gẹ̀ẹ́sì (Motserati)
+en_MT: Èdè Gẹ̀ẹ́sì (Malata)
+en_MU: Èdè Gẹ̀ẹ́sì (Maritiusi)
+en_MV: Èdè Gẹ̀ẹ́sì (Maladifi)
+en_MW: Èdè Gẹ̀ẹ́sì (Malawi)
+en_MX: Èdè Gẹ̀ẹ́sì (Mesiko)
+en_MY: Èdè Gẹ̀ẹ́sì (Malasia)
+en_NA: Èdè Gẹ̀ẹ́sì (Namibia)
+en_NF: Èdè Gẹ̀ẹ́sì (Etikun Nọ́úfókì)
+en_NG: Èdè Gẹ̀ẹ́sì (Nàìjíríà)
+en_NL: Èdè Gẹ̀ẹ́sì (Nedalandi)
+en_NO: Èdè Gẹ̀ẹ́sì (Nọọwii)
+en_NR: Èdè Gẹ̀ẹ́sì (Nauru)
+en_NU: Èdè Gẹ̀ẹ́sì (Niue)
+en_NZ: Èdè Gẹ̀ẹ́sì (Ṣilandi Titun)
+en_PG: Èdè Gẹ̀ẹ́sì (Paapu ti Giini)
+en_PH: Èdè Gẹ̀ẹ́sì (Filipini)
+en_PK: Èdè Gẹ̀ẹ́sì (Pakisitan)
+en_PL: Èdè Gẹ̀ẹ́sì (Polandi)
+en_PN: Èdè Gẹ̀ẹ́sì (Pikarini)
+en_PR: Èdè Gẹ̀ẹ́sì (Pọto Riko)
+en_PT: Èdè Gẹ̀ẹ́sì (Pọ́túgà)
+en_PW: Èdè Gẹ̀ẹ́sì (Paalu)
+en_RU: Èdè Gẹ̀ẹ́sì (Rọṣia)
+en_RW: Èdè Gẹ̀ẹ́sì (Ruwanda)
+en_SA: Èdè Gẹ̀ẹ́sì (Saudi Arabia)
+en_SB: Èdè Gẹ̀ẹ́sì (Etikun Solomoni)
+en_SC: Èdè Gẹ̀ẹ́sì (Ṣeṣẹlẹsi)
+en_SD: Èdè Gẹ̀ẹ́sì (Sudani)
+en_SE: Èdè Gẹ̀ẹ́sì (Swidini)
+en_SG: Èdè Gẹ̀ẹ́sì (Singapo)
+en_SH: Èdè Gẹ̀ẹ́sì (Hẹlena)
+en_SI: Èdè Gẹ̀ẹ́sì (Silofania)
+en_SK: Èdè Gẹ̀ẹ́sì (Silofakia)
+en_SL: Èdè Gẹ̀ẹ́sì (Siria looni)
+en_SS: Èdè Gẹ̀ẹ́sì (Gúúsù Sudan)
+en_SX: Èdè Gẹ̀ẹ́sì (Síntì Mátẹ́ẹ̀nì)
+en_SZ: Èdè Gẹ̀ẹ́sì (Saṣiland)
+en_TC: Èdè Gẹ̀ẹ́sì (Tọọki ati Etikun Kakọsi)
+en_TH: Èdè Gẹ̀ẹ́sì (Tailandi)
+en_TK: Èdè Gẹ̀ẹ́sì (Tokelau)
+en_TO: Èdè Gẹ̀ẹ́sì (Tonga)
+en_TR: Èdè Gẹ̀ẹ́sì (Tọọki)
+en_TT: Èdè Gẹ̀ẹ́sì (Tirinida ati Tobaga)
+en_TV: Èdè Gẹ̀ẹ́sì (Tufalu)
+en_TW: Èdè Gẹ̀ẹ́sì (Taiwani)
+en_TZ: Èdè Gẹ̀ẹ́sì (Tàǹsáníà)
+en_UA: Èdè Gẹ̀ẹ́sì (Ukarini)
+en_UG: Èdè Gẹ̀ẹ́sì (Uganda)
+en_UM: Èdè Gẹ̀ẹ́sì (Àwọn Erékùsù Kékèké Agbègbè US)
+en_US: Èdè Gẹ̀ẹ́sì (Amẹrikà)
+en_US_POSIX: Èdè Gẹ̀ẹ́sì (Amẹrikà, POSIX)
+en_VC: Èdè Gẹ̀ẹ́sì (Fisẹnnti ati Genadina)
+en_VG: Èdè Gẹ̀ẹ́sì (Etíkun Fágínì ti ìlú Bírítísì)
+en_VI: Èdè Gẹ̀ẹ́sì (Etikun Fagini ti Amẹrika)
+en_VU: Èdè Gẹ̀ẹ́sì (Faniatu)
+en_WS: Èdè Gẹ̀ẹ́sì (Samọ)
+en_ZA: Èdè Gẹ̀ẹ́sì (Gúúṣù Áfíríkà)
+en_ZM: Èdè Gẹ̀ẹ́sì (Ṣamibia)
+en_ZW: Èdè Gẹ̀ẹ́sì (Ṣimibabe)
+eo: Èdè Esperanto
+eo_001: Èdè Esperanto (Agbáyé)
+es: Èdè Sípáníìṣì
+es_003: Èdè Sípáníìṣì (Àríwá Amẹ́ríkà)
+es_419: Èdè Sípáníìṣì (Látín Amẹ́ríkà)
+es_AG: Èdè Sípáníìṣì (Ààntígúà àti Báríbúdà)
+es_AR: Èdè Sípáníìṣì (Agentínà)
+es_BB: Èdè Sípáníìṣì (Bábádósì)
+es_BM: Èdè Sípáníìṣì (Bémúdà)
+es_BO: Èdè Sípáníìṣì (Bọ̀lífíyà)
+es_BQ: Èdè Sípáníìṣì (Káríbíánì ti Nẹ́dálándì)
+es_BR: Èdè Sípáníìṣì (Bàràsílì)
+es_BS: Èdè Sípáníìṣì (Bàhámásì)
+es_BZ: Èdè Sípáníìṣì (Bèlísẹ̀)
+es_CA: Èdè Sípáníìṣì (Kánádà)
+es_CL: Èdè Sípáníìṣì (Ṣílè)
+es_CO: Èdè Sípáníìṣì (Kòlómíbìa)
+es_CR: Èdè Sípáníìṣì (Kuusita Ríkà)
+es_CU: Èdè Sípáníìṣì (Kúbà)
+es_CW: Èdè Sípáníìṣì (Kúrásáò)
+es_DM: Èdè Sípáníìṣì (Dòmíníkà)
+es_DO: Èdè Sípáníìṣì (Dòmíníkánì)
+es_EA: Èdè Sípáníìṣì (Seuta àti Melilla)
+es_EC: Èdè Sípáníìṣì (Ekuádò)
+es_ES: Èdè Sípáníìṣì (Sipani)
+es_GD: Èdè Sípáníìṣì (Genada)
+es_GQ: Èdè Sípáníìṣì (Ekutoria Gini)
+es_GT: Èdè Sípáníìṣì (Guatemala)
+es_GY: Èdè Sípáníìṣì (Guyana)
+es_HN: Èdè Sípáníìṣì (Hondurasi)
+es_HT: Èdè Sípáníìṣì (Haati)
+es_IC: Èdè Sípáníìṣì (Ẹrékùsù Kánárì)
+es_KN: Èdè Sípáníìṣì (Kiiti ati Neefi)
+es_KY: Èdè Sípáníìṣì (Etíokun Kámánì)
+es_LC: Èdè Sípáníìṣì (Luṣia)
+es_MX: Èdè Sípáníìṣì (Mesiko)
+es_NI: Èdè Sípáníìṣì (Nikaragua)
+es_PA: Èdè Sípáníìṣì (Panama)
+es_PE: Èdè Sípáníìṣì (Peru)
+es_PH: Èdè Sípáníìṣì (Filipini)
+es_PR: Èdè Sípáníìṣì (Pọto Riko)
+es_PY: Èdè Sípáníìṣì (Paraguye)
+es_SV: Èdè Sípáníìṣì (Ẹẹsáfádò)
+es_TC: Èdè Sípáníìṣì (Tọọki ati Etikun Kakọsi)
+es_TT: Èdè Sípáníìṣì (Tirinida ati Tobaga)
+es_US: Èdè Sípáníìṣì (Amẹrikà)
+es_UY: Èdè Sípáníìṣì (Nruguayi)
+es_VC: Èdè Sípáníìṣì (Fisẹnnti ati Genadina)
+es_VE: Èdè Sípáníìṣì (Fẹnẹṣuẹla)
+es_VG: Èdè Sípáníìṣì (Etíkun Fágínì ti ìlú Bírítísì)
+es_VI: Èdè Sípáníìṣì (Etikun Fagini ti Amẹrika)
+et: Èdè Estonia
+et_EE: Èdè Estonia (Esitonia)
+eu: Èdè Baski
+eu_ES: Èdè Baski (Sipani)
+ewo: Èdè Èwóǹdò
+ewo_CM: Èdè Èwóǹdò (Kamerúúnì)
+fa: Èdè Pasia
+fa_AF: Èdè Pasia (Àfùgànístánì)
+fa_IR: Èdè Pasia (Irani)
+ff: Èdè Fúlàní
+ff_Adlm: Èdè Fúlàní (Adlm)
+ff_Adlm_BF: Èdè Fúlàní (Adlm, Bùùkíná Fasò)
+ff_Adlm_CM: Èdè Fúlàní (Adlm, Kamerúúnì)
+ff_Adlm_GH: Èdè Fúlàní (Adlm, Gana)
+ff_Adlm_GM: Èdè Fúlàní (Adlm, Gambia)
+ff_Adlm_GN: Èdè Fúlàní (Adlm, Gene)
+ff_Adlm_GW: Èdè Fúlàní (Adlm, Gene-Busau)
+ff_Adlm_LR: Èdè Fúlàní (Adlm, Laberia)
+ff_Adlm_MR: Èdè Fúlàní (Adlm, Maritania)
+ff_Adlm_NE: Èdè Fúlàní (Adlm, Nàìjá)
+ff_Adlm_NG: Èdè Fúlàní (Adlm, Nàìjíríà)
+ff_Adlm_SL: Èdè Fúlàní (Adlm, Siria looni)
+ff_Adlm_SN: Èdè Fúlàní (Adlm, Sẹnẹga)
+ff_Latn: Èdè Fúlàní (Èdè Látìn)
+ff_Latn_BF: Èdè Fúlàní (Èdè Látìn, Bùùkíná Fasò)
+ff_Latn_CM: Èdè Fúlàní (Èdè Látìn, Kamerúúnì)
+ff_Latn_GH: Èdè Fúlàní (Èdè Látìn, Gana)
+ff_Latn_GM: Èdè Fúlàní (Èdè Látìn, Gambia)
+ff_Latn_GN: Èdè Fúlàní (Èdè Látìn, Gene)
+ff_Latn_GW: Èdè Fúlàní (Èdè Látìn, Gene-Busau)
+ff_Latn_LR: Èdè Fúlàní (Èdè Látìn, Laberia)
+ff_Latn_MR: Èdè Fúlàní (Èdè Látìn, Maritania)
+ff_Latn_NE: Èdè Fúlàní (Èdè Látìn, Nàìjá)
+ff_Latn_NG: Èdè Fúlàní (Èdè Látìn, Nàìjíríà)
+ff_Latn_SL: Èdè Fúlàní (Èdè Látìn, Siria looni)
+ff_Latn_SN: Èdè Fúlàní (Èdè Látìn, Sẹnẹga)
+fi: Èdè Finisi
+fi_FI: Èdè Finisi (Filandi)
+fil: Èdè Filipino
+fil_PH: Èdè Filipino (Filipini)
+fo: Èdè Faroesi
+fo_DK: Èdè Faroesi (Dẹ́mákì)
+fo_FO: Èdè Faroesi (Àwọn Erékùsù ti Faroe)
+fr: Èdè Faransé
+fr_BE: Èdè Faransé (Bégíọ́mù)
+fr_BF: Èdè Faransé (Bùùkíná Fasò)
+fr_BI: Èdè Faransé (Bùùrúndì)
+fr_BJ: Èdè Faransé (Bẹ̀nẹ̀)
+fr_BL: Èdè Faransé (Ìlú Bátílẹ́mì)
+fr_CA: Èdè Faransé (Kánádà)
+fr_CD: Èdè Faransé (Kóńgò – Kinshasa)
+fr_CF: Èdè Faransé (Àrin gùngun Áfíríkà)
+fr_CG: Èdè Faransé (Kóńgò – Brazaville)
+fr_CH: Èdè Faransé (switiṣilandi)
+fr_CI: Èdè Faransé (Kóútè forà)
+fr_CM: Èdè Faransé (Kamerúúnì)
+fr_DJ: Èdè Faransé (Díbọ́ótì)
+fr_DZ: Èdè Faransé (Àlùgèríánì)
+fr_FR: Èdè Faransé (Faranse)
+fr_GA: Èdè Faransé (Gabon)
+fr_GF: Èdè Faransé (Firenṣi Guana)
+fr_GN: Èdè Faransé (Gene)
+fr_GP: Èdè Faransé (Gadelope)
+fr_GQ: Èdè Faransé (Ekutoria Gini)
+fr_HT: Èdè Faransé (Haati)
+fr_KM: Èdè Faransé (Kòmòrósì)
+fr_LU: Èdè Faransé (Lusemogi)
+fr_MA: Èdè Faransé (Moroko)
+fr_MC: Èdè Faransé (Monako)
+fr_MF: Èdè Faransé (Ìlú Mátíìnì)
+fr_MG: Èdè Faransé (Madasika)
+fr_ML: Èdè Faransé (Mali)
+fr_MQ: Èdè Faransé (Matinikuwi)
+fr_MR: Èdè Faransé (Maritania)
+fr_MU: Èdè Faransé (Maritiusi)
+fr_NC: Èdè Faransé (Kaledonia Titun)
+fr_NE: Èdè Faransé (Nàìjá)
+fr_PF: Èdè Faransé (Firenṣi Polinesia)
+fr_PM: Èdè Faransé (Pẹẹri ati mikuloni)
+fr_RE: Èdè Faransé (Riuniyan)
+fr_RW: Èdè Faransé (Ruwanda)
+fr_SC: Èdè Faransé (Ṣeṣẹlẹsi)
+fr_SN: Èdè Faransé (Sẹnẹga)
+fr_SY: Èdè Faransé (Siria)
+fr_TD: Èdè Faransé (Ṣààdì)
+fr_TG: Èdè Faransé (Togo)
+fr_TN: Èdè Faransé (Tuniṣia)
+fr_VU: Èdè Faransé (Faniatu)
+fr_WF: Èdè Faransé (Wali ati futuna)
+fr_YT: Èdè Faransé (Mayote)
+fur: Firiúlíànì
+fur_IT: Firiúlíànì (Itáli)
+fy: Èdè Frisia
+fy_NL: Èdè Frisia (Nedalandi)
+ga: Èdè Ireland
+ga_GB: Èdè Ireland (Gẹ̀ẹ́sì)
+ga_IE: Èdè Ireland (Ailandi)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Èdè Gaelik ti Ilu Scotland
+gd_GB: Èdè Gaelik ti Ilu Scotland (Gẹ̀ẹ́sì)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Èdè Galicia
+gl_ES: Èdè Galicia (Sipani)
+gn: Èdè Guarani
+gn_PY: Èdè Guarani (Paraguye)
+gsw: Súwísì ti Jámánì
+gsw_CH: Súwísì ti Jámánì (switiṣilandi)
+gsw_FR: Súwísì ti Jámánì (Faranse)
+gsw_LI: Súwísì ti Jámánì (Lẹṣitẹnisiteni)
+gu: Èdè Gujarati
+gu_IN: Èdè Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Máǹkì
+gv_IM: Máǹkì (Isle of Man)
+ha: Èdè Hausa
+ha_GH: Èdè Hausa (Gana)
+ha_NE: Èdè Hausa (Nàìjá)
+ha_NG: Èdè Hausa (Nàìjíríà)
+haw: Hawaiian
+haw_US: Hawaiian (Amẹrikà)
+he: Èdè Heberu
+he_IL: Èdè Heberu (Iserẹli)
+hi: Èdè Híńdì
+hi_IN: Èdè Híńdì (India)
+hi_Latn: Èdè Híńdì (Èdè Látìn)
+hi_Latn_IN: Èdè Híńdì (Èdè Látìn, India)
+hr: Èdè Kroatia
+hr_BA: Èdè Kroatia (Bọ̀síníà àti Ẹtisẹgófínà)
+hr_HR: Èdè Kroatia (Kòróátíà)
+hsb: Sorbian Apá Òkè
+hsb_DE: Sorbian Apá Òkè (Jámánì)
+hu: Èdè Hungaria
+hu_HU: Èdè Hungaria (Hungari)
+hy: Èdè Ile Armenia
+hy_AM: Èdè Ile Armenia (Améníà)
+ia: Èdè pipo
+ia_001: Èdè pipo (Agbáyé)
+id: Èdè Indonéṣíà
+id_ID: Èdè Indonéṣíà (Indonesia)
+ig: Èdè Yíbò
+ig_NG: Èdè Yíbò (Nàìjíríà)
+ii: Ṣíkuán Yì
+ii_CN: Ṣíkuán Yì (Ṣáínà)
+io: Ido
+io_001: Ido (world)
+is: Èdè Icelandic
+is_IS: Èdè Icelandic (Aṣilandi)
+it: Èdè Ítálì
+it_CH: Èdè Ítálì (switiṣilandi)
+it_IT: Èdè Ítálì (Itáli)
+it_SM: Èdè Ítálì (Sani Marino)
+it_VA: Èdè Ítálì (Ìlú Vatican)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Èdè Jàpáànù
+ja_JP: Èdè Jàpáànù (Japani)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ńgòmbà
+jgo_CM: Ńgòmbà (Kamerúúnì)
+jmc: Máṣámè
+jmc_TZ: Máṣámè (Tàǹsáníà)
+jv: Èdè Javanasi
+jv_ID: Èdè Javanasi (Indonesia)
+ka: Èdè Georgia
+ka_GE: Èdè Georgia (Gọgia)
+kab: Kabilè
+kab_DZ: Kabilè (Àlùgèríánì)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Káńbà
+kam_KE: Káńbà (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Mákondé
+kde_TZ: Mákondé (Tàǹsáníà)
+kea: Kabufadíánù
+kea_CV: Kabufadíánù (Etíokun Kápé féndè)
+khq: Koira Ṣíínì
+khq_ML: Koira Ṣíínì (Mali)
+ki: Kíkúyù
+ki_KE: Kíkúyù (Kenya)
+kk: Kaṣakì
+kk_KZ: Kaṣakì (Kaṣaṣatani)
+kkj: Kàkó
+kkj_CM: Kàkó (Kamerúúnì)
+kl: Kalaalísùtì
+kl_GL: Kalaalísùtì (Gerelandi)
+kln: Kálẹnjín
+kln_KE: Kálẹnjín (Kenya)
+km: Èdè kameri
+km_KH: Èdè kameri (Kàmùbódíà)
+kn: Èdè Kannada
+kn_IN: Èdè Kannada (India)
+ko: Èdè Kòríà
+ko_KP: Èdè Kòríà (Guusu Kọria)
+ko_KR: Èdè Kòríà (Ariwa Kọria)
+kok: Kónkánì
+kok_IN: Kónkánì (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kaṣímirì
+ks_Arab: Kaṣímirì (èdè Lárúbáwá)
+ks_Arab_IN: Kaṣímirì (èdè Lárúbáwá, India)
+ks_Aran_IN: Kaṣímirì (Aran, India)
+ks_Deva: Kaṣímirì (Dẹfanagárì)
+ks_Deva_IN: Kaṣímirì (Dẹfanagárì, India)
+ksb: Ṣáńbálà
+ksb_TZ: Ṣáńbálà (Tàǹsáníà)
+ksf: Èdè Báfíà
+ksf_CM: Èdè Báfíà (Kamerúúnì)
+ksh: Èdè Colognian
+ksh_DE: Èdè Colognian (Jámánì)
+ku: Kọdiṣì
+ku_TR: Kọdiṣì (Tọọki)
+kw: Èdè Kọ́nììṣì
+kw_GB: Èdè Kọ́nììṣì (Gẹ̀ẹ́sì)
+ky: Kírígíìsì
+ky_KG: Kírígíìsì (Kuriṣisitani)
+lag: Láńgì
+lag_TZ: Láńgì (Tàǹsáníà)
+lb: Lùṣẹ́mbọ́ọ̀gì
+lb_LU: Lùṣẹ́mbọ́ọ̀gì (Lusemogi)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lákota
+lkt_US: Lákota (Amẹrikà)
+ln: Lìǹgálà
+ln_AO: Lìǹgálà (Ààngólà)
+ln_CD: Lìǹgálà (Kóńgò – Kinshasa)
+ln_CF: Lìǹgálà (Àrin gùngun Áfíríkà)
+ln_CG: Lìǹgálà (Kóńgò – Brazaville)
+lo: Láò
+lo_LA: Láò (Laosi)
+lrc: Apáàríwá Lúrì
+lrc_IQ: Apáàríwá Lúrì (Iraki)
+lrc_IR: Apáàríwá Lúrì (Irani)
+lt: Èdè Lithuania
+lt_LT: Èdè Lithuania (Lituania)
+lu: Lúbà-Katanga
+lu_CD: Lúbà-Katanga (Kóńgò – Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyíà
+luy_KE: Luyíà (Kenya)
+lv: Èdè Latvianu
+lv_LV: Èdè Latvianu (Latifia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Másáì
+mas_KE: Másáì (Kenya)
+mas_TZ: Másáì (Tàǹsáníà)
+mer: Mérù
+mer_KE: Mérù (Kenya)
+mfe: Morisiyen
+mfe_MU: Morisiyen (Maritiusi)
+mg: Malagasì
+mg_MG: Malagasì (Madasika)
+mgh: Makhuwa-Meeto
+mgh_MZ: Makhuwa-Meeto (Moṣamibiku)
+mgo: Métà
+mgo_CM: Métà (Kamerúúnì)
+mi: Màórì
+mi_NZ: Màórì (Ṣilandi Titun)
+mk: Èdè Macedonia
+mk_MK: Èdè Macedonia (Àríwá Macedonia)
+ml: Málàyálámù
+ml_IN: Málàyálámù (India)
+mn: Mòngólíà
+mn_MN: Mòngólíà (Mogolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Èdè marathi
+mr_IN: Èdè marathi (India)
+ms: Èdè Malaya
+ms_Arab: Èdè Malaya (èdè Lárúbáwá)
+ms_Arab_BN: Èdè Malaya (èdè Lárúbáwá, Búrúnẹ́lì)
+ms_Arab_MY: Èdè Malaya (èdè Lárúbáwá, Malasia)
+ms_BN: Èdè Malaya (Búrúnẹ́lì)
+ms_ID: Èdè Malaya (Indonesia)
+ms_MY: Èdè Malaya (Malasia)
+ms_SG: Èdè Malaya (Singapo)
+mt: Èdè Malta
+mt_MT: Èdè Malta (Malata)
+mua: Múndàngì
+mua_CM: Múndàngì (Kamerúúnì)
+my: Èdè Bumiisi
+my_MM: Èdè Bumiisi (Manamari)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Masanderani
+mzn_IR: Masanderani (Irani)
+naq: Námà
+naq_NA: Námà (Namibia)
+nb: Nọ́ọ́wè Bokímàl
+nb_NO: Nọ́ọ́wè Bokímàl (Nọọwii)
+nb_SJ: Nọ́ọ́wè Bokímàl (Sífábáàdì àti Jánì Máyẹ̀nì)
+nd: Àríwá Ndebele
+nd_ZW: Àríwá Ndebele (Ṣimibabe)
+nds: Jámánì ìpìlẹ̀
+nds_DE: Jámánì ìpìlẹ̀ (Jámánì)
+nds_NL: Jámánì ìpìlẹ̀ (Nedalandi)
+ne: Èdè Nepali
+ne_IN: Èdè Nepali (India)
+ne_NP: Èdè Nepali (Nepa)
+nl: Èdè Dọ́ọ̀ṣì
+nl_AW: Èdè Dọ́ọ̀ṣì (Árúbà)
+nl_BE: Èdè Dọ́ọ̀ṣì (Bégíọ́mù)
+nl_BQ: Èdè Dọ́ọ̀ṣì (Káríbíánì ti Nẹ́dálándì)
+nl_CW: Èdè Dọ́ọ̀ṣì (Kúrásáò)
+nl_NL: Èdè Dọ́ọ̀ṣì (Nedalandi)
+nl_SR: Èdè Dọ́ọ̀ṣì (Surinami)
+nl_SX: Èdè Dọ́ọ̀ṣì (Síntì Mátẹ́ẹ̀nì)
+nmg: Kíwáṣíò
+nmg_CM: Kíwáṣíò (Kamerúúnì)
+nn: Nọ́ọ́wè Nínọ̀sìkì
+nn_NO: Nọ́ọ́wè Nínọ̀sìkì (Nọọwii)
+nnh: Ngiembùnù
+nnh_CM: Ngiembùnù (Kamerúúnì)
+no: Èdè Norway
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Núẹ̀
+nus_SS: Núẹ̀ (Gúúsù Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Ńyájà
+ny_MW: Ńyájà (Malawi)
+nyn: Ńyákọ́lè
+nyn_UG: Ńyákọ́lè (Uganda)
+oc: Èdè Occitani
+oc_FR: Èdè Occitani (Faranse)
+om: Òròmọ́
+om_ET: Òròmọ́ (Etopia)
+om_KE: Òròmọ́ (Kenya)
+or: Òdíà
+or_IN: Òdíà (India)
+os: Ọṣẹ́tíìkì
+os_GE: Ọṣẹ́tíìkì (Gọgia)
+os_RU: Ọṣẹ́tíìkì (Rọṣia)
+pa: Èdè Punjabi
+pa_Arab: Èdè Punjabi (èdè Lárúbáwá)
+pa_Arab_PK: Èdè Punjabi (èdè Lárúbáwá, Pakisitan)
+pa_Aran_PK: Èdè Punjabi (Aran, Pakisitan)
+pa_Guru: Èdè Punjabi (Gurumúkhì)
+pa_Guru_IN: Èdè Punjabi (Gurumúkhì, India)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Èdè Póláǹdì
+pl_PL: Èdè Póláǹdì (Polandi)
+ps: Páshítò
+ps_AF: Páshítò (Àfùgànístánì)
+ps_PK: Páshítò (Pakisitan)
+pt: Èdè Pọtogí
+pt_AO: Èdè Pọtogí (Ààngólà)
+pt_BR: Èdè Pọtogí (Bàràsílì)
+pt_CH: Èdè Pọtogí (switiṣilandi)
+pt_CV: Èdè Pọtogí (Etíokun Kápé féndè)
+pt_FR: Èdè Pọtogí (Faranse)
+pt_GQ: Èdè Pọtogí (Ekutoria Gini)
+pt_GW: Èdè Pọtogí (Gene-Busau)
+pt_LU: Èdè Pọtogí (Lusemogi)
+pt_MO: Èdè Pọtogí (Màkáò)
+pt_MZ: Èdè Pọtogí (Moṣamibiku)
+pt_PT: Èdè Pọtogí (Pọ́túgà)
+pt_ST: Èdè Pọtogí (Sao tomi ati piriiṣipi)
+pt_TL: Èdè Pọtogí (ÌlàOòrùn Tímọ̀)
+qu: Kúẹ́ńjùà
+qu_BO: Kúẹ́ńjùà (Bọ̀lífíyà)
+qu_EC: Kúẹ́ńjùà (Ekuádò)
+qu_PE: Kúẹ́ńjùà (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Rómáǹṣì
+rm_CH: Rómáǹṣì (switiṣilandi)
+rn: Rúńdì
+rn_BI: Rúńdì (Bùùrúndì)
+ro: Èdè Romania
+ro_MD: Èdè Romania (Modofia)
+ro_RO: Èdè Romania (Romaniya)
+rof: Róńbò
+rof_TZ: Róńbò (Tàǹsáníà)
+ru: Èdè Rọ́ṣíà
+ru_BY: Èdè Rọ́ṣíà (Bélárúsì)
+ru_KG: Èdè Rọ́ṣíà (Kuriṣisitani)
+ru_KZ: Èdè Rọ́ṣíà (Kaṣaṣatani)
+ru_MD: Èdè Rọ́ṣíà (Modofia)
+ru_RU: Èdè Rọ́ṣíà (Rọṣia)
+ru_UA: Èdè Rọ́ṣíà (Ukarini)
+rw: Èdè Ruwanda
+rw_RW: Èdè Ruwanda (Ruwanda)
+rwk: Riwa
+rwk_TZ: Riwa (Tàǹsáníà)
+sa: Èdè awon ara Indo
+sa_IN: Èdè awon ara Indo (India)
+sah: Sàkíhà
+sah_RU: Sàkíhà (Rọṣia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tàǹsáníà)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Èdè Sindhi
+sd_Arab: Èdè Sindhi (èdè Lárúbáwá)
+sd_Arab_PK: Èdè Sindhi (èdè Lárúbáwá, Pakisitan)
+sd_Deva: Èdè Sindhi (Dẹfanagárì)
+sd_Deva_IN: Èdè Sindhi (Dẹfanagárì, India)
+se: Apáàríwá Sami
+se_FI: Apáàríwá Sami (Filandi)
+se_NO: Apáàríwá Sami (Nọọwii)
+se_SE: Apáàríwá Sami (Swidini)
+seh: Ṣẹnà
+seh_MZ: Ṣẹnà (Moṣamibiku)
+ses: Koiraboro Seni
+ses_ML: Koiraboro Seni (Mali)
+sg: Sango
+sg_CF: Sango (Àrin gùngun Áfíríkà)
+shi: Taṣelíìtì
+shi_Latn: Taṣelíìtì (Èdè Látìn)
+shi_Latn_MA: Taṣelíìtì (Èdè Látìn, Moroko)
+shi_Tfng: Taṣelíìtì (Tfng)
+shi_Tfng_MA: Taṣelíìtì (Tfng, Moroko)
+si: Èdè Sinhalese
+si_LK: Èdè Sinhalese (Siri Lanka)
+sk: Èdè Slovaki
+sk_SK: Èdè Slovaki (Silofakia)
+sl: Èdè Slovenia
+sl_SI: Èdè Slovenia (Silofania)
+sm: Sámóánù
+sm_AS: Sámóánù (Sámóánì ti Orílẹ́ède Àméríkà)
+sm_WS: Sámóánù (Samọ)
+smn: Inari Sami
+smn_FI: Inari Sami (Filandi)
+sn: Ṣọnà
+sn_ZW: Ṣọnà (Ṣimibabe)
+so: Èdè ara Somalia
+so_DJ: Èdè ara Somalia (Díbọ́ótì)
+so_ET: Èdè ara Somalia (Etopia)
+so_KE: Èdè ara Somalia (Kenya)
+so_SO: Èdè ara Somalia (Somalia)
+sq: Èdè Albania
+sq_AL: Èdè Albania (Àlùbàníánì)
+sq_MK: Èdè Albania (Àríwá Macedonia)
+sq_XK: Èdè Albania (Kòsófò)
+sr: Èdè Serbia
+sr_Cyrl: Èdè Serbia (èdè ilẹ̀ Rọ́ṣíà)
+sr_Cyrl_BA: Èdè Serbia (èdè ilẹ̀ Rọ́ṣíà, Bọ̀síníà àti Ẹtisẹgófínà)
+sr_Cyrl_ME: Èdè Serbia (èdè ilẹ̀ Rọ́ṣíà, Montenegro)
+sr_Cyrl_RS: Èdè Serbia (èdè ilẹ̀ Rọ́ṣíà, Sẹ́bíà)
+sr_Cyrl_XK: Èdè Serbia (èdè ilẹ̀ Rọ́ṣíà, Kòsófò)
+sr_Latn: Èdè Serbia (Èdè Látìn)
+sr_Latn_BA: Èdè Serbia (Èdè Látìn, Bọ̀síníà àti Ẹtisẹgófínà)
+sr_Latn_ME: Èdè Serbia (Èdè Látìn, Montenegro)
+sr_Latn_RS: Èdè Serbia (Èdè Látìn, Sẹ́bíà)
+sr_Latn_XK: Èdè Serbia (Èdè Látìn, Kòsófò)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Èdè Sesoto
+st_LS: Èdè Sesoto (Lesoto)
+st_ZA: Èdè Sesoto (Gúúṣù Áfíríkà)
+su: Èdè Sudanísì
+su_Latn: Èdè Sudanísì (Èdè Látìn)
+su_Latn_ID: Èdè Sudanísì (Èdè Látìn, Indonesia)
+sv: Èdè Suwidiisi
+sv_AX: Èdè Suwidiisi (Àwọn Erékùsù ti Åland)
+sv_FI: Èdè Suwidiisi (Filandi)
+sv_SE: Èdè Suwidiisi (Swidini)
+sw: Èdè Swahili
+sw_CD: Èdè Swahili (Kóńgò – Kinshasa)
+sw_KE: Èdè Swahili (Kenya)
+sw_TZ: Èdè Swahili (Tàǹsáníà)
+sw_UG: Èdè Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Èdè Tamili
+ta_IN: Èdè Tamili (India)
+ta_LK: Èdè Tamili (Siri Lanka)
+ta_MY: Èdè Tamili (Malasia)
+ta_SG: Èdè Tamili (Singapo)
+te: Èdè Telugu
+te_IN: Èdè Telugu (India)
+teo: Tẹ́sò
+teo_KE: Tẹ́sò (Kenya)
+teo_UG: Tẹ́sò (Uganda)
+tg: Tàjíìkì
+tg_TJ: Tàjíìkì (Takisitani)
+th: Èdè Tai
+th_TH: Èdè Tai (Tailandi)
+ti: Èdè Tigrinya
+ti_ER: Èdè Tigrinya (Eritira)
+ti_ET: Èdè Tigrinya (Etopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Èdè Turkmen
+tk_TM: Èdè Turkmen (Tọọkimenisita)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tóńgàn
+to_TO: Tóńgàn (Tonga)
+tr: Èdè Tọọkisi
+tr_CY: Èdè Tọọkisi (Kúrúsì)
+tr_TR: Èdè Tọọkisi (Tọọki)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatarí
+tt_RU: Tatarí (Rọṣia)
+twq: Tasawak
+twq_NE: Tasawak (Nàìjá)
+tzm: Ààrin Gbùngbùn Atlas Tamazight
+tzm_MA: Ààrin Gbùngbùn Atlas Tamazight (Moroko)
+ug: Yúgọ̀
+ug_CN: Yúgọ̀ (Ṣáínà)
+uk: Èdè Ukania
+uk_UA: Èdè Ukania (Ukarini)
+ur: Èdè Udu
+ur_Arab: Èdè Udu (èdè Lárúbáwá)
+ur_Arab_IN: Èdè Udu (èdè Lárúbáwá, India)
+ur_Arab_PK: Èdè Udu (èdè Lárúbáwá, Pakisitan)
+ur_Aran_PK: Èdè Udu (Aran, Pakisitan)
+uz: Èdè Uzbek
+uz_Arab: Èdè Uzbek (èdè Lárúbáwá)
+uz_Arab_AF: Èdè Uzbek (èdè Lárúbáwá, Àfùgànístánì)
+uz_Cyrl: Èdè Uzbek (èdè ilẹ̀ Rọ́ṣíà)
+uz_Cyrl_UZ: Èdè Uzbek (èdè ilẹ̀ Rọ́ṣíà, Nṣibẹkisitani)
+uz_Latn: Èdè Uzbek (Èdè Látìn)
+uz_Latn_UZ: Èdè Uzbek (Èdè Látìn, Nṣibẹkisitani)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Èdè Jetinamu
+vi_VN: Èdè Jetinamu (Fẹtinami)
+vun: Funjo
+vun_TZ: Funjo (Tàǹsáníà)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Wọsà
+wae_CH: Wọsà (switiṣilandi)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wọ́lọ́ọ̀fù
+wo_SN: Wọ́lọ́ọ̀fù (Sẹnẹga)
+xh: Èdè Xhosa
+xh_ZA: Èdè Xhosa (Gúúṣù Áfíríkà)
+xog: Ṣógà
+xog_UG: Ṣógà (Uganda)
+yav: Yangbẹn
+yav_CM: Yangbẹn (Kamerúúnì)
+yi: Èdè Yiddishi
+yi_001: Èdè Yiddishi (Agbáyé)
+yo: Èdè Yorùbá
+yo_BJ: Èdè Yorùbá (Bẹ̀nẹ̀)
+yo_NG: Èdè Yorùbá (Nàìjíríà)
+yue: Èdè Cantonese
+yue_Hans: Èdè Cantonese (tí wọ́n mú rọrùn.)
+yue_Hans_CN: Èdè Cantonese (tí wọ́n mú rọrùn., Ṣáínà)
+yue_Hant: Èdè Cantonese (Hans àtọwọ́dọ́wọ́)
+yue_Hant_HK: Èdè Cantonese (Hans àtọwọ́dọ́wọ́, Hong Kong)
+zgh: Àfẹnùkò Támásáìtì ti Mòrókò
+zgh_MA: Àfẹnùkò Támásáìtì ti Mòrókò (Moroko)
+zh: Edè Ṣáínà
+zh_Hans: Ẹdè Ṣáínà Onírọ̀rùn
+zh_Hans_CN: Ẹdè Ṣáínà Onírọ̀rùn (Ṣáínà)
+zh_Hans_HK: Ẹdè Ṣáínà Onírọ̀rùn (Hong Kong)
+zh_Hans_JP: Ẹdè Ṣáínà Onírọ̀rùn (Japani)
+zh_Hans_MO: Ẹdè Ṣáínà Onírọ̀rùn (Màkáò)
+zh_Hans_SG: Ẹdè Ṣáínà Onírọ̀rùn (Singapo)
+zh_Hant: Èdè Ṣáínà Ìbílẹ̀
+zh_Hant_CN: Èdè Ṣáínà Ìbílẹ̀ (Ṣáínà)
+zh_Hant_HK: Èdè Ṣáínà Ìbílẹ̀ (Hong Kong)
+zh_Hant_MO: Èdè Ṣáínà Ìbílẹ̀ (Màkáò)
+zh_Hant_TW: Èdè Ṣáínà Ìbílẹ̀ (Taiwani)
+zu: Èdè Ṣulu
+zu_ZA: Èdè Ṣulu (Gúúṣù Áfíríkà)

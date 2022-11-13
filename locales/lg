@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Lu-akaani
+ak_GH: Lu-akaani (Gana)
+am: Lu-amhariki
+am_ET: Lu-amhariki (Esyopya)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Luwarabu
+ar_001: Luwarabu (001)
+ar_AE: Luwarabu (Emireeti)
+ar_BH: Luwarabu (Baareeni)
+ar_DJ: Luwarabu (Jjibuti)
+ar_DZ: Luwarabu (Aligerya)
+ar_EG: Luwarabu (Misiri)
+ar_EH: Luwarabu (EH)
+ar_ER: Luwarabu (Eritureya)
+ar_IL: Luwarabu (Yisirayeri)
+ar_IQ: Luwarabu (Yiraaka)
+ar_JO: Luwarabu (Yorodani)
+ar_KM: Luwarabu (Bizinga by’eKomoro)
+ar_KW: Luwarabu (Kuweti)
+ar_LB: Luwarabu (Lebanoni)
+ar_LY: Luwarabu (Libya)
+ar_MA: Luwarabu (Moroko)
+ar_MR: Luwarabu (Mawulitenya)
+ar_OM: Luwarabu (Omaani)
+ar_PS: Luwarabu (Palesitayini)
+ar_QA: Luwarabu (Kataa)
+ar_SA: Luwarabu (Sawudarebya - Buwarabu)
+ar_SD: Luwarabu (Sudaani)
+ar_SO: Luwarabu (Somaliya)
+ar_SS: Luwarabu (SS)
+ar_SY: Luwarabu (Siriya)
+ar_TD: Luwarabu (Caadi)
+ar_TN: Luwarabu (Tunisya)
+ar_YE: Luwarabu (Yemeni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Lubelarusi
+be_BY: Lubelarusi (Belarusi)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Lubulugariya
+bg_BG: Lubulugariya (Bulugariya)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Lubengali
+bn_BD: Lubengali (Bangaladesi)
+bn_IN: Lubengali (Buyindi)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Luceeke
+cs_CZ: Luceeke (Lipubulika ya Ceeka)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: Ludaaki
+de_AT: Ludaaki (Awusituriya)
+de_BE: Ludaaki (Bubirigi)
+de_CH: Ludaaki (Switizirandi)
+de_DE: Ludaaki (Budaaki)
+de_IT: Ludaaki (Yitale)
+de_LI: Ludaaki (Licitensitayini)
+de_LU: Ludaaki (Lukisembaaga)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Lugereeki/Luyonaani
+el_CY: Lugereeki/Luyonaani (Sipuriya)
+el_GR: Lugereeki/Luyonaani (Bugereeki/Buyonaani)
+en: Lungereza
+en_001: Lungereza (001)
+en_150: Lungereza (150)
+en_AE: Lungereza (Emireeti)
+en_AG: Lungereza (Antigwa ne Barabuda)
+en_AI: Lungereza (Angwila)
+en_AL: Lungereza (Alibaniya)
+en_AR: Lungereza (Arigentina)
+en_AS: Lungereza (Samowa omumerika)
+en_AT: Lungereza (Awusituriya)
+en_AU: Lungereza (Awusitureliya)
+en_BB: Lungereza (Barabadosi)
+en_BD: Lungereza (Bangaladesi)
+en_BE: Lungereza (Bubirigi)
+en_BG: Lungereza (Bulugariya)
+en_BI: Lungereza (Burundi)
+en_BM: Lungereza (Beremuda)
+en_BN: Lungereza (Burunayi)
+en_BR: Lungereza (Buraziiri)
+en_BS: Lungereza (Bahamasi)
+en_BW: Lungereza (Botiswana)
+en_BZ: Lungereza (Belize)
+en_CA: Lungereza (Kanada)
+en_CC: Lungereza (CC)
+en_CH: Lungereza (Switizirandi)
+en_CK: Lungereza (Bizinga bya Kkuki)
+en_CL: Lungereza (Cile)
+en_CM: Lungereza (Kameruuni)
+en_CN: Lungereza (Cayina)
+en_CO: Lungereza (Kolombya)
+en_CV: Lungereza (Bizinga by’e Kepu Veredi)
+en_CX: Lungereza (CX)
+en_CY: Lungereza (Sipuriya)
+en_CZ: Lungereza (Lipubulika ya Ceeka)
+en_DE: Lungereza (Budaaki)
+en_DG: Lungereza (DG)
+en_DK: Lungereza (Denimaaka)
+en_DM: Lungereza (Dominika)
+en_EE: Lungereza (Esitoniya)
+en_ER: Lungereza (Eritureya)
+en_FI: Lungereza (Finilandi)
+en_FJ: Lungereza (Fiji)
+en_FK: Lungereza (Bizinga by’eFalikalandi)
+en_FM: Lungereza (Mikuronezya)
+en_FR: Lungereza (Bufalansa)
+en_GB: Lungereza (Bungereza)
+en_GD: Lungereza (Gurenada)
+en_GG: Lungereza (GG)
+en_GH: Lungereza (Gana)
+en_GI: Lungereza (Giburalita)
+en_GM: Lungereza (Gambya)
+en_GR: Lungereza (Bugereeki/Buyonaani)
+en_GU: Lungereza (Gwamu)
+en_GY: Lungereza (Gayana)
+en_HK: Lungereza (HK)
+en_HU: Lungereza (Hangare)
+en_ID: Lungereza (Yindonezya)
+en_IE: Lungereza (Ayalandi)
+en_IL: Lungereza (Yisirayeri)
+en_IM: Lungereza (IM)
+en_IN: Lungereza (Buyindi)
+en_IO: Lungereza (Bizinga by’eCago)
+en_JE: Lungereza (JE)
+en_JM: Lungereza (Jamayika)
+en_JP: Lungereza (Japani)
+en_KE: Lungereza (Kenya)
+en_KI: Lungereza (Kiribati)
+en_KN: Lungereza (Senti Kitisi ne Nevisi)
+en_KR: Lungereza (Koreya ey’omumaserengeta)
+en_KY: Lungereza (Bizinga ebya Kayimaani)
+en_LC: Lungereza (Senti Luciya)
+en_LR: Lungereza (Liberya)
+en_LS: Lungereza (Lesoso)
+en_LT: Lungereza (Lisuwenya)
+en_LV: Lungereza (Lativya)
+en_MG: Lungereza (Madagasika)
+en_MH: Lungereza (Bizinga bya Mariso)
+en_MM: Lungereza (Myanima)
+en_MO: Lungereza (MO)
+en_MP: Lungereza (Bizinga bya Mariyana eby’omumambuka)
+en_MS: Lungereza (Monteseraati)
+en_MT: Lungereza (Malita)
+en_MU: Lungereza (Mawulisyasi)
+en_MV: Lungereza (Bizinga by’eMalidive)
+en_MW: Lungereza (Malawi)
+en_MX: Lungereza (Mekisiko)
+en_MY: Lungereza (Malezya)
+en_NA: Lungereza (Namibiya)
+en_NF: Lungereza (Kizinga ky’eNorofoko)
+en_NG: Lungereza (Nayijerya)
+en_NL: Lungereza (Holandi)
+en_NO: Lungereza (Nowe)
+en_NR: Lungereza (Nawuru)
+en_NU: Lungereza (Niyuwe)
+en_NZ: Lungereza (Niyuziirandi)
+en_PG: Lungereza (Papwa Nyugini)
+en_PH: Lungereza (Bizinga bya Firipino)
+en_PK: Lungereza (Pakisitaani)
+en_PL: Lungereza (Polandi)
+en_PN: Lungereza (Pitikeeni)
+en_PR: Lungereza (Potoriko)
+en_PT: Lungereza (Potugaali)
+en_PW: Lungereza (Palawu)
+en_RU: Lungereza (Lasa)
+en_RW: Lungereza (Rwanda)
+en_SA: Lungereza (Sawudarebya - Buwarabu)
+en_SB: Lungereza (Bizanga by’eSolomooni)
+en_SC: Lungereza (Sesere)
+en_SD: Lungereza (Sudaani)
+en_SE: Lungereza (Swideni)
+en_SG: Lungereza (Singapowa)
+en_SH: Lungereza (Senti Herena)
+en_SI: Lungereza (Sirovenya)
+en_SK: Lungereza (Sirovakya)
+en_SL: Lungereza (Siyeralewone)
+en_SS: Lungereza (SS)
+en_SX: Lungereza (SX)
+en_SZ: Lungereza (Swazirandi)
+en_TC: Lungereza (Bizinga by’eTaaka ne Kayikosi)
+en_TH: Lungereza (Tayirandi)
+en_TK: Lungereza (Tokelawu)
+en_TO: Lungereza (Tonga)
+en_TR: Lungereza (Ttake)
+en_TT: Lungereza (Turindaadi ne Tobago)
+en_TV: Lungereza (Tuvalu)
+en_TW: Lungereza (Tayiwani)
+en_TZ: Lungereza (Tanzaniya)
+en_UA: Lungereza (Yukurayine)
+en_UG: Lungereza (Yuganda)
+en_UM: Lungereza (UM)
+en_US: Lungereza (Amerika)
+en_US_POSIX: Lungereza (Amerika, POSIX)
+en_VC: Lungereza (Senti Vinsenti ne Gurendadiini)
+en_VG: Lungereza (Bizinga ebya Virigini ebitwalibwa Bungereza)
+en_VI: Lungereza (Bizinga bya Virigini eby’Amerika)
+en_VU: Lungereza (Vanawuwatu)
+en_WS: Lungereza (Samowa)
+en_ZA: Lungereza (Sawusafirika)
+en_ZM: Lungereza (Zambya)
+en_ZW: Lungereza (Zimbabwe)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Lusipanya
+es_003: Lusipanya (003)
+es_419: Lusipanya (419)
+es_AG: Lusipanya (Antigwa ne Barabuda)
+es_AR: Lusipanya (Arigentina)
+es_BB: Lusipanya (Barabadosi)
+es_BM: Lusipanya (Beremuda)
+es_BO: Lusipanya (Boliviya)
+es_BQ: Lusipanya (BQ)
+es_BR: Lusipanya (Buraziiri)
+es_BS: Lusipanya (Bahamasi)
+es_BZ: Lusipanya (Belize)
+es_CA: Lusipanya (Kanada)
+es_CL: Lusipanya (Cile)
+es_CO: Lusipanya (Kolombya)
+es_CR: Lusipanya (Kosita Rika)
+es_CU: Lusipanya (Cuba)
+es_CW: Lusipanya (CW)
+es_DM: Lusipanya (Dominika)
+es_DO: Lusipanya (Lipubulika ya Dominika)
+es_EA: Lusipanya (EA)
+es_EC: Lusipanya (Ekwado)
+es_ES: Lusipanya (Sipeyini)
+es_GD: Lusipanya (Gurenada)
+es_GQ: Lusipanya (Gayana ey’oku ekweta)
+es_GT: Lusipanya (Gwatemala)
+es_GY: Lusipanya (Gayana)
+es_HN: Lusipanya (Hundurasi)
+es_HT: Lusipanya (Hayiti)
+es_IC: Lusipanya (IC)
+es_KN: Lusipanya (Senti Kitisi ne Nevisi)
+es_KY: Lusipanya (Bizinga ebya Kayimaani)
+es_LC: Lusipanya (Senti Luciya)
+es_MX: Lusipanya (Mekisiko)
+es_NI: Lusipanya (Nikaraguwa)
+es_PA: Lusipanya (Panama)
+es_PE: Lusipanya (Peru)
+es_PH: Lusipanya (Bizinga bya Firipino)
+es_PR: Lusipanya (Potoriko)
+es_PY: Lusipanya (Paragwayi)
+es_SV: Lusipanya (El salivado)
+es_TC: Lusipanya (Bizinga by’eTaaka ne Kayikosi)
+es_TT: Lusipanya (Turindaadi ne Tobago)
+es_US: Lusipanya (Amerika)
+es_UY: Lusipanya (Wurugwayi)
+es_VC: Lusipanya (Senti Vinsenti ne Gurendadiini)
+es_VE: Lusipanya (Venzwera)
+es_VG: Lusipanya (Bizinga ebya Virigini ebitwalibwa Bungereza)
+es_VI: Lusipanya (Bizinga bya Virigini eby’Amerika)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Luperusi
+fa_AF: Luperusi (Afaganisitani)
+fa_IR: Luperusi (Yiraani)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Lufalansa
+fr_BE: Lufalansa (Bubirigi)
+fr_BF: Lufalansa (Burukina Faso)
+fr_BI: Lufalansa (Burundi)
+fr_BJ: Lufalansa (Benini)
+fr_BL: Lufalansa (BL)
+fr_CA: Lufalansa (Kanada)
+fr_CD: Lufalansa (Kongo - Zayire)
+fr_CF: Lufalansa (Lipubulika eya Senturafiriki)
+fr_CG: Lufalansa (Kongo)
+fr_CH: Lufalansa (Switizirandi)
+fr_CI: Lufalansa (Kote Divwa)
+fr_CM: Lufalansa (Kameruuni)
+fr_DJ: Lufalansa (Jjibuti)
+fr_DZ: Lufalansa (Aligerya)
+fr_FR: Lufalansa (Bufalansa)
+fr_GA: Lufalansa (Gaboni)
+fr_GF: Lufalansa (Guyana enfalansa)
+fr_GN: Lufalansa (Gini)
+fr_GP: Lufalansa (Gwadalupe)
+fr_GQ: Lufalansa (Gayana ey’oku ekweta)
+fr_HT: Lufalansa (Hayiti)
+fr_KM: Lufalansa (Bizinga by’eKomoro)
+fr_LU: Lufalansa (Lukisembaaga)
+fr_MA: Lufalansa (Moroko)
+fr_MC: Lufalansa (Monako)
+fr_MF: Lufalansa (MF)
+fr_MG: Lufalansa (Madagasika)
+fr_ML: Lufalansa (Mali)
+fr_MQ: Lufalansa (Maritiniiki)
+fr_MR: Lufalansa (Mawulitenya)
+fr_MU: Lufalansa (Mawulisyasi)
+fr_NC: Lufalansa (Kaledonya mupya)
+fr_NE: Lufalansa (Nije)
+fr_PF: Lufalansa (Polinesiya enfalansa)
+fr_PM: Lufalansa (Senti Piyere ne Mikeloni)
+fr_RE: Lufalansa (Leyunyoni)
+fr_RW: Lufalansa (Rwanda)
+fr_SC: Lufalansa (Sesere)
+fr_SN: Lufalansa (Senegaalo)
+fr_SY: Lufalansa (Siriya)
+fr_TD: Lufalansa (Caadi)
+fr_TG: Lufalansa (Togo)
+fr_TN: Lufalansa (Tunisya)
+fr_VU: Lufalansa (Vanawuwatu)
+fr_WF: Lufalansa (Walisi ne Futuna)
+fr_YT: Lufalansa (Mayotte)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Luhawuza
+ha_GH: Luhawuza (Gana)
+ha_NE: Luhawuza (Nije)
+ha_NG: Luhawuza (Nayijerya)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: Luhindu
+hi_IN: Luhindu (Buyindi)
+hi_Latn: Luhindu (Latn)
+hi_Latn_IN: Luhindu (Latn, Buyindi)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Luhangare
+hu_HU: Luhangare (Hangare)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Luyindonezya
+id_ID: Luyindonezya (Yindonezya)
+ig: Luyibo
+ig_NG: Luyibo (Nayijerya)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: Luyitale
+it_CH: Luyitale (Switizirandi)
+it_IT: Luyitale (Yitale)
+it_SM: Luyitale (Sanimarino)
+it_VA: Luyitale (Vatikaani)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Lujapani
+ja_JP: Lujapani (Japani)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Lunnajjava
+jv_ID: Lunnajjava (Yindonezya)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Lukme
+km_KH: Lukme (Kambodya)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Lukoreya
+ko_KP: Lukoreya (Koreya ey’omumambuka)
+ko_KR: Lukoreya (Koreya ey’omumaserengeta)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, Buyindi)
+ks_Aran_IN: ks (Aran, Buyindi)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, Buyindi)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Luganda
+lg_UG: Luganda (Yuganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Lumalayi
+ms_Arab: Lumalayi (Arab)
+ms_Arab_BN: Lumalayi (Arab, Burunayi)
+ms_Arab_MY: Lumalayi (Arab, Malezya)
+ms_BN: Lumalayi (Burunayi)
+ms_ID: Lumalayi (Yindonezya)
+ms_MY: Lumalayi (Malezya)
+ms_SG: Lumalayi (Singapowa)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Lubbama
+my_MM: Lubbama (Myanima)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Lunepali
+ne_IN: Lunepali (Buyindi)
+ne_NP: Lunepali (Nepalo)
+nl: Luholandi
+nl_AW: Luholandi (Aruba)
+nl_BE: Luholandi (Bubirigi)
+nl_BQ: Luholandi (BQ)
+nl_CW: Luholandi (CW)
+nl_NL: Luholandi (Holandi)
+nl_SR: Luholandi (Surinaamu)
+nl_SX: Luholandi (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Lupunjabi
+pa_Arab: Lupunjabi (Arab)
+pa_Arab_PK: Lupunjabi (Arab, Pakisitaani)
+pa_Aran_PK: Lupunjabi (Aran, Pakisitaani)
+pa_Guru: Lupunjabi (Guru)
+pa_Guru_IN: Lupunjabi (Guru, Buyindi)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Lupolandi
+pl_PL: Lupolandi (Polandi)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Lupotugiizi
+pt_AO: Lupotugiizi (Angola)
+pt_BR: Lupotugiizi (Buraziiri)
+pt_CH: Lupotugiizi (Switizirandi)
+pt_CV: Lupotugiizi (Bizinga by’e Kepu Veredi)
+pt_FR: Lupotugiizi (Bufalansa)
+pt_GQ: Lupotugiizi (Gayana ey’oku ekweta)
+pt_GW: Lupotugiizi (Gini-Bisawu)
+pt_LU: Lupotugiizi (Lukisembaaga)
+pt_MO: Lupotugiizi (MO)
+pt_MZ: Lupotugiizi (Mozambiiki)
+pt_PT: Lupotugiizi (Potugaali)
+pt_ST: Lupotugiizi (Sanitome ne Purincipe)
+pt_TL: Lupotugiizi (Timowa)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Lulomaniya
+ro_MD: Lulomaniya (Molodova)
+ro_RO: Lulomaniya (Lomaniya)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Lulasa
+ru_BY: Lulasa (Belarusi)
+ru_KG: Lulasa (Kirigizisitaani)
+ru_KZ: Lulasa (Kazakisitaani)
+ru_MD: Lulasa (Molodova)
+ru_RU: Lulasa (Lasa)
+ru_UA: Lulasa (Yukurayine)
+rw: Lunarwanda
+rw_RW: Lunarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Lusomaliya
+so_DJ: Lusomaliya (Jjibuti)
+so_ET: Lusomaliya (Esyopya)
+so_KE: Lusomaliya (Kenya)
+so_SO: Lusomaliya (Somaliya)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Luswideni
+sv_AX: Luswideni (AX)
+sv_FI: Luswideni (Finilandi)
+sv_SE: Luswideni (Swideni)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Lutamiiru
+ta_IN: Lutamiiru (Buyindi)
+ta_LK: Lutamiiru (Sirilanka)
+ta_MY: Lutamiiru (Malezya)
+ta_SG: Lutamiiru (Singapowa)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Luttaayi
+th_TH: Luttaayi (Tayirandi)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Lutake
+tr_CY: Lutake (Sipuriya)
+tr_TR: Lutake (Ttake)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Luyukurayine
+uk_UA: Luyukurayine (Yukurayine)
+ur: Lu-urudu
+ur_Arab: Lu-urudu (Arab)
+ur_Arab_IN: Lu-urudu (Arab, Buyindi)
+ur_Arab_PK: Lu-urudu (Arab, Pakisitaani)
+ur_Aran_PK: Lu-urudu (Aran, Pakisitaani)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Luvyetinaamu
+vi_VN: Luvyetinaamu (Vyetinaamu)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Luyoruba
+yo_BJ: Luyoruba (Benini)
+yo_NG: Luyoruba (Nayijerya)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, Cayina)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Lucayina
+zh_Hans: Lucayina (Hans)
+zh_Hans_CN: Lucayina (Hans, Cayina)
+zh_Hans_HK: Lucayina (Hans, HK)
+zh_Hans_JP: Lucayina (Hans, Japani)
+zh_Hans_MO: Lucayina (Hans, MO)
+zh_Hans_SG: Lucayina (Hans, Singapowa)
+zh_Hant: Lucayina (Hant)
+zh_Hant_CN: Lucayina (Hant, Cayina)
+zh_Hant_HK: Lucayina (Hant, HK)
+zh_Hant_MO: Lucayina (Hant, MO)
+zh_Hant_TW: Lucayina (Hant, Tayiwani)
+zu: Luzzulu
+zu_ZA: Luzzulu (Sawusafirika)

@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Takanit
+ak_GH: Takanit (Ɣana)
+am: Tamharit
+am_ET: Tamharit (Ityupya)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Taεrabt
+ar_001: Taεrabt (001)
+ar_AE: Taεrabt (Imarat Tiεrabin Tidduklin)
+ar_BH: Taεrabt (Baḥrayn)
+ar_DJ: Taεrabt (Ǧibuti)
+ar_DZ: Taεrabt (Dzayer)
+ar_EG: Taεrabt (Miṣr)
+ar_EH: Taεrabt (EH)
+ar_ER: Taεrabt (Iritrya)
+ar_IL: Taεrabt (Israeil)
+ar_IQ: Taεrabt (Ɛiraq)
+ar_JO: Taεrabt (Urḍun)
+ar_KM: Taεrabt (Qumur)
+ar_KW: Taεrabt (Kuwwayt)
+ar_LB: Taεrabt (Lubnan)
+ar_LY: Taεrabt (Libya)
+ar_MA: Taεrabt (Meṛṛuk)
+ar_MR: Taεrabt (Muritanya)
+ar_OM: Taεrabt (Ɛumman)
+ar_PS: Taεrabt (Agemmaḍ Ugut d Ɣazza Ifilisṭiniyen)
+ar_QA: Taεrabt (Qaṭar)
+ar_SA: Taεrabt (Ssaεudiyya Taεrabt)
+ar_SD: Taεrabt (Ssudan)
+ar_SO: Taεrabt (Ṣṣumal)
+ar_SS: Taεrabt (SS)
+ar_SY: Taεrabt (Surya)
+ar_TD: Taεrabt (Tcad)
+ar_TN: Taεrabt (Tunes)
+ar_YE: Taεrabt (Yaman)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Tabilarusit
+be_BY: Tabilarusit (Bilarusya)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Tabelɣarit
+bg_BG: Tabelɣarit (Belɣarya)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Tabinɣalit
+bn_BD: Tabinɣalit (Bangladic)
+bn_IN: Tabinɣalit (Hind)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Tačikt
+cs_CZ: Tačikt (Tagduda n Čik)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: Talmanit
+de_AT: Talmanit (Ustriyya)
+de_BE: Talmanit (Beljika)
+de_CH: Talmanit (Swisra)
+de_DE: Talmanit (Almanya)
+de_IT: Talmanit (Iṭalya)
+de_LI: Talmanit (Lictencṭayn)
+de_LU: Talmanit (Liksumburg)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Tayunanit
+el_CY: Tayunanit (Qubrus)
+el_GR: Tayunanit (Yunan)
+en: Tanglizt
+en_001: Tanglizt (001)
+en_150: Tanglizt (150)
+en_AE: Tanglizt (Imarat Tiεrabin Tidduklin)
+en_AG: Tanglizt (Antigwa d Barbuda)
+en_AI: Tanglizt (Angwilla)
+en_AL: Tanglizt (Albanya)
+en_AR: Tanglizt (Arjuntin)
+en_AS: Tanglizt (Samwa Imirikaniyyin)
+en_AT: Tanglizt (Ustriyya)
+en_AU: Tanglizt (Usṭralya)
+en_BB: Tanglizt (Barbadus)
+en_BD: Tanglizt (Bangladic)
+en_BE: Tanglizt (Beljika)
+en_BG: Tanglizt (Belɣarya)
+en_BI: Tanglizt (Burundi)
+en_BM: Tanglizt (Birmuda)
+en_BN: Tanglizt (Brunay)
+en_BR: Tanglizt (Bṛazil)
+en_BS: Tanglizt (Bahamas)
+en_BW: Tanglizt (Butswana)
+en_BZ: Tanglizt (Biliz)
+en_CA: Tanglizt (Kanada)
+en_CC: Tanglizt (CC)
+en_CH: Tanglizt (Swisra)
+en_CK: Tanglizt (Tigzirin n Kuk)
+en_CL: Tanglizt (Ccili)
+en_CM: Tanglizt (Kamerun)
+en_CN: Tanglizt (Ṣṣin)
+en_CO: Tanglizt (Kulumbya)
+en_CV: Tanglizt (Tigzirin n Iɣf Uzegzaw)
+en_CX: Tanglizt (CX)
+en_CY: Tanglizt (Qubrus)
+en_CZ: Tanglizt (Tagduda n Čik)
+en_DE: Tanglizt (Almanya)
+en_DG: Tanglizt (DG)
+en_DK: Tanglizt (Danmark)
+en_DM: Tanglizt (Ḍuminika)
+en_EE: Tanglizt (Isṭunya)
+en_ER: Tanglizt (Iritrya)
+en_FI: Tanglizt (Finlanḍa)
+en_FJ: Tanglizt (Fiji)
+en_FK: Tanglizt (Tigzirin n Falkland)
+en_FM: Tanglizt (Mikrunizya)
+en_FR: Tanglizt (Fṛansa)
+en_GB: Tanglizt (Tagelda Taddukelt)
+en_GD: Tanglizt (Grinada)
+en_GG: Tanglizt (GG)
+en_GH: Tanglizt (Ɣana)
+en_GI: Tanglizt (Jibralṭar)
+en_GM: Tanglizt (Gambya)
+en_GR: Tanglizt (Yunan)
+en_GU: Tanglizt (Gwam)
+en_GY: Tanglizt (Guyana)
+en_HK: Tanglizt (HK)
+en_HU: Tanglizt (Henɣarya)
+en_ID: Tanglizt (Indunizya)
+en_IE: Tanglizt (Irlanḍa)
+en_IL: Tanglizt (Israeil)
+en_IM: Tanglizt (IM)
+en_IN: Tanglizt (Hind)
+en_IO: Tanglizt (Amur n Agaraw Uhindi Ubṛiṭani)
+en_JE: Tanglizt (JE)
+en_JM: Tanglizt (Jamayka)
+en_JP: Tanglizt (Jjappun)
+en_KE: Tanglizt (Kinya)
+en_KI: Tanglizt (Kiribati)
+en_KN: Tanglizt (Santekits d Nivis)
+en_KR: Tanglizt (Kurya Tunẓult)
+en_KY: Tanglizt (Tigzirin n Kayman)
+en_LC: Tanglizt (Santelusya)
+en_LR: Tanglizt (Libirya)
+en_LS: Tanglizt (Lisuṭu)
+en_LT: Tanglizt (Litwanya)
+en_LV: Tanglizt (Liṭṭunya)
+en_MG: Tanglizt (Madaɣacqar)
+en_MH: Tanglizt (Tigzirin n Marcal)
+en_MM: Tanglizt (Myanmar)
+en_MO: Tanglizt (MO)
+en_MP: Tanglizt (Tigzirin n Maryana Tugafat)
+en_MS: Tanglizt (Muntsirra)
+en_MT: Tanglizt (Malṭa)
+en_MU: Tanglizt (Muris)
+en_MV: Tanglizt (Maldiv)
+en_MW: Tanglizt (Malawi)
+en_MX: Tanglizt (Miksik)
+en_MY: Tanglizt (Malizya)
+en_NA: Tanglizt (Namibya)
+en_NF: Tanglizt (Tigzirt Nurfulk)
+en_NG: Tanglizt (Nijiria)
+en_NL: Tanglizt (Hulanḍa)
+en_NO: Tanglizt (Nnurwij)
+en_NR: Tanglizt (Nawru)
+en_NU: Tanglizt (Niwi)
+en_NZ: Tanglizt (Zilanḍa Tamaynut)
+en_PG: Tanglizt (Papwa Ɣinya Tamaynut)
+en_PH: Tanglizt (Filippin)
+en_PK: Tanglizt (Pakistan)
+en_PL: Tanglizt (Pulunya)
+en_PN: Tanglizt (Pitkirn)
+en_PR: Tanglizt (Purturiku)
+en_PT: Tanglizt (Purtuɣal)
+en_PW: Tanglizt (Palu)
+en_RU: Tanglizt (Rusya)
+en_RW: Tanglizt (Ruwwanḍa)
+en_SA: Tanglizt (Ssaεudiyya Taεrabt)
+en_SB: Tanglizt (Tigzirin n Salumun)
+en_SC: Tanglizt (Ssicil)
+en_SD: Tanglizt (Ssudan)
+en_SE: Tanglizt (Ssewwid)
+en_SG: Tanglizt (Sanɣafura)
+en_SH: Tanglizt (Santehilin)
+en_SI: Tanglizt (Sluvinya)
+en_SK: Tanglizt (Sluvakya)
+en_SL: Tanglizt (Siralyun)
+en_SS: Tanglizt (SS)
+en_SX: Tanglizt (SX)
+en_SZ: Tanglizt (Swazilanḍa)
+en_TC: Tanglizt (Tigzirin Turkiyyin d Tikaykusin)
+en_TH: Tanglizt (Ṭaylanḍa)
+en_TK: Tanglizt (Tuklu)
+en_TO: Tanglizt (Ṭunga)
+en_TR: Tanglizt (Turkya)
+en_TT: Tanglizt (Trinidad d Ṭubagu)
+en_TV: Tanglizt (Ṭuvalu)
+en_TW: Tanglizt (Ṭaywan)
+en_TZ: Tanglizt (Ṭanzanya)
+en_UA: Tanglizt (Ukranya)
+en_UG: Tanglizt (Uɣanda)
+en_UM: Tanglizt (UM)
+en_US: Tanglizt (Iwunak Idduklen n Amirika)
+en_US_POSIX: Tanglizt (Iwunak Idduklen n Amirika, POSIX)
+en_VC: Tanglizt (Santevinsent d Grinadin)
+en_VG: Tanglizt (Tigzirin [Virgin] Tibṛiṭaniyin)
+en_VI: Tanglizt (Tigzirin n Virjin n Iwunak Yedduklen)
+en_VU: Tanglizt (Vanwatu)
+en_WS: Tanglizt (Samwa)
+en_ZA: Tanglizt (Tafrikt Tunẓul)
+en_ZM: Tanglizt (Zambya)
+en_ZW: Tanglizt (Zimbabwi)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: tasbelyunit
+es_003: tasbelyunit (003)
+es_419: tasbelyunit (419)
+es_AG: tasbelyunit (Antigwa d Barbuda)
+es_AR: tasbelyunit (Arjuntin)
+es_BB: tasbelyunit (Barbadus)
+es_BM: tasbelyunit (Birmuda)
+es_BO: tasbelyunit (Bulivya)
+es_BQ: tasbelyunit (BQ)
+es_BR: tasbelyunit (Bṛazil)
+es_BS: tasbelyunit (Bahamas)
+es_BZ: tasbelyunit (Biliz)
+es_CA: tasbelyunit (Kanada)
+es_CL: tasbelyunit (Ccili)
+es_CO: tasbelyunit (Kulumbya)
+es_CR: tasbelyunit (Kusṭa Rika)
+es_CU: tasbelyunit (kuba)
+es_CW: tasbelyunit (CW)
+es_DM: tasbelyunit (Ḍuminika)
+es_DO: tasbelyunit (Tagduda n Ḍuminikan)
+es_EA: tasbelyunit (EA)
+es_EC: tasbelyunit (Ikwaḍur)
+es_ES: tasbelyunit (Sbanya)
+es_GD: tasbelyunit (Grinada)
+es_GQ: tasbelyunit (Ɣinya Tikwaṭur it)
+es_GT: tasbelyunit (Gwatimala)
+es_GY: tasbelyunit (Guyana)
+es_HN: tasbelyunit (Hinduras)
+es_HT: tasbelyunit (Hayti)
+es_IC: tasbelyunit (IC)
+es_KN: tasbelyunit (Santekits d Nivis)
+es_KY: tasbelyunit (Tigzirin n Kayman)
+es_LC: tasbelyunit (Santelusya)
+es_MX: tasbelyunit (Miksik)
+es_NI: tasbelyunit (Nikaragwa)
+es_PA: tasbelyunit (Panama)
+es_PE: tasbelyunit (Piru)
+es_PH: tasbelyunit (Filippin)
+es_PR: tasbelyunit (Purturiku)
+es_PY: tasbelyunit (Paragway)
+es_SV: tasbelyunit (Salvaḍur)
+es_TC: tasbelyunit (Tigzirin Turkiyyin d Tikaykusin)
+es_TT: tasbelyunit (Trinidad d Ṭubagu)
+es_US: tasbelyunit (Iwunak Idduklen n Amirika)
+es_UY: tasbelyunit (Urugway)
+es_VC: tasbelyunit (Santevinsent d Grinadin)
+es_VE: tasbelyunit (Vinzwilla)
+es_VG: tasbelyunit (Tigzirin [Virgin] Tibṛiṭaniyin)
+es_VI: tasbelyunit (Tigzirin n Virjin n Iwunak Yedduklen)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Tafarisit
+fa_AF: Tafarisit (Afɣanistan)
+fa_IR: Tafarisit (Iran)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Tafṛansist
+fr_BE: Tafṛansist (Beljika)
+fr_BF: Tafṛansist (Burkina Fasu)
+fr_BI: Tafṛansist (Burundi)
+fr_BJ: Tafṛansist (Binin)
+fr_BL: Tafṛansist (BL)
+fr_CA: Tafṛansist (Kanada)
+fr_CD: Tafṛansist (Tagduda Tadimuqraṭit n Kungu)
+fr_CF: Tafṛansist (Tagduda n Afrika Wammas)
+fr_CG: Tafṛansist (Kungu)
+fr_CH: Tafṛansist (Swisra)
+fr_CI: Tafṛansist (Taɣazut n Uszer)
+fr_CM: Tafṛansist (Kamerun)
+fr_DJ: Tafṛansist (Ǧibuti)
+fr_DZ: Tafṛansist (Dzayer)
+fr_FR: Tafṛansist (Fṛansa)
+fr_GA: Tafṛansist (Gabun)
+fr_GF: Tafṛansist (Guyana Tafransist)
+fr_GN: Tafṛansist (Ɣinya)
+fr_GP: Tafṛansist (Gwadalup)
+fr_GQ: Tafṛansist (Ɣinya Tikwaṭur it)
+fr_HT: Tafṛansist (Hayti)
+fr_KM: Tafṛansist (Qumur)
+fr_LU: Tafṛansist (Liksumburg)
+fr_MA: Tafṛansist (Meṛṛuk)
+fr_MC: Tafṛansist (Munaku)
+fr_MF: Tafṛansist (MF)
+fr_MG: Tafṛansist (Madaɣacqar)
+fr_ML: Tafṛansist (Mali)
+fr_MQ: Tafṛansist (Martinik)
+fr_MR: Tafṛansist (Muritanya)
+fr_MU: Tafṛansist (Muris)
+fr_NC: Tafṛansist (kalidunya Tamaynut)
+fr_NE: Tafṛansist (Nnijer)
+fr_PF: Tafṛansist (Pulinizya Tafransist)
+fr_PM: Tafṛansist (Santepyir d Mikelun)
+fr_RE: Tafṛansist (Riyyunyun)
+fr_RW: Tafṛansist (Ruwwanḍa)
+fr_SC: Tafṛansist (Ssicil)
+fr_SN: Tafṛansist (Ssiniɣal)
+fr_SY: Tafṛansist (Surya)
+fr_TD: Tafṛansist (Tcad)
+fr_TG: Tafṛansist (Ṭṭugu)
+fr_TN: Tafṛansist (Tunes)
+fr_VU: Tafṛansist (Vanwatu)
+fr_WF: Tafṛansist (Walis d Futuna)
+fr_YT: Tafṛansist (Mayuṭ)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Tahawsat
+ha_GH: Tahawsat (Ɣana)
+ha_NE: Tahawsat (Nnijer)
+ha_NG: Tahawsat (Nijiria)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: Tahindit
+hi_IN: Tahindit (Hind)
+hi_Latn: Tahindit (Latn)
+hi_Latn_IN: Tahindit (Latn, Hind)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Tahenɣarit
+hu_HU: Tahenɣarit (Henɣarya)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Tindunisit
+id_ID: Tindunisit (Indunizya)
+ig: Tigbut
+ig_NG: Tigbut (Nijiria)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: Taṭalyant
+it_CH: Taṭalyant (Swisra)
+it_IT: Taṭalyant (Iṭalya)
+it_SM: Taṭalyant (Sanmarinu)
+it_VA: Taṭalyant (Awank iɣrem n Vatikan)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Tajappunit
+ja_JP: Tajappunit (Jjappun)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Tajavanit
+jv_ID: Tajavanit (Indunizya)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Taxmert ,Talammast
+km_KH: Taxmert ,Talammast (Kambudj)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Takurit
+ko_KP: Takurit (Kurya Tugafat)
+ko_KR: Takurit (Kurya Tunẓult)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, Hind)
+ks_Aran_IN: ks (Aran, Hind)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, Hind)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Tamalizit
+ms_Arab: Tamalizit (Arab)
+ms_Arab_BN: Tamalizit (Arab, Brunay)
+ms_Arab_MY: Tamalizit (Arab, Malizya)
+ms_BN: Tamalizit (Brunay)
+ms_ID: Tamalizit (Indunizya)
+ms_MY: Tamalizit (Malizya)
+ms_SG: Tamalizit (Sanɣafura)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Taburmanit
+my_MM: Taburmanit (Myanmar)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Tanippalit
+ne_IN: Tanippalit (Hind)
+ne_NP: Tanippalit (Nippal)
+nl: Tahulanḍit
+nl_AW: Tahulanḍit (Aruba)
+nl_BE: Tahulanḍit (Beljika)
+nl_BQ: Tahulanḍit (BQ)
+nl_CW: Tahulanḍit (CW)
+nl_NL: Tahulanḍit (Hulanḍa)
+nl_SR: Tahulanḍit (Surinam)
+nl_SX: Tahulanḍit (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Tabenjabit
+pa_Arab: Tabenjabit (Arab)
+pa_Arab_PK: Tabenjabit (Arab, Pakistan)
+pa_Aran_PK: Tabenjabit (Aran, Pakistan)
+pa_Guru: Tabenjabit (Guru)
+pa_Guru_IN: Tabenjabit (Guru, Hind)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Tappulunit
+pl_PL: Tappulunit (Pulunya)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Taburtuɣalit
+pt_AO: Taburtuɣalit (Angula)
+pt_BR: Taburtuɣalit (Bṛazil)
+pt_CH: Taburtuɣalit (Swisra)
+pt_CV: Taburtuɣalit (Tigzirin n Iɣf Uzegzaw)
+pt_FR: Taburtuɣalit (Fṛansa)
+pt_GQ: Taburtuɣalit (Ɣinya Tikwaṭur it)
+pt_GW: Taburtuɣalit (Ɣinya-Bissaw)
+pt_LU: Taburtuɣalit (Liksumburg)
+pt_MO: Taburtuɣalit (MO)
+pt_MZ: Taburtuɣalit (Muzambiq)
+pt_PT: Taburtuɣalit (Purtuɣal)
+pt_ST: Taburtuɣalit (Sawṭumi d Prinsip)
+pt_TL: Taburtuɣalit (Timur Tagmuṭ)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Taṛumanit
+ro_MD: Taṛumanit (Mulḍavya)
+ro_RO: Taṛumanit (Ṛumanya)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Tarusit
+ru_BY: Tarusit (Bilarusya)
+ru_KG: Tarusit (Kirɣistan)
+ru_KZ: Tarusit (Kazaxistan)
+ru_MD: Tarusit (Mulḍavya)
+ru_RU: Tarusit (Rusya)
+ru_UA: Tarusit (Ukranya)
+rw: Tarwandit
+rw_RW: Tarwandit (Ruwwanḍa)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Taṣumalit
+so_DJ: Taṣumalit (Ǧibuti)
+so_ET: Taṣumalit (Ityupya)
+so_KE: Taṣumalit (Kinya)
+so_SO: Taṣumalit (Ṣṣumal)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Taswidit
+sv_AX: Taswidit (AX)
+sv_FI: Taswidit (Finlanḍa)
+sv_SE: Taswidit (Ssewwid)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Tatamilt
+ta_IN: Tatamilt (Hind)
+ta_LK: Tatamilt (Srilanka)
+ta_MY: Tatamilt (Malizya)
+ta_SG: Tatamilt (Sanɣafura)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Taṭayt
+th_TH: Taṭayt (Ṭaylanḍa)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Taturkit
+tr_CY: Taturkit (Qubrus)
+tr_TR: Taturkit (Turkya)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Tamaziɣt n laṭlaṣ
+tzm_MA: Tamaziɣt n laṭlaṣ (Meṛṛuk)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Tukranit
+uk_UA: Tukranit (Ukranya)
+ur: Turdut
+ur_Arab: Turdut (Arab)
+ur_Arab_IN: Turdut (Arab, Hind)
+ur_Arab_PK: Turdut (Arab, Pakistan)
+ur_Aran_PK: Turdut (Aran, Pakistan)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Taviṭnamit
+vi_VN: Taviṭnamit (Viṭnam)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Tayurubat
+yo_BJ: Tayurubat (Binin)
+yo_NG: Tayurubat (Nijiria)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, Ṣṣin)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Tacinwit,Mandarin
+zh_Hans: Tacinwit,Mandarin (Hans)
+zh_Hans_CN: Tacinwit,Mandarin (Hans, Ṣṣin)
+zh_Hans_HK: Tacinwit,Mandarin (Hans, HK)
+zh_Hans_JP: Tacinwit,Mandarin (Hans, Jjappun)
+zh_Hans_MO: Tacinwit,Mandarin (Hans, MO)
+zh_Hans_SG: Tacinwit,Mandarin (Hans, Sanɣafura)
+zh_Hant: Tacinwit,Mandarin (Hant)
+zh_Hant_CN: Tacinwit,Mandarin (Hant, Ṣṣin)
+zh_Hant_HK: Tacinwit,Mandarin (Hant, HK)
+zh_Hant_MO: Tacinwit,Mandarin (Hant, MO)
+zh_Hant_TW: Tacinwit,Mandarin (Hant, Ṭaywan)
+zu: tazulut
+zu_ZA: tazulut (Tafrikt Tunẓul)

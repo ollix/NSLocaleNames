@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Akan
+ak_GH: Akan (Ghana)
+am: Amharic
+am_ET: Amharic (Ethiopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Arabic
+ar_001: Arabic (world)
+ar_AE: Arabic (United Arab Emirates)
+ar_BH: Arabic (Bahrain)
+ar_DJ: Arabic (Djibouti)
+ar_DZ: Arabic (Algeria)
+ar_EG: Arabic (Egypt)
+ar_EH: Arabic (Western Sahara)
+ar_ER: Arabic (Eritrea)
+ar_IL: Arabic (Israel)
+ar_IQ: Arabic (Iraq)
+ar_JO: Arabic (Jordan)
+ar_KM: Arabic (Comoros)
+ar_KW: Arabic (Kuwait)
+ar_LB: Arabic (Lebanon)
+ar_LY: Arabic (Libya)
+ar_MA: Arabic (Morocco)
+ar_MR: Arabic (Mauritania)
+ar_OM: Arabic (Oman)
+ar_PS: Arabic (Palestinian Territories)
+ar_QA: Arabic (Qatar)
+ar_SA: Arabic (Saudi Arabia)
+ar_SD: Arabic (Sudan)
+ar_SO: Arabic (Somalia)
+ar_SS: Arabic (South Sudan)
+ar_SY: Arabic (Syria)
+ar_TD: Arabic (Chad)
+ar_TN: Arabic (Tunisia)
+ar_YE: Arabic (Yemen)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Belarusian
+be_BY: Belarusian (Belarus)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Bulgarian
+bg_BG: Bulgarian (Bulgaria)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Bangla
+bn_BD: Bangla (Bangladesh)
+bn_IN: Bangla (India)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Xi Czech
+cs_CZ: Xi Czech (CZ)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Xi Danish
+da_DK: Xi Danish (DK)
+da_GL: Xi Danish (GL)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: Xi Jarimani
+de_AT: Xi Jarimani (AT)
+de_BE: Xi Jarimani (BE)
+de_CH: Xi Jarimani (CH)
+de_DE: Xi Jarimani (DE)
+de_IT: Xi Jarimani (IT)
+de_LI: Xi Jarimani (LI)
+de_LU: Xi Jarimani (LU)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Xi Giriki
+el_CY: Xi Giriki (CY)
+el_GR: Xi Giriki (GR)
+en: Xi Nghezi
+en_001: Xi Nghezi (001)
+en_150: Xi Nghezi (150)
+en_AE: Xi Nghezi (AE)
+en_AG: Xi Nghezi (AG)
+en_AI: Xi Nghezi (AI)
+en_AL: Xi Nghezi (AL)
+en_AR: Xi Nghezi (AR)
+en_AS: Xi Nghezi (AS)
+en_AT: Xi Nghezi (AT)
+en_AU: Xi Nghezi (AU)
+en_BB: Xi Nghezi (BB)
+en_BD: Xi Nghezi (BD)
+en_BE: Xi Nghezi (BE)
+en_BG: Xi Nghezi (BG)
+en_BI: Xi Nghezi (BI)
+en_BM: Xi Nghezi (BM)
+en_BN: Xi Nghezi (BN)
+en_BR: Xi Nghezi (BR)
+en_BS: Xi Nghezi (BS)
+en_BW: Xi Nghezi (BW)
+en_BZ: Xi Nghezi (BZ)
+en_CA: Xi Nghezi (CA)
+en_CC: Xi Nghezi (CC)
+en_CH: Xi Nghezi (CH)
+en_CK: Xi Nghezi (CK)
+en_CL: Xi Nghezi (CL)
+en_CM: Xi Nghezi (CM)
+en_CN: Xi Nghezi (CN)
+en_CO: Xi Nghezi (CO)
+en_CV: Xi Nghezi (CV)
+en_CX: Xi Nghezi (CX)
+en_CY: Xi Nghezi (CY)
+en_CZ: Xi Nghezi (CZ)
+en_DE: Xi Nghezi (DE)
+en_DG: Xi Nghezi (DG)
+en_DK: Xi Nghezi (DK)
+en_DM: Xi Nghezi (DM)
+en_EE: Xi Nghezi (EE)
+en_ER: Xi Nghezi (ER)
+en_FI: Xi Nghezi (FI)
+en_FJ: Xi Nghezi (FJ)
+en_FK: Xi Nghezi (FK)
+en_FM: Xi Nghezi (FM)
+en_FR: Xi Nghezi (FR)
+en_GB: Xi Nghezi (GB)
+en_GD: Xi Nghezi (GD)
+en_GG: Xi Nghezi (GG)
+en_GH: Xi Nghezi (GH)
+en_GI: Xi Nghezi (GI)
+en_GM: Xi Nghezi (GM)
+en_GR: Xi Nghezi (GR)
+en_GU: Xi Nghezi (GU)
+en_GY: Xi Nghezi (GY)
+en_HK: Xi Nghezi (HK)
+en_HU: Xi Nghezi (HU)
+en_ID: Xi Nghezi (ID)
+en_IE: Xi Nghezi (IE)
+en_IL: Xi Nghezi (IL)
+en_IM: Xi Nghezi (IM)
+en_IN: Xi Nghezi (IN)
+en_IO: Xi Nghezi (IO)
+en_JE: Xi Nghezi (JE)
+en_JM: Xi Nghezi (JM)
+en_JP: Xi Nghezi (JP)
+en_KE: Xi Nghezi (KE)
+en_KI: Xi Nghezi (KI)
+en_KN: Xi Nghezi (KN)
+en_KR: Xi Nghezi (KR)
+en_KY: Xi Nghezi (KY)
+en_LC: Xi Nghezi (LC)
+en_LR: Xi Nghezi (LR)
+en_LS: Xi Nghezi (LS)
+en_LT: Xi Nghezi (LT)
+en_LV: Xi Nghezi (LV)
+en_MG: Xi Nghezi (MG)
+en_MH: Xi Nghezi (MH)
+en_MM: Xi Nghezi (MM)
+en_MO: Xi Nghezi (MO)
+en_MP: Xi Nghezi (MP)
+en_MS: Xi Nghezi (MS)
+en_MT: Xi Nghezi (MT)
+en_MU: Xi Nghezi (MU)
+en_MV: Xi Nghezi (MV)
+en_MW: Xi Nghezi (MW)
+en_MX: Xi Nghezi (MX)
+en_MY: Xi Nghezi (MY)
+en_NA: Xi Nghezi (NA)
+en_NF: Xi Nghezi (NF)
+en_NG: Xi Nghezi (NG)
+en_NL: Xi Nghezi (NL)
+en_NO: Xi Nghezi (NO)
+en_NR: Xi Nghezi (NR)
+en_NU: Xi Nghezi (NU)
+en_NZ: Xi Nghezi (NZ)
+en_PG: Xi Nghezi (PG)
+en_PH: Xi Nghezi (PH)
+en_PK: Xi Nghezi (PK)
+en_PL: Xi Nghezi (PL)
+en_PN: Xi Nghezi (PN)
+en_PR: Xi Nghezi (PR)
+en_PT: Xi Nghezi (PT)
+en_PW: Xi Nghezi (PW)
+en_RU: Xi Nghezi (RU)
+en_RW: Xi Nghezi (RW)
+en_SA: Xi Nghezi (SA)
+en_SB: Xi Nghezi (SB)
+en_SC: Xi Nghezi (SC)
+en_SD: Xi Nghezi (SD)
+en_SE: Xi Nghezi (SE)
+en_SG: Xi Nghezi (SG)
+en_SH: Xi Nghezi (SH)
+en_SI: Xi Nghezi (SI)
+en_SK: Xi Nghezi (SK)
+en_SL: Xi Nghezi (SL)
+en_SS: Xi Nghezi (SS)
+en_SX: Xi Nghezi (SX)
+en_SZ: Xi Nghezi (SZ)
+en_TC: Xi Nghezi (TC)
+en_TH: Xi Nghezi (TH)
+en_TK: Xi Nghezi (TK)
+en_TO: Xi Nghezi (TO)
+en_TR: Xi Nghezi (TR)
+en_TT: Xi Nghezi (TT)
+en_TV: Xi Nghezi (TV)
+en_TW: Xi Nghezi (TW)
+en_TZ: Xi Nghezi (TZ)
+en_UA: Xi Nghezi (UA)
+en_UG: Xi Nghezi (UG)
+en_UM: Xi Nghezi (UM)
+en_US: Xi Nghezi (US)
+en_US_POSIX: Xi Nghezi (US, POSIX)
+en_VC: Xi Nghezi (VC)
+en_VG: Xi Nghezi (VG)
+en_VI: Xi Nghezi (VI)
+en_VU: Xi Nghezi (VU)
+en_WS: Xi Nghezi (WS)
+en_ZA: Xi Nghezi (ZA)
+en_ZM: Xi Nghezi (ZM)
+en_ZW: Xi Nghezi (ZW)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Xi spain
+es_003: Xi spain (003)
+es_419: Xi spain (419)
+es_AG: Xi spain (AG)
+es_AR: Xi spain (AR)
+es_BB: Xi spain (BB)
+es_BM: Xi spain (BM)
+es_BO: Xi spain (BO)
+es_BQ: Xi spain (BQ)
+es_BR: Xi spain (BR)
+es_BS: Xi spain (BS)
+es_BZ: Xi spain (BZ)
+es_CA: Xi spain (CA)
+es_CL: Xi spain (CL)
+es_CO: Xi spain (CO)
+es_CR: Xi spain (CR)
+es_CU: Xi spain (CU)
+es_CW: Xi spain (CW)
+es_DM: Xi spain (DM)
+es_DO: Xi spain (DO)
+es_EA: Xi spain (EA)
+es_EC: Xi spain (EC)
+es_ES: Xi spain (ES)
+es_GD: Xi spain (GD)
+es_GQ: Xi spain (GQ)
+es_GT: Xi spain (GT)
+es_GY: Xi spain (GY)
+es_HN: Xi spain (HN)
+es_HT: Xi spain (HT)
+es_IC: Xi spain (IC)
+es_KN: Xi spain (KN)
+es_KY: Xi spain (KY)
+es_LC: Xi spain (LC)
+es_MX: Xi spain (MX)
+es_NI: Xi spain (NI)
+es_PA: Xi spain (PA)
+es_PE: Xi spain (PE)
+es_PH: Xi spain (PH)
+es_PR: Xi spain (PR)
+es_PY: Xi spain (PY)
+es_SV: Xi spain (SV)
+es_TC: Xi spain (TC)
+es_TT: Xi spain (TT)
+es_US: Xi spain (US)
+es_UY: Xi spain (UY)
+es_VC: Xi spain (VC)
+es_VE: Xi spain (VE)
+es_VG: Xi spain (VG)
+es_VI: Xi spain (VI)
+et: hi xi Estonia
+et_EE: hi xi Estonia (EE)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Persian
+fa_AF: Persian (Afghanistan)
+fa_IR: Persian (Iran)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Xi Finnish
+fi_FI: Xi Finnish (FI)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Xi Furwa
+fr_BE: Xi Furwa (BE)
+fr_BF: Xi Furwa (BF)
+fr_BI: Xi Furwa (BI)
+fr_BJ: Xi Furwa (BJ)
+fr_BL: Xi Furwa (BL)
+fr_CA: Xi Furwa (CA)
+fr_CD: Xi Furwa (CD)
+fr_CF: Xi Furwa (CF)
+fr_CG: Xi Furwa (CG)
+fr_CH: Xi Furwa (CH)
+fr_CI: Xi Furwa (CI)
+fr_CM: Xi Furwa (CM)
+fr_DJ: Xi Furwa (DJ)
+fr_DZ: Xi Furwa (DZ)
+fr_FR: Xi Furwa (FR)
+fr_GA: Xi Furwa (GA)
+fr_GF: Xi Furwa (GF)
+fr_GN: Xi Furwa (GN)
+fr_GP: Xi Furwa (GP)
+fr_GQ: Xi Furwa (GQ)
+fr_HT: Xi Furwa (HT)
+fr_KM: Xi Furwa (KM)
+fr_LU: Xi Furwa (LU)
+fr_MA: Xi Furwa (MA)
+fr_MC: Xi Furwa (MC)
+fr_MF: Xi Furwa (MF)
+fr_MG: Xi Furwa (MG)
+fr_ML: Xi Furwa (ML)
+fr_MQ: Xi Furwa (MQ)
+fr_MR: Xi Furwa (MR)
+fr_MU: Xi Furwa (MU)
+fr_NC: Xi Furwa (NC)
+fr_NE: Xi Furwa (NE)
+fr_PF: Xi Furwa (PF)
+fr_PM: Xi Furwa (PM)
+fr_RE: Xi Furwa (RE)
+fr_RW: Xi Furwa (RW)
+fr_SC: Xi Furwa (SC)
+fr_SN: Xi Furwa (SN)
+fr_SY: Xi Furwa (SY)
+fr_TD: Xi Furwa (TD)
+fr_TG: Xi Furwa (TG)
+fr_TN: Xi Furwa (TN)
+fr_VU: Xi Furwa (VU)
+fr_WF: Xi Furwa (WF)
+fr_YT: Xi Furwa (YT)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Hausa
+ha_GH: Hausa (Ghana)
+ha_NE: Hausa (Niger)
+ha_NG: Hausa (Nigeria)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: XiHeberu
+he_IL: XiHeberu (IL)
+hi: Hindi
+hi_IN: Hindi (India)
+hi_Latn: Hindi (Latin)
+hi_Latn_IN: Hindi (Latin, India)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: hi xi Hungary
+hu_HU: hi xi Hungary (HU)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Indonesian
+id_ID: Indonesian (Indonesia)
+ig: Igbo
+ig_NG: Igbo (Nigeria)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: hi xi Iceland
+is_IS: hi xi Iceland (IS)
+it: Xi Ithali
+it_CH: Xi Ithali (CH)
+it_IT: Xi Ithali (IT)
+it_SM: Xi Ithali (SM)
+it_VA: Xi Ithali (VA)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Xi Japani
+ja_JP: Xi Japani (JP)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Javanese
+jv_ID: Javanese (Indonesia)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Khmer
+km_KH: Khmer (Cambodia)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Xikorea
+ko_KP: Xikorea (KP)
+ko_KR: Xikorea (KR)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, IN)
+ks_Aran_IN: ks (Aran, IN)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, IN)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: hi xi Lithuania
+lt_LT: hi xi Lithuania (LT)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: hi xi Latvia
+lv_LV: hi xi Latvia (LV)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Malay
+ms_Arab: Malay (Arabic)
+ms_Arab_BN: Malay (Arabic, Brunei)
+ms_Arab_MY: Malay (Arabic, Malaysia)
+ms_BN: Malay (Brunei)
+ms_ID: Malay (Indonesia)
+ms_MY: Malay (Malaysia)
+ms_SG: Malay (Singapore)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Burmese
+my_MM: Burmese (Myanmar [Burma])
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Nepali
+ne_IN: Nepali (India)
+ne_NP: Nepali (Nepal)
+nl: Xi bunu
+nl_AW: Xi bunu (AW)
+nl_BE: Xi bunu (BE)
+nl_BQ: Xi bunu (BQ)
+nl_CW: Xi bunu (CW)
+nl_NL: Xi bunu (NL)
+nl_SR: Xi bunu (SR)
+nl_SX: Xi bunu (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Xi Norway
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Punjabi
+pa_Arab: pa (Arab)
+pa_Arab_PK: pa (Arab, PK)
+pa_Aran_PK: pa (Aran, PK)
+pa_Guru: pa (Guru)
+pa_Guru_IN: pa (Guru, IN)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Xi Polixi
+pl_PL: Xi Polixi (PL)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Putukezi
+pt_AO: Putukezi (AO)
+pt_BR: Putukezi (BR)
+pt_CH: Putukezi (CH)
+pt_CV: Putukezi (CV)
+pt_FR: Putukezi (FR)
+pt_GQ: Putukezi (GQ)
+pt_GW: Putukezi (GW)
+pt_LU: Putukezi (LU)
+pt_MO: Putukezi (MO)
+pt_MZ: Putukezi (MZ)
+pt_PT: Putukezi (PT)
+pt_ST: Putukezi (ST)
+pt_TL: Putukezi (TL)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: hi xi Romania
+ro_MD: hi xi Romania (MD)
+ro_RO: hi xi Romania (RO)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Xi Rhaxiya
+ru_BY: Xi Rhaxiya (BY)
+ru_KG: Xi Rhaxiya (KG)
+ru_KZ: Xi Rhaxiya (KZ)
+ru_MD: Xi Rhaxiya (MD)
+ru_RU: Xi Rhaxiya (RU)
+ru_UA: Xi Rhaxiya (UA)
+rw: Kinyarwanda
+rw_RW: Kinyarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Somali
+so_DJ: Somali (Djibouti)
+so_ET: Somali (Ethiopia)
+so_KE: Somali (Kenya)
+so_SO: Somali (Somalia)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Xi Swiden
+sv_AX: Xi Swiden (AX)
+sv_FI: Xi Swiden (FI)
+sv_SE: Xi Swiden (SE)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Tamil
+ta_IN: Tamil (India)
+ta_LK: Tamil (Sri Lanka)
+ta_MY: Tamil (Malaysia)
+ta_SG: Tamil (Singapore)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Thai
+th_TH: Thai (Thailand)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Turkish
+tr_CY: Turkish (Cyprus)
+tr_TR: Turkish (Turkey)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Xitsonga
+ts_ZA: Xitsonga (ZA)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Ukrainian
+uk_UA: Ukrainian (Ukraine)
+ur: Urdu
+ur_Arab: ur (Arab)
+ur_Arab_IN: ur (Arab, IN)
+ur_Arab_PK: ur (Arab, PK)
+ur_Aran_PK: ur (Aran, PK)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Vietnamese
+vi_VN: Vietnamese (Vietnam)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Yoruba
+yo_BJ: Yoruba (Benin)
+yo_NG: Yoruba (Nigeria)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, CN)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Chinese
+zh_Hans: zh (Hans)
+zh_Hans_CN: zh (Hans, CN)
+zh_Hans_HK: zh (Hans, HK)
+zh_Hans_JP: zh (Hans, JP)
+zh_Hans_MO: zh (Hans, MO)
+zh_Hans_SG: zh (Hans, SG)
+zh_Hant: zh (Hant)
+zh_Hant_CN: zh (Hant, CN)
+zh_Hant_HK: zh (Hant, HK)
+zh_Hant_MO: zh (Hant, MO)
+zh_Hant_TW: zh (Hant, TW)
+zu: Zulu
+zu_ZA: Zulu (South Africa)

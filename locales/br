@@ -1,0 +1,945 @@
+af: afrikaans
+af_NA: afrikaans (Namibia)
+af_ZA: afrikaans (Suafrika)
+agq: aghem
+agq_CM: aghem (Kameroun)
+ain: ainoueg
+ain_JP: ainoueg (Japan)
+ak: akan
+ak_GH: akan (Ghana)
+am: amhareg
+am_ET: amhareg (Etiopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: arabeg
+ar_001: arabeg (Bed)
+ar_AE: arabeg (Emirelezhioù Arab Unanet)
+ar_BH: arabeg (Bahrein)
+ar_DJ: arabeg (Djibouti)
+ar_DZ: arabeg (Aljeria)
+ar_EG: arabeg (Egipt)
+ar_EH: arabeg (Sahara ar Cʼhornôg)
+ar_ER: arabeg (Eritrea)
+ar_IL: arabeg (Israel)
+ar_IQ: arabeg (Iraq)
+ar_JO: arabeg (Jordania)
+ar_KM: arabeg (Komorez)
+ar_KW: arabeg (Koweit)
+ar_LB: arabeg (Liban)
+ar_LY: arabeg (Libia)
+ar_MA: arabeg (Maroko)
+ar_MR: arabeg (Maouritania)
+ar_OM: arabeg (Oman)
+ar_PS: arabeg (Tiriadoù Palestina)
+ar_QA: arabeg (Qatar)
+ar_SA: arabeg (Arabia Saoudat)
+ar_SD: arabeg (Soudan)
+ar_SO: arabeg (Somalia)
+ar_SS: arabeg (Susoudan)
+ar_SY: arabeg (Siria)
+ar_TD: arabeg (Tchad)
+ar_TN: arabeg (Tunizia)
+ar_YE: arabeg (Yemen)
+arn: araoukaneg
+arn_CL: araoukaneg (Chile)
+as: asameg
+as_IN: asameg (India)
+asa: asu
+asa_TZ: asu (Tanzania)
+ast: asturianeg
+ast_ES: asturianeg (Spagn)
+az: azerbaidjaneg
+az_Cyrl: azerbaidjaneg (kirillek)
+az_Cyrl_AZ: azerbaidjaneg (kirillek, Azerbaidjan)
+az_Latn: azerbaidjaneg (latin)
+az_Latn_AZ: azerbaidjaneg (latin, Azerbaidjan)
+ba: bachkir
+ba_RU: bachkir (Rusia)
+bas: basaa
+bas_CM: basaa (Kameroun)
+be: belaruseg
+be_BY: belaruseg (Belarus)
+bem: bemba
+bem_ZM: bemba (Zambia)
+bez: bena
+bez_TZ: bena (Tanzania)
+bg: bulgareg
+bg_BG: bulgareg (Bulgaria)
+bm: bambara
+bm_ML: bambara (Mali)
+bn: bengali
+bn_BD: bengali (Bangladesh)
+bn_IN: bengali (India)
+bo: tibetaneg
+bo_CN: tibetaneg (Sina)
+bo_IN: tibetaneg (India)
+br: brezhoneg
+br_FR: brezhoneg (Frañs)
+brx: bodo
+brx_IN: bodo (India)
+bs: bosneg
+bs_Cyrl: bosneg (kirillek)
+bs_Cyrl_BA: bosneg (kirillek, Bosnia ha Herzegovina)
+bs_Latn: bosneg (latin)
+bs_Latn_BA: bosneg (latin, Bosnia ha Herzegovina)
+byn: blin
+byn_ER: blin (Eritrea)
+ca: katalaneg
+ca_AD: katalaneg (Andorra)
+ca_ES: katalaneg (Spagn)
+ca_FR: katalaneg (Frañs)
+ca_IT: katalaneg (Italia)
+ccp: chakmaeg
+ccp_BD: chakmaeg (Bangladesh)
+ccp_IN: chakmaeg (India)
+ce: tchetcheneg
+ce_RU: tchetcheneg (Rusia)
+ceb: cebuano
+ceb_PH: cebuano (Filipinez)
+cgg: chigaeg
+cgg_UG: chigaeg (Ouganda)
+chr: cherokee
+chr_US: cherokee (Stadoù-Unanet)
+ckb: kurdeg sorani
+ckb_IQ: kurdeg sorani (Iraq)
+ckb_IR: kurdeg sorani (Iran)
+co: korseg
+co_FR: korseg (Frañs)
+cs: tchekeg
+cs_CZ: tchekeg (Tchekia)
+cv: tchouvatch
+cv_RU: tchouvatch (Rusia)
+cy: kembraeg
+cy_GB: kembraeg (Rouantelezh-Unanet)
+da: daneg
+da_DK: daneg (Danmark)
+da_GL: daneg (Greunland)
+dav: taita
+dav_KE: taita (Kenya)
+de: alamaneg
+de_AT: alamaneg (Aostria)
+de_BE: alamaneg (Belgia)
+de_CH: alamaneg (Suis)
+de_DE: alamaneg (Alamagn)
+de_IT: alamaneg (Italia)
+de_LI: alamaneg (Liechtenstein)
+de_LU: alamaneg (Luksembourg)
+dje: zarma
+dje_NE: zarma (Niger)
+doi: dogri
+doi_IN: dogri (India)
+dsb: izelsorabeg
+dsb_DE: izelsorabeg (Alamagn)
+dua: douala
+dua_CM: douala (Kameroun)
+dv: divehi
+dv_MV: divehi (Maldivez)
+dyo: diola
+dyo_SN: diola (Senegal)
+dz: dzongkha
+dz_BT: dzongkha (Bhoutan)
+ebu: embu
+ebu_KE: embu (Kenya)
+ee: ewe
+ee_GH: ewe (Ghana)
+ee_TG: ewe (Togo)
+el: gresianeg
+el_CY: gresianeg (Kiprenez)
+el_GR: gresianeg (Gres)
+en: saozneg
+en_001: saozneg (Bed)
+en_150: saozneg (Europa)
+en_AE: saozneg (Emirelezhioù Arab Unanet)
+en_AG: saozneg (Antigua ha Barbuda)
+en_AI: saozneg (Anguilla)
+en_AL: saozneg (Albania)
+en_AR: saozneg (Arcʼhantina)
+en_AS: saozneg (Samoa Amerikan)
+en_AT: saozneg (Aostria)
+en_AU: saozneg (Aostralia)
+en_BB: saozneg (Barbados)
+en_BD: saozneg (Bangladesh)
+en_BE: saozneg (Belgia)
+en_BG: saozneg (Bulgaria)
+en_BI: saozneg (Burundi)
+en_BM: saozneg (Bermuda)
+en_BN: saozneg (Brunei)
+en_BR: saozneg (Brazil)
+en_BS: saozneg (Bahamas)
+en_BW: saozneg (Botswana)
+en_BZ: saozneg (Belize)
+en_CA: saozneg (Kanada)
+en_CC: saozneg (Inizi Kokoz)
+en_CH: saozneg (Suis)
+en_CK: saozneg (Inizi Cook)
+en_CL: saozneg (Chile)
+en_CM: saozneg (Kameroun)
+en_CN: saozneg (Sina)
+en_CO: saozneg (Kolombia)
+en_CV: saozneg (Kab-Glas)
+en_CX: saozneg (Enez Christmas)
+en_CY: saozneg (Kiprenez)
+en_CZ: saozneg (Tchekia)
+en_DE: saozneg (Alamagn)
+en_DG: saozneg (Diego Garcia)
+en_DK: saozneg (Danmark)
+en_DM: saozneg (Dominica)
+en_EE: saozneg (Estonia)
+en_ER: saozneg (Eritrea)
+en_FI: saozneg (Finland)
+en_FJ: saozneg (Fidji)
+en_FK: saozneg (Inizi Falkland)
+en_FM: saozneg (Mikronezia)
+en_FR: saozneg (Frañs)
+en_GB: saozneg (Rouantelezh-Unanet)
+en_GD: saozneg (Grenada)
+en_GG: saozneg (Gwernenez)
+en_GH: saozneg (Ghana)
+en_GI: saozneg (Jibraltar)
+en_GM: saozneg (Gambia)
+en_GR: saozneg (Gres)
+en_GU: saozneg (Guam)
+en_GY: saozneg (Guyana)
+en_HK: saozneg (Hong Kong)
+en_HU: saozneg (Hungaria)
+en_ID: saozneg (Indonezia)
+en_IE: saozneg (Iwerzhon)
+en_IL: saozneg (Israel)
+en_IM: saozneg (Enez Vanav)
+en_IN: saozneg (India)
+en_IO: saozneg (Tiriad breizhveurat Meurvor Indez)
+en_JE: saozneg (Jerzenez)
+en_JM: saozneg (Jamaika)
+en_JP: saozneg (Japan)
+en_KE: saozneg (Kenya)
+en_KI: saozneg (Kiribati)
+en_KN: saozneg (Saint Kitts ha Nevis)
+en_KR: saozneg (Korea ar Su)
+en_KY: saozneg (Inizi Cayman)
+en_LC: saozneg (Saint Lucia)
+en_LR: saozneg (Liberia)
+en_LS: saozneg (Lesotho)
+en_LT: saozneg (Lituania)
+en_LV: saozneg (Latvia)
+en_MG: saozneg (Madagaskar)
+en_MH: saozneg (Inizi Marshall)
+en_MM: saozneg (Myanmar [Birmania])
+en_MO: saozneg (Macau)
+en_MP: saozneg (Inizi Mariana an Norzh)
+en_MS: saozneg (Montserrat)
+en_MT: saozneg (Malta)
+en_MU: saozneg (Moris)
+en_MV: saozneg (Maldivez)
+en_MW: saozneg (Malawi)
+en_MX: saozneg (Mecʼhiko)
+en_MY: saozneg (Malaysia)
+en_NA: saozneg (Namibia)
+en_NF: saozneg (Enez Norfolk)
+en_NG: saozneg (Nigeria)
+en_NL: saozneg (Izelvroioù)
+en_NO: saozneg (Norvegia)
+en_NR: saozneg (Nauru)
+en_NU: saozneg (Niue)
+en_NZ: saozneg (Zeland-Nevez)
+en_PG: saozneg (Papoua Ginea-Nevez)
+en_PH: saozneg (Filipinez)
+en_PK: saozneg (Pakistan)
+en_PL: saozneg (Polonia)
+en_PN: saozneg (Enez Pitcairn)
+en_PR: saozneg (Puerto Rico)
+en_PT: saozneg (Portugal)
+en_PW: saozneg (Palau)
+en_RU: saozneg (Rusia)
+en_RW: saozneg (Rwanda)
+en_SA: saozneg (Arabia Saoudat)
+en_SB: saozneg (Inizi Salomon)
+en_SC: saozneg (Sechelez)
+en_SD: saozneg (Soudan)
+en_SE: saozneg (Sveden)
+en_SG: saozneg (Singapour)
+en_SH: saozneg (Saint-Helena)
+en_SI: saozneg (Slovenia)
+en_SK: saozneg (Slovakia)
+en_SL: saozneg (Sierra Leone)
+en_SS: saozneg (Susoudan)
+en_SX: saozneg (Sint Maarten)
+en_SZ: saozneg (Eswatini)
+en_TC: saozneg (Inizi Turks ha Caicos)
+en_TH: saozneg (Thailand)
+en_TK: saozneg (Tokelau)
+en_TO: saozneg (Tonga)
+en_TR: saozneg (Turkia)
+en_TT: saozneg (Trinidad ha Tobago)
+en_TV: saozneg (Tuvalu)
+en_TW: saozneg (Taiwan)
+en_TZ: saozneg (Tanzania)
+en_UA: saozneg (Ukraina)
+en_UG: saozneg (Ouganda)
+en_UM: saozneg (Inizi diabell ar Stadoù-Unanet)
+en_US: saozneg (Stadoù-Unanet)
+en_US_POSIX: saozneg (Stadoù-Unanet, stlenneg)
+en_VC: saozneg (Sant Visant hag ar Grenadinez)
+en_VG: saozneg (Inizi Gwercʼh Breizh-Veur)
+en_VI: saozneg (Inizi Gwercʼh ar Stadoù-Unanet)
+en_VU: saozneg (Vanuatu)
+en_WS: saozneg (Samoa)
+en_ZA: saozneg (Suafrika)
+en_ZM: saozneg (Zambia)
+en_ZW: saozneg (Zimbabwe)
+eo: esperanteg
+eo_001: esperanteg (Bed)
+es: spagnoleg
+es_003: spagnoleg (Norzhamerika)
+es_419: spagnoleg (Amerika Latin)
+es_AG: spagnoleg (Antigua ha Barbuda)
+es_AR: spagnoleg (Arcʼhantina)
+es_BB: spagnoleg (Barbados)
+es_BM: spagnoleg (Bermuda)
+es_BO: spagnoleg (Bolivia)
+es_BQ: spagnoleg (Karib Nederlandat)
+es_BR: spagnoleg (Brazil)
+es_BS: spagnoleg (Bahamas)
+es_BZ: spagnoleg (Belize)
+es_CA: spagnoleg (Kanada)
+es_CL: spagnoleg (Chile)
+es_CO: spagnoleg (Kolombia)
+es_CR: spagnoleg (Costa Rica)
+es_CU: spagnoleg (Kuba)
+es_CW: spagnoleg (Curaçao)
+es_DM: spagnoleg (Dominica)
+es_DO: spagnoleg (Republik Dominikan)
+es_EA: spagnoleg (Ceuta ha Melilla)
+es_EC: spagnoleg (Ecuador)
+es_ES: spagnoleg (Spagn)
+es_GD: spagnoleg (Grenada)
+es_GQ: spagnoleg (Ginea ar Cʼheheder)
+es_GT: spagnoleg (Guatemala)
+es_GY: spagnoleg (Guyana)
+es_HN: spagnoleg (Honduras)
+es_HT: spagnoleg (Haiti)
+es_IC: spagnoleg (Inizi Kanariez)
+es_KN: spagnoleg (Saint Kitts ha Nevis)
+es_KY: spagnoleg (Inizi Cayman)
+es_LC: spagnoleg (Saint Lucia)
+es_MX: spagnoleg (Mecʼhiko)
+es_NI: spagnoleg (Nicaragua)
+es_PA: spagnoleg (Panamá)
+es_PE: spagnoleg (Perou)
+es_PH: spagnoleg (Filipinez)
+es_PR: spagnoleg (Puerto Rico)
+es_PY: spagnoleg (Paraguay)
+es_SV: spagnoleg (Salvador)
+es_TC: spagnoleg (Inizi Turks ha Caicos)
+es_TT: spagnoleg (Trinidad ha Tobago)
+es_US: spagnoleg (Stadoù-Unanet)
+es_UY: spagnoleg (Uruguay)
+es_VC: spagnoleg (Sant Visant hag ar Grenadinez)
+es_VE: spagnoleg (Venezuela)
+es_VG: spagnoleg (Inizi Gwercʼh Breizh-Veur)
+es_VI: spagnoleg (Inizi Gwercʼh ar Stadoù-Unanet)
+et: estoneg
+et_EE: estoneg (Estonia)
+eu: euskareg
+eu_ES: euskareg (Spagn)
+ewo: ewondo
+ewo_CM: ewondo (Kameroun)
+fa: perseg
+fa_AF: perseg (Afghanistan)
+fa_IR: perseg (Iran)
+ff: fula
+ff_Adlm: fula (adlam)
+ff_Adlm_BF: fula (adlam, Burkina Faso)
+ff_Adlm_CM: fula (adlam, Kameroun)
+ff_Adlm_GH: fula (adlam, Ghana)
+ff_Adlm_GM: fula (adlam, Gambia)
+ff_Adlm_GN: fula (adlam, Ginea)
+ff_Adlm_GW: fula (adlam, Ginea-Bissau)
+ff_Adlm_LR: fula (adlam, Liberia)
+ff_Adlm_MR: fula (adlam, Maouritania)
+ff_Adlm_NE: fula (adlam, Niger)
+ff_Adlm_NG: fula (adlam, Nigeria)
+ff_Adlm_SL: fula (adlam, Sierra Leone)
+ff_Adlm_SN: fula (adlam, Senegal)
+ff_Latn: fula (latin)
+ff_Latn_BF: fula (latin, Burkina Faso)
+ff_Latn_CM: fula (latin, Kameroun)
+ff_Latn_GH: fula (latin, Ghana)
+ff_Latn_GM: fula (latin, Gambia)
+ff_Latn_GN: fula (latin, Ginea)
+ff_Latn_GW: fula (latin, Ginea-Bissau)
+ff_Latn_LR: fula (latin, Liberia)
+ff_Latn_MR: fula (latin, Maouritania)
+ff_Latn_NE: fula (latin, Niger)
+ff_Latn_NG: fula (latin, Nigeria)
+ff_Latn_SL: fula (latin, Sierra Leone)
+ff_Latn_SN: fula (latin, Senegal)
+fi: finneg
+fi_FI: finneg (Finland)
+fil: filipineg
+fil_PH: filipineg (Filipinez)
+fo: faeroeg
+fo_DK: faeroeg (Danmark)
+fo_FO: faeroeg (Inizi Faero)
+fr: galleg
+fr_BE: galleg (Belgia)
+fr_BF: galleg (Burkina Faso)
+fr_BI: galleg (Burundi)
+fr_BJ: galleg (Benin)
+fr_BL: galleg (Saint Barthélemy)
+fr_CA: galleg (Kanada)
+fr_CD: galleg (Kongo - Kinshasa)
+fr_CF: galleg (Republik Kreizafrikan)
+fr_CG: galleg (Kongo - Brazzaville)
+fr_CH: galleg (Suis)
+fr_CI: galleg (Aod an Olifant)
+fr_CM: galleg (Kameroun)
+fr_DJ: galleg (Djibouti)
+fr_DZ: galleg (Aljeria)
+fr_FR: galleg (Frañs)
+fr_GA: galleg (Gabon)
+fr_GF: galleg (Gwiana cʼhall)
+fr_GN: galleg (Ginea)
+fr_GP: galleg (Gwadeloup)
+fr_GQ: galleg (Ginea ar Cʼheheder)
+fr_HT: galleg (Haiti)
+fr_KM: galleg (Komorez)
+fr_LU: galleg (Luksembourg)
+fr_MA: galleg (Maroko)
+fr_MC: galleg (Monaco)
+fr_MF: galleg (Saint Martin)
+fr_MG: galleg (Madagaskar)
+fr_ML: galleg (Mali)
+fr_MQ: galleg (Martinik)
+fr_MR: galleg (Maouritania)
+fr_MU: galleg (Moris)
+fr_NC: galleg (Kaledonia Nevez)
+fr_NE: galleg (Niger)
+fr_PF: galleg (Polinezia Cʼhall)
+fr_PM: galleg (Sant-Pêr-ha-Mikelon)
+fr_RE: galleg (Ar Reünion)
+fr_RW: galleg (Rwanda)
+fr_SC: galleg (Sechelez)
+fr_SN: galleg (Senegal)
+fr_SY: galleg (Siria)
+fr_TD: galleg (Tchad)
+fr_TG: galleg (Togo)
+fr_TN: galleg (Tunizia)
+fr_VU: galleg (Vanuatu)
+fr_WF: galleg (Wallis ha Futuna)
+fr_YT: galleg (Mayotte)
+fur: frioulaneg
+fur_IT: frioulaneg (Italia)
+fy: frizeg ar Cʼhornôg
+fy_NL: frizeg ar Cʼhornôg (Izelvroioù)
+ga: iwerzhoneg
+ga_GB: iwerzhoneg (Rouantelezh-Unanet)
+ga_IE: iwerzhoneg (Iwerzhon)
+gaa: ga
+gaa_GH: ga (Ghana)
+gd: skoseg
+gd_GB: skoseg (Rouantelezh-Unanet)
+gez: gezeg
+gez_ER: gezeg (Eritrea)
+gez_ET: gezeg (Etiopia)
+gl: galizeg
+gl_ES: galizeg (Spagn)
+gn: guarani
+gn_PY: guarani (Paraguay)
+gsw: alamaneg Suis
+gsw_CH: alamaneg Suis (Suis)
+gsw_FR: alamaneg Suis (Frañs)
+gsw_LI: alamaneg Suis (Liechtenstein)
+gu: gujarati
+gu_IN: gujarati (India)
+guz: gusiieg
+guz_KE: gusiieg (Kenya)
+gv: manaveg
+gv_IM: manaveg (Enez Vanav)
+ha: haousa
+ha_GH: haousa (Ghana)
+ha_NE: haousa (Niger)
+ha_NG: haousa (Nigeria)
+haw: hawaieg
+haw_US: hawaieg (Stadoù-Unanet)
+he: hebraeg
+he_IL: hebraeg (Israel)
+hi: hindi
+hi_IN: hindi (India)
+hi_Latn: hindi (latin)
+hi_Latn_IN: hindi (latin, India)
+hr: kroateg
+hr_BA: kroateg (Bosnia ha Herzegovina)
+hr_HR: kroateg (Kroatia)
+hsb: uhelsorabeg
+hsb_DE: uhelsorabeg (Alamagn)
+hu: hungareg
+hu_HU: hungareg (Hungaria)
+hy: armenianeg
+hy_AM: armenianeg (Armenia)
+ia: interlingua
+ia_001: interlingua (Bed)
+id: indonezeg
+id_ID: indonezeg (Indonezia)
+ig: igbo
+ig_NG: igbo (Nigeria)
+ii: yieg Sichuan
+ii_CN: yieg Sichuan (Sina)
+io: ido
+io_001: ido (Bed)
+is: islandeg
+is_IS: islandeg (Island)
+it: italianeg
+it_CH: italianeg (Suis)
+it_IT: italianeg (Italia)
+it_SM: italianeg (San Marino)
+it_VA: italianeg (Vatikan)
+iu: inuktitut
+iu_CA: inuktitut (Kanada)
+ja: japaneg
+ja_JP: japaneg (Japan)
+jbo: lojban
+jbo_001: lojban (Bed)
+jgo: ngomba
+jgo_CM: ngomba (Kameroun)
+jmc: machame
+jmc_TZ: machame (Tanzania)
+jv: javaneg
+jv_ID: javaneg (Indonezia)
+ka: jorjianeg
+ka_GE: jorjianeg (Jorjia)
+kab: kabileg
+kab_DZ: kabileg (Aljeria)
+kaj: jju
+kaj_NG: jju (Nigeria)
+kam: kamba
+kam_KE: kamba (Kenya)
+kcg: tyap
+kcg_NG: tyap (Nigeria)
+kde: makonde
+kde_TZ: makonde (Tanzania)
+kea: kabuverdianu
+kea_CV: kabuverdianu (Kab-Glas)
+khq: koyra chiini
+khq_ML: koyra chiini (Mali)
+ki: kikuyu
+ki_KE: kikuyu (Kenya)
+kk: kazak
+kk_KZ: kazak (Kazakstan)
+kkj: kakoeg
+kkj_CM: kakoeg (Kameroun)
+kl: greunlandeg
+kl_GL: greunlandeg (Greunland)
+kln: kalendjineg
+kln_KE: kalendjineg (Kenya)
+km: khmer
+km_KH: khmer (Kambodja)
+kn: kanareg
+kn_IN: kanareg (India)
+ko: koreaneg
+ko_KP: koreaneg (Korea an Norzh)
+ko_KR: koreaneg (Korea ar Su)
+kok: konkani
+kok_IN: konkani (India)
+kpe: kpelle
+kpe_GN: kpelle (Ginea)
+kpe_LR: kpelle (Liberia)
+ks: kashmiri
+ks_Arab: kashmiri (arabek)
+ks_Arab_IN: kashmiri (arabek, India)
+ks_Aran_IN: kashmiri (Aran, India)
+ks_Deva: kashmiri (devanagari)
+ks_Deva_IN: kashmiri (devanagari, India)
+ksb: shambala
+ksb_TZ: shambala (Tanzania)
+ksf: bafiaeg
+ksf_CM: bafiaeg (Kameroun)
+ksh: koluneg
+ksh_DE: koluneg (Alamagn)
+ku: kurdeg
+ku_TR: kurdeg (Turkia)
+kw: kerneveureg
+kw_GB: kerneveureg (Rouantelezh-Unanet)
+ky: kirgiz
+ky_KG: kirgiz (Kyrgyzstan)
+lag: langi
+lag_TZ: langi (Tanzania)
+lb: luksembourgeg
+lb_LU: luksembourgeg (Luksembourg)
+lg: ganda
+lg_UG: ganda (Ouganda)
+lkt: lakota
+lkt_US: lakota (Stadoù-Unanet)
+ln: lingala
+ln_AO: lingala (Angola)
+ln_CD: lingala (Kongo - Kinshasa)
+ln_CF: lingala (Republik Kreizafrikan)
+ln_CG: lingala (Kongo - Brazzaville)
+lo: laoseg
+lo_LA: laoseg (Laos)
+lrc: loureg an Norzh
+lrc_IQ: loureg an Norzh (Iraq)
+lrc_IR: loureg an Norzh (Iran)
+lt: lituaneg
+lt_LT: lituaneg (Lituania)
+lu: luba-katanga
+lu_CD: luba-katanga (Kongo - Kinshasa)
+luo: luo
+luo_KE: luo (Kenya)
+luy: luyia
+luy_KE: luyia (Kenya)
+lv: latvieg
+lv_LV: latvieg (Latvia)
+mai: maithili
+mai_IN: maithili (India)
+mas: masai
+mas_KE: masai (Kenya)
+mas_TZ: masai (Tanzania)
+mer: meru
+mer_KE: meru (Kenya)
+mfe: moriseg
+mfe_MU: moriseg (Moris)
+mg: malgacheg
+mg_MG: malgacheg (Madagaskar)
+mgh: makhuwa-meetto
+mgh_MZ: makhuwa-meetto (Mozambik)
+mgo: metaʼ
+mgo_CM: metaʼ (Kameroun)
+mi: maori
+mi_NZ: maori (Zeland-Nevez)
+mk: makedoneg
+mk_MK: makedoneg (Makedonia an Norzh)
+ml: malayalam
+ml_IN: malayalam (India)
+mn: mongoleg
+mn_MN: mongoleg (Mongolia)
+mni: manipuri
+mni_Beng: manipuri (bengali)
+mni_Beng_IN: manipuri (bengali, India)
+mni_Mtei: manipuri (Mtei)
+mni_Mtei_IN: manipuri (Mtei, India)
+moh: mohawk
+moh_CA: mohawk (Kanada)
+mr: marathi
+mr_IN: marathi (India)
+ms: malayseg
+ms_Arab: malayseg (arabek)
+ms_Arab_BN: malayseg (arabek, Brunei)
+ms_Arab_MY: malayseg (arabek, Malaysia)
+ms_BN: malayseg (Brunei)
+ms_ID: malayseg (Indonezia)
+ms_MY: malayseg (Malaysia)
+ms_SG: malayseg (Singapour)
+mt: malteg
+mt_MT: malteg (Malta)
+mua: moundangeg
+mua_CM: moundangeg (Kameroun)
+my: birmaneg
+my_MM: birmaneg (Myanmar [Birmania])
+myv: erza
+myv_RU: erza (Rusia)
+mzn: mazanderaneg
+mzn_IR: mazanderaneg (Iran)
+naq: nama
+naq_NA: nama (Namibia)
+nb: norvegeg bokmål
+nb_NO: norvegeg bokmål (Norvegia)
+nb_SJ: norvegeg bokmål (Svalbard)
+nd: ndebele an Norzh
+nd_ZW: ndebele an Norzh (Zimbabwe)
+nds: alamaneg izel
+nds_DE: alamaneg izel (Alamagn)
+nds_NL: alamaneg izel (Izelvroioù)
+ne: nepaleg
+ne_IN: nepaleg (India)
+ne_NP: nepaleg (Nepal)
+nl: nederlandeg
+nl_AW: nederlandeg (Aruba)
+nl_BE: nederlandeg (Belgia)
+nl_BQ: nederlandeg (Karib Nederlandat)
+nl_CW: nederlandeg (Curaçao)
+nl_NL: nederlandeg (Izelvroioù)
+nl_SR: nederlandeg (Surinam)
+nl_SX: nederlandeg (Sint Maarten)
+nmg: ngoumbeg
+nmg_CM: ngoumbeg (Kameroun)
+nn: norvegeg nynorsk
+nn_NO: norvegeg nynorsk (Norvegia)
+nnh: ngiemboon
+nnh_CM: ngiemboon (Kameroun)
+no: norvegeg
+nqo: nkoeg
+nqo_GN: nkoeg (Ginea)
+nr: ndebele ar Su
+nr_ZA: ndebele ar Su (Suafrika)
+nso: sotho an Norzh
+nso_ZA: sotho an Norzh (Suafrika)
+nus: nouereg
+nus_SS: nouereg (Susoudan)
+nv: navacʼho
+nv_US: navacʼho (Stadoù-Unanet)
+ny: nyanja
+ny_MW: nyanja (Malawi)
+nyn: nyankole
+nyn_UG: nyankole (Ouganda)
+oc: okitaneg
+oc_FR: okitaneg (Frañs)
+om: oromoeg
+om_ET: oromoeg (Etiopia)
+om_KE: oromoeg (Kenya)
+or: oriya
+or_IN: oriya (India)
+os: oseteg
+os_GE: oseteg (Jorjia)
+os_RU: oseteg (Rusia)
+pa: punjabi
+pa_Arab: punjabi (arabek)
+pa_Arab_PK: punjabi (arabek, Pakistan)
+pa_Aran_PK: punjabi (Aran, Pakistan)
+pa_Guru: punjabi (gurmukhi)
+pa_Guru_IN: punjabi (gurmukhi, India)
+pcm: pidjin Nigeria
+pcm_NG: pidjin Nigeria (Nigeria)
+pl: poloneg
+pl_PL: poloneg (Polonia)
+ps: pachto
+ps_AF: pachto (Afghanistan)
+ps_PK: pachto (Pakistan)
+pt: portugaleg
+pt_AO: portugaleg (Angola)
+pt_BR: portugaleg (Brazil)
+pt_CH: portugaleg (Suis)
+pt_CV: portugaleg (Kab-Glas)
+pt_FR: portugaleg (Frañs)
+pt_GQ: portugaleg (Ginea ar Cʼheheder)
+pt_GW: portugaleg (Ginea-Bissau)
+pt_LU: portugaleg (Luksembourg)
+pt_MO: portugaleg (Macau)
+pt_MZ: portugaleg (Mozambik)
+pt_PT: portugaleg (Portugal)
+pt_ST: portugaleg (São Tomé ha Príncipe)
+pt_TL: portugaleg (Timor-Leste)
+qu: kechuaeg
+qu_BO: kechuaeg (Bolivia)
+qu_EC: kechuaeg (Ecuador)
+qu_PE: kechuaeg (Perou)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: romañcheg
+rm_CH: romañcheg (Suis)
+rn: rundi
+rn_BI: rundi (Burundi)
+ro: roumaneg
+ro_MD: roumaneg (Moldova)
+ro_RO: roumaneg (Roumania)
+rof: rombo
+rof_TZ: rombo (Tanzania)
+ru: rusianeg
+ru_BY: rusianeg (Belarus)
+ru_KG: rusianeg (Kyrgyzstan)
+ru_KZ: rusianeg (Kazakstan)
+ru_MD: rusianeg (Moldova)
+ru_RU: rusianeg (Rusia)
+ru_UA: rusianeg (Ukraina)
+rw: kinyarwanda
+rw_RW: kinyarwanda (Rwanda)
+rwk: rwa
+rwk_TZ: rwa (Tanzania)
+sa: sanskriteg
+sa_IN: sanskriteg (India)
+sah: yakouteg
+sah_RU: yakouteg (Rusia)
+saq: samburu
+saq_KE: samburu (Kenya)
+sat: santali
+sat_Deva: santali (devanagari)
+sat_Deva_IN: santali (devanagari, India)
+sat_Olck: santali (Olck)
+sat_Olck_IN: santali (Olck, India)
+sbp: sangu
+sbp_TZ: sangu (Tanzania)
+sc: sardeg
+sc_IT: sardeg (Italia)
+scn: sikilieg
+scn_IT: sikilieg (Italia)
+sd: sindhi
+sd_Arab: sindhi (arabek)
+sd_Arab_PK: sindhi (arabek, Pakistan)
+sd_Deva: sindhi (devanagari)
+sd_Deva_IN: sindhi (devanagari, India)
+se: sámi an Norzh
+se_FI: sámi an Norzh (Finland)
+se_NO: sámi an Norzh (Norvegia)
+se_SE: sámi an Norzh (Sveden)
+seh: sena
+seh_MZ: sena (Mozambik)
+ses: koyraboro senni
+ses_ML: koyraboro senni (Mali)
+sg: sango
+sg_CF: sango (Republik Kreizafrikan)
+shi: tacheliteg
+shi_Latn: tacheliteg (latin)
+shi_Latn_MA: tacheliteg (latin, Maroko)
+shi_Tfng: tacheliteg (Tfng)
+shi_Tfng_MA: tacheliteg (Tfng, Maroko)
+si: singhaleg
+si_LK: singhaleg (Sri Lanka)
+sk: slovakeg
+sk_SK: slovakeg (Slovakia)
+sl: sloveneg
+sl_SI: sloveneg (Slovenia)
+sm: samoan
+sm_AS: samoan (Samoa Amerikan)
+sm_WS: samoan (Samoa)
+smn: sámi Inari
+smn_FI: sámi Inari (Finland)
+sn: shona
+sn_ZW: shona (Zimbabwe)
+so: somali
+so_DJ: somali (Djibouti)
+so_ET: somali (Etiopia)
+so_KE: somali (Kenya)
+so_SO: somali (Somalia)
+sq: albaneg
+sq_AL: albaneg (Albania)
+sq_MK: albaneg (Makedonia an Norzh)
+sq_XK: albaneg (Kosovo)
+sr: serbeg
+sr_Cyrl: serbeg (kirillek)
+sr_Cyrl_BA: serbeg (kirillek, Bosnia ha Herzegovina)
+sr_Cyrl_ME: serbeg (kirillek, Montenegro)
+sr_Cyrl_RS: serbeg (kirillek, Serbia)
+sr_Cyrl_XK: serbeg (kirillek, Kosovo)
+sr_Latn: serbeg (latin)
+sr_Latn_BA: serbeg (latin, Bosnia ha Herzegovina)
+sr_Latn_ME: serbeg (latin, Montenegro)
+sr_Latn_RS: serbeg (latin, Serbia)
+sr_Latn_XK: serbeg (latin, Kosovo)
+ss: swati
+ss_SZ: swati (Eswatini)
+ss_ZA: swati (Suafrika)
+st: sotho ar Su
+st_LS: sotho ar Su (Lesotho)
+st_ZA: sotho ar Su (Suafrika)
+su: sundaneg
+su_Latn: sundaneg (latin)
+su_Latn_ID: sundaneg (latin, Indonezia)
+sv: svedeg
+sv_AX: svedeg (Inizi Åland)
+sv_FI: svedeg (Finland)
+sv_SE: svedeg (Sveden)
+sw: swahili
+sw_CD: swahili (Kongo - Kinshasa)
+sw_KE: swahili (Kenya)
+sw_TZ: swahili (Tanzania)
+sw_UG: swahili (Ouganda)
+syr: sirieg
+syr_IQ: sirieg (Iraq)
+syr_SY: sirieg (Siria)
+ta: tamileg
+ta_IN: tamileg (India)
+ta_LK: tamileg (Sri Lanka)
+ta_MY: tamileg (Malaysia)
+ta_SG: tamileg (Singapour)
+te: telougou
+te_IN: telougou (India)
+teo: tesoeg
+teo_KE: tesoeg (Kenya)
+teo_UG: tesoeg (Ouganda)
+tg: tadjik
+tg_TJ: tadjik (Tadjikistan)
+th: thai
+th_TH: thai (Thailand)
+ti: tigrigna
+ti_ER: tigrigna (Eritrea)
+ti_ET: tigrigna (Etiopia)
+tig: tigreaneg
+tig_ER: tigreaneg (Eritrea)
+tk: turkmeneg
+tk_TM: turkmeneg (Turkmenistan)
+tn: tswana
+tn_BW: tswana (Botswana)
+tn_ZA: tswana (Suafrika)
+to: tonga
+to_TO: tonga (Tonga)
+tr: turkeg
+tr_CY: turkeg (Kiprenez)
+tr_TR: turkeg (Turkia)
+trv: taroko
+trv_TW: taroko (Taiwan)
+ts: tsonga
+ts_ZA: tsonga (Suafrika)
+tt: tatar
+tt_RU: tatar (Rusia)
+twq: tasawakeg
+twq_NE: tasawakeg (Niger)
+tzm: tamazigteg Kreizatlas
+tzm_MA: tamazigteg Kreizatlas (Maroko)
+ug: ouigoureg
+ug_CN: ouigoureg (Sina)
+uk: ukraineg
+uk_UA: ukraineg (Ukraina)
+ur: ourdou
+ur_Arab: ourdou (arabek)
+ur_Arab_IN: ourdou (arabek, India)
+ur_Arab_PK: ourdou (arabek, Pakistan)
+ur_Aran_PK: ourdou (Aran, Pakistan)
+uz: ouzbekeg
+uz_Arab: ouzbekeg (arabek)
+uz_Arab_AF: ouzbekeg (arabek, Afghanistan)
+uz_Cyrl: ouzbekeg (kirillek)
+uz_Cyrl_UZ: ouzbekeg (kirillek, Ouzbekistan)
+uz_Latn: ouzbekeg (latin)
+uz_Latn_UZ: ouzbekeg (latin, Ouzbekistan)
+vai: vai
+vai_Latn: vai (latin)
+vai_Latn_LR: vai (latin, Liberia)
+vai_Vaii: vai (vai)
+vai_Vaii_LR: vai (vai, Liberia)
+ve: venda
+ve_ZA: venda (Suafrika)
+vi: vietnameg
+vi_VN: vietnameg (Viêt Nam)
+vun: vunjo
+vun_TZ: vunjo (Tanzania)
+wa: walloneg
+wa_BE: walloneg (Belgia)
+wae: walser
+wae_CH: walser (Suis)
+wal: walamo
+wal_ET: walamo (Etiopia)
+wo: wolof
+wo_SN: wolof (Senegal)
+xh: xhosa
+xh_ZA: xhosa (Suafrika)
+xog: sogaeg
+xog_UG: sogaeg (Ouganda)
+yav: yangben
+yav_CM: yangben (Kameroun)
+yi: yiddish
+yi_001: yiddish (Bed)
+yo: yorouba
+yo_BJ: yorouba (Benin)
+yo_NG: yorouba (Nigeria)
+yue: kantoneg
+yue_Hans: kantoneg (eeunaet)
+yue_Hans_CN: kantoneg (eeunaet, Sina)
+yue_Hant: kantoneg (hengounel)
+yue_Hant_HK: kantoneg (hengounel, Hong Kong)
+zgh: tamacheg Maroko standart
+zgh_MA: tamacheg Maroko standart (Maroko)
+zh: sinaeg
+zh_Hans: sinaeg eeunaet
+zh_Hans_CN: sinaeg eeunaet (Sina)
+zh_Hans_HK: sinaeg eeunaet (Hong Kong)
+zh_Hans_JP: sinaeg eeunaet (Japan)
+zh_Hans_MO: sinaeg eeunaet (Macau)
+zh_Hans_SG: sinaeg eeunaet (Singapour)
+zh_Hant: sinaeg hengounel
+zh_Hant_CN: sinaeg hengounel (Sina)
+zh_Hant_HK: sinaeg hengounel (Hong Kong)
+zh_Hant_MO: sinaeg hengounel (Macau)
+zh_Hant_TW: sinaeg hengounel (Taiwan)
+zu: zouloueg
+zu_ZA: zouloueg (Suafrika)

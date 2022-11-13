@@ -1,0 +1,945 @@
+af: afrikaans
+af_NA: afrikaans (Namibia)
+af_ZA: afrikaans (Sydafrika)
+agq: aghem
+agq_CM: aghem (Cameroun)
+ain: ainu
+ain_JP: ainu (Japan)
+ak: akan
+ak_GH: akan (Ghana)
+am: amharisk
+am_ET: amharisk (Etiopien)
+apw: apache, vestlig
+apw_US: apache, vestlig (USA)
+ar: arabisk
+ar_001: arabisk (Verden)
+ar_AE: arabisk (De Forenede Arabiske Emirater)
+ar_BH: arabisk (Bahrain)
+ar_DJ: arabisk (Djibouti)
+ar_DZ: arabisk (Algeriet)
+ar_EG: arabisk (Egypten)
+ar_EH: arabisk (Vestsahara)
+ar_ER: arabisk (Eritrea)
+ar_IL: arabisk (Israel)
+ar_IQ: arabisk (Irak)
+ar_JO: arabisk (Jordan)
+ar_KM: arabisk (Comorerne)
+ar_KW: arabisk (Kuwait)
+ar_LB: arabisk (Libanon)
+ar_LY: arabisk (Libyen)
+ar_MA: arabisk (Marokko)
+ar_MR: arabisk (Mauretanien)
+ar_OM: arabisk (Oman)
+ar_PS: arabisk (De palæstinensiske områder)
+ar_QA: arabisk (Qatar)
+ar_SA: arabisk (Saudi-Arabien)
+ar_SD: arabisk (Sudan)
+ar_SO: arabisk (Somalia)
+ar_SS: arabisk (Sydsudan)
+ar_SY: arabisk (Syrien)
+ar_TD: arabisk (Tchad)
+ar_TN: arabisk (Tunesien)
+ar_YE: arabisk (Yemen)
+arn: mapudungun
+arn_CL: mapudungun (Chile)
+as: assamesisk
+as_IN: assamesisk (Indien)
+asa: asu
+asa_TZ: asu (Tanzania)
+ast: asturisk
+ast_ES: asturisk (Spanien)
+az: aserbajdsjansk
+az_Cyrl: aserbajdsjansk (kyrillisk)
+az_Cyrl_AZ: aserbajdsjansk (kyrillisk, Aserbajdsjan)
+az_Latn: aserbajdsjansk (latinsk)
+az_Latn_AZ: aserbajdsjansk (latinsk, Aserbajdsjan)
+ba: bashkir
+ba_RU: bashkir (Rusland)
+bas: basaa
+bas_CM: basaa (Cameroun)
+be: hviderussisk
+be_BY: hviderussisk (Hviderusland)
+bem: bemba
+bem_ZM: bemba (Zambia)
+bez: bena
+bez_TZ: bena (Tanzania)
+bg: bulgarsk
+bg_BG: bulgarsk (Bulgarien)
+bm: bambara
+bm_ML: bambara (Mali)
+bn: bengali
+bn_BD: bengali (Bangladesh)
+bn_IN: bengali (Indien)
+bo: tibetansk
+bo_CN: tibetansk (Kina, fastlandet)
+bo_IN: tibetansk (Indien)
+br: bretonsk
+br_FR: bretonsk (Frankrig)
+brx: bodo
+brx_IN: bodo (Indien)
+bs: bosnisk
+bs_Cyrl: bosnisk (kyrillisk)
+bs_Cyrl_BA: bosnisk (kyrillisk, Bosnien-Hercegovina)
+bs_Latn: bosnisk (latinsk)
+bs_Latn_BA: bosnisk (latinsk, Bosnien-Hercegovina)
+byn: blin
+byn_ER: blin (Eritrea)
+ca: catalansk
+ca_AD: catalansk (Andorra)
+ca_ES: catalansk (Spanien)
+ca_FR: catalansk (Frankrig)
+ca_IT: catalansk (Italien)
+ccp: chakma
+ccp_BD: chakma (Bangladesh)
+ccp_IN: chakma (Indien)
+ce: tjetjensk
+ce_RU: tjetjensk (Rusland)
+ceb: cebuano
+ceb_PH: cebuano (Filippinerne)
+cgg: chiga
+cgg_UG: chiga (Uganda)
+chr: cherokee
+chr_US: cherokee (USA)
+ckb: kurdisk, sorani
+ckb_IQ: kurdisk, sorani (Irak)
+ckb_IR: kurdisk, sorani (Iran)
+co: korsikansk
+co_FR: korsikansk (Frankrig)
+cs: tjekkisk
+cs_CZ: tjekkisk (Tjekkiet)
+cv: chuvash
+cv_RU: chuvash (Rusland)
+cy: walisisk
+cy_GB: walisisk (Storbritannien)
+da: dansk
+da_DK: dansk (Danmark)
+da_GL: dansk (Grønland)
+dav: taita
+dav_KE: taita (Kenya)
+de: tysk
+de_AT: tysk (Østrig)
+de_BE: tysk (Belgien)
+de_CH: tysk (Schweiz)
+de_DE: tysk (Tyskland)
+de_IT: tysk (Italien)
+de_LI: tysk (Liechtenstein)
+de_LU: tysk (Luxembourg)
+dje: zarma
+dje_NE: zarma (Niger)
+doi: dogri
+doi_IN: dogri (Indien)
+dsb: nedersorbisk
+dsb_DE: nedersorbisk (Tyskland)
+dua: duala
+dua_CM: duala (Cameroun)
+dv: divehi
+dv_MV: divehi (Maldiverne)
+dyo: jola-fonyi
+dyo_SN: jola-fonyi (Senegal)
+dz: dzongkha
+dz_BT: dzongkha (Bhutan)
+ebu: kiembu
+ebu_KE: kiembu (Kenya)
+ee: ewe
+ee_GH: ewe (Ghana)
+ee_TG: ewe (Togo)
+el: græsk
+el_CY: græsk (Cypern)
+el_GR: græsk (Grækenland)
+en: engelsk
+en_001: engelsk (Verden)
+en_150: engelsk (Europa)
+en_AE: engelsk (De Forenede Arabiske Emirater)
+en_AG: engelsk (Antigua og Barbuda)
+en_AI: engelsk (Anguilla)
+en_AL: engelsk (Albanien)
+en_AR: engelsk (Argentina)
+en_AS: engelsk (Amerikansk Samoa)
+en_AT: engelsk (Østrig)
+en_AU: engelsk (Australien)
+en_BB: engelsk (Barbados)
+en_BD: engelsk (Bangladesh)
+en_BE: engelsk (Belgien)
+en_BG: engelsk (Bulgarien)
+en_BI: engelsk (Burundi)
+en_BM: engelsk (Bermuda)
+en_BN: engelsk (Brunei)
+en_BR: engelsk (Brasilien)
+en_BS: engelsk (Bahamas)
+en_BW: engelsk (Botswana)
+en_BZ: engelsk (Belize)
+en_CA: engelsk (Canada)
+en_CC: engelsk (Cocosøerne)
+en_CH: engelsk (Schweiz)
+en_CK: engelsk (Cookøerne)
+en_CL: engelsk (Chile)
+en_CM: engelsk (Cameroun)
+en_CN: engelsk (Kina, fastlandet)
+en_CO: engelsk (Colombia)
+en_CV: engelsk (Kap Verde)
+en_CX: engelsk (Juleøen)
+en_CY: engelsk (Cypern)
+en_CZ: engelsk (Tjekkiet)
+en_DE: engelsk (Tyskland)
+en_DG: engelsk (Diego Garcia)
+en_DK: engelsk (Danmark)
+en_DM: engelsk (Dominica)
+en_EE: engelsk (Estland)
+en_ER: engelsk (Eritrea)
+en_FI: engelsk (Finland)
+en_FJ: engelsk (Fiji)
+en_FK: engelsk (Falklandsøerne)
+en_FM: engelsk (Mikronesien)
+en_FR: engelsk (Frankrig)
+en_GB: engelsk (Storbritannien)
+en_GD: engelsk (Grenada)
+en_GG: engelsk (Guernsey)
+en_GH: engelsk (Ghana)
+en_GI: engelsk (Gibraltar)
+en_GM: engelsk (Gambia)
+en_GR: engelsk (Grækenland)
+en_GU: engelsk (Guam)
+en_GY: engelsk (Guyana)
+en_HK: engelsk (Hongkong)
+en_HU: engelsk (Ungarn)
+en_ID: engelsk (Indonesien)
+en_IE: engelsk (Irland)
+en_IL: engelsk (Israel)
+en_IM: engelsk (Isle of Man)
+en_IN: engelsk (Indien)
+en_IO: engelsk (Chagosøerne)
+en_JE: engelsk (Jersey)
+en_JM: engelsk (Jamaica)
+en_JP: engelsk (Japan)
+en_KE: engelsk (Kenya)
+en_KI: engelsk (Kiribati)
+en_KN: engelsk (Saint Kitts og Nevis)
+en_KR: engelsk (Sydkorea)
+en_KY: engelsk (Caymanøerne)
+en_LC: engelsk (Saint Lucia)
+en_LR: engelsk (Liberia)
+en_LS: engelsk (Lesotho)
+en_LT: engelsk (Litauen)
+en_LV: engelsk (Letland)
+en_MG: engelsk (Madagaskar)
+en_MH: engelsk (Marshalløerne)
+en_MM: engelsk (Myanmar [Burma])
+en_MO: engelsk (Macao)
+en_MP: engelsk (Nordmarianerne)
+en_MS: engelsk (Montserrat)
+en_MT: engelsk (Malta)
+en_MU: engelsk (Mauritius)
+en_MV: engelsk (Maldiverne)
+en_MW: engelsk (Malawi)
+en_MX: engelsk (Mexico)
+en_MY: engelsk (Malaysia)
+en_NA: engelsk (Namibia)
+en_NF: engelsk (Norfolk Island)
+en_NG: engelsk (Nigeria)
+en_NL: engelsk (Holland)
+en_NO: engelsk (Norge)
+en_NR: engelsk (Nauru)
+en_NU: engelsk (Niue)
+en_NZ: engelsk (New Zealand)
+en_PG: engelsk (Papua Ny Guinea)
+en_PH: engelsk (Filippinerne)
+en_PK: engelsk (Pakistan)
+en_PL: engelsk (Polen)
+en_PN: engelsk (Pitcairn)
+en_PR: engelsk (Puerto Rico)
+en_PT: engelsk (Portugal)
+en_PW: engelsk (Palau)
+en_RU: engelsk (Rusland)
+en_RW: engelsk (Rwanda)
+en_SA: engelsk (Saudi-Arabien)
+en_SB: engelsk (Salomonøerne)
+en_SC: engelsk (Seychellerne)
+en_SD: engelsk (Sudan)
+en_SE: engelsk (Sverige)
+en_SG: engelsk (Singapore)
+en_SH: engelsk (St. Helena)
+en_SI: engelsk (Slovenien)
+en_SK: engelsk (Slovakiet)
+en_SL: engelsk (Sierra Leone)
+en_SS: engelsk (Sydsudan)
+en_SX: engelsk (Sint Maarten)
+en_SZ: engelsk (Eswatini)
+en_TC: engelsk (Turks- og Caicosøerne)
+en_TH: engelsk (Thailand)
+en_TK: engelsk (Tokelau)
+en_TO: engelsk (Tonga)
+en_TR: engelsk (Tyrkiet)
+en_TT: engelsk (Trinidad og Tobago)
+en_TV: engelsk (Tuvalu)
+en_TW: engelsk (Taiwan)
+en_TZ: engelsk (Tanzania)
+en_UA: engelsk (Ukraine)
+en_UG: engelsk (Uganda)
+en_UM: engelsk (Amerikanske oversøiske øer)
+en_US: engelsk (USA)
+en_US_POSIX: engelsk (USA, computer)
+en_VC: engelsk (Saint Vincent og Grenadinerne)
+en_VG: engelsk (De Britiske Jomfruøer)
+en_VI: engelsk (De Amerikanske Jomfruøer)
+en_VU: engelsk (Vanuatu)
+en_WS: engelsk (Samoa)
+en_ZA: engelsk (Sydafrika)
+en_ZM: engelsk (Zambia)
+en_ZW: engelsk (Zimbabwe)
+eo: esperanto
+eo_001: esperanto (Verden)
+es: spansk
+es_003: spansk (Nordamerika)
+es_419: spansk (Latinamerika)
+es_AG: spansk (Antigua og Barbuda)
+es_AR: spansk (Argentina)
+es_BB: spansk (Barbados)
+es_BM: spansk (Bermuda)
+es_BO: spansk (Bolivia)
+es_BQ: spansk (De tidligere Nederlandske Antiller)
+es_BR: spansk (Brasilien)
+es_BS: spansk (Bahamas)
+es_BZ: spansk (Belize)
+es_CA: spansk (Canada)
+es_CL: spansk (Chile)
+es_CO: spansk (Colombia)
+es_CR: spansk (Costa Rica)
+es_CU: spansk (Cuba)
+es_CW: spansk (Curaçao)
+es_DM: spansk (Dominica)
+es_DO: spansk (Den Dominikanske Republik)
+es_EA: spansk (Ceuta og Melilla)
+es_EC: spansk (Ecuador)
+es_ES: spansk (Spanien)
+es_GD: spansk (Grenada)
+es_GQ: spansk (Ækvatorialguinea)
+es_GT: spansk (Guatemala)
+es_GY: spansk (Guyana)
+es_HN: spansk (Honduras)
+es_HT: spansk (Haiti)
+es_IC: spansk (Kanariske øer)
+es_KN: spansk (Saint Kitts og Nevis)
+es_KY: spansk (Caymanøerne)
+es_LC: spansk (Saint Lucia)
+es_MX: spansk (Mexico)
+es_NI: spansk (Nicaragua)
+es_PA: spansk (Panama)
+es_PE: spansk (Peru)
+es_PH: spansk (Filippinerne)
+es_PR: spansk (Puerto Rico)
+es_PY: spansk (Paraguay)
+es_SV: spansk (El Salvador)
+es_TC: spansk (Turks- og Caicosøerne)
+es_TT: spansk (Trinidad og Tobago)
+es_US: spansk (USA)
+es_UY: spansk (Uruguay)
+es_VC: spansk (Saint Vincent og Grenadinerne)
+es_VE: spansk (Venezuela)
+es_VG: spansk (De Britiske Jomfruøer)
+es_VI: spansk (De Amerikanske Jomfruøer)
+et: estisk
+et_EE: estisk (Estland)
+eu: baskisk
+eu_ES: baskisk (Spanien)
+ewo: ewondo
+ewo_CM: ewondo (Cameroun)
+fa: persisk
+fa_AF: persisk (Afghanistan)
+fa_IR: persisk (Iran)
+ff: fulah
+ff_Adlm: fulah (adlam)
+ff_Adlm_BF: fulah (adlam, Burkina Faso)
+ff_Adlm_CM: fulah (adlam, Cameroun)
+ff_Adlm_GH: fulah (adlam, Ghana)
+ff_Adlm_GM: fulah (adlam, Gambia)
+ff_Adlm_GN: fulah (adlam, Guinea)
+ff_Adlm_GW: fulah (adlam, Guinea-Bissau)
+ff_Adlm_LR: fulah (adlam, Liberia)
+ff_Adlm_MR: fulah (adlam, Mauretanien)
+ff_Adlm_NE: fulah (adlam, Niger)
+ff_Adlm_NG: fulah (adlam, Nigeria)
+ff_Adlm_SL: fulah (adlam, Sierra Leone)
+ff_Adlm_SN: fulah (adlam, Senegal)
+ff_Latn: fulah (latinsk)
+ff_Latn_BF: fulah (latinsk, Burkina Faso)
+ff_Latn_CM: fulah (latinsk, Cameroun)
+ff_Latn_GH: fulah (latinsk, Ghana)
+ff_Latn_GM: fulah (latinsk, Gambia)
+ff_Latn_GN: fulah (latinsk, Guinea)
+ff_Latn_GW: fulah (latinsk, Guinea-Bissau)
+ff_Latn_LR: fulah (latinsk, Liberia)
+ff_Latn_MR: fulah (latinsk, Mauretanien)
+ff_Latn_NE: fulah (latinsk, Niger)
+ff_Latn_NG: fulah (latinsk, Nigeria)
+ff_Latn_SL: fulah (latinsk, Sierra Leone)
+ff_Latn_SN: fulah (latinsk, Senegal)
+fi: finsk
+fi_FI: finsk (Finland)
+fil: filippinsk
+fil_PH: filippinsk (Filippinerne)
+fo: færøsk
+fo_DK: færøsk (Danmark)
+fo_FO: færøsk (Færøerne)
+fr: fransk
+fr_BE: fransk (Belgien)
+fr_BF: fransk (Burkina Faso)
+fr_BI: fransk (Burundi)
+fr_BJ: fransk (Benin)
+fr_BL: fransk (Saint Barthélemy)
+fr_CA: fransk (Canada)
+fr_CD: fransk (Congo-Kinshasa)
+fr_CF: fransk (Den Centralafrikanske Republik)
+fr_CG: fransk (Congo-Brazzaville)
+fr_CH: fransk (Schweiz)
+fr_CI: fransk (Côte d’Ivoire)
+fr_CM: fransk (Cameroun)
+fr_DJ: fransk (Djibouti)
+fr_DZ: fransk (Algeriet)
+fr_FR: fransk (Frankrig)
+fr_GA: fransk (Gabon)
+fr_GF: fransk (Fransk Guyana)
+fr_GN: fransk (Guinea)
+fr_GP: fransk (Guadeloupe)
+fr_GQ: fransk (Ækvatorialguinea)
+fr_HT: fransk (Haiti)
+fr_KM: fransk (Comorerne)
+fr_LU: fransk (Luxembourg)
+fr_MA: fransk (Marokko)
+fr_MC: fransk (Monaco)
+fr_MF: fransk (Saint Martin)
+fr_MG: fransk (Madagaskar)
+fr_ML: fransk (Mali)
+fr_MQ: fransk (Martinique)
+fr_MR: fransk (Mauretanien)
+fr_MU: fransk (Mauritius)
+fr_NC: fransk (Ny Kaledonien)
+fr_NE: fransk (Niger)
+fr_PF: fransk (Fransk Polynesien)
+fr_PM: fransk (Saint Pierre og Miquelon)
+fr_RE: fransk (Réunion)
+fr_RW: fransk (Rwanda)
+fr_SC: fransk (Seychellerne)
+fr_SN: fransk (Senegal)
+fr_SY: fransk (Syrien)
+fr_TD: fransk (Tchad)
+fr_TG: fransk (Togo)
+fr_TN: fransk (Tunesien)
+fr_VU: fransk (Vanuatu)
+fr_WF: fransk (Wallis og Futuna)
+fr_YT: fransk (Mayotte)
+fur: friulisk
+fur_IT: friulisk (Italien)
+fy: vestfrisisk
+fy_NL: vestfrisisk (Holland)
+ga: irsk
+ga_GB: irsk (Storbritannien)
+ga_IE: irsk (Irland)
+gaa: ga
+gaa_GH: ga (Ghana)
+gd: skotsk gælisk
+gd_GB: skotsk gælisk (Storbritannien)
+gez: geez
+gez_ER: geez (Eritrea)
+gez_ET: geez (Etiopien)
+gl: galicisk
+gl_ES: galicisk (Spanien)
+gn: guarani
+gn_PY: guarani (Paraguay)
+gsw: schweizertysk
+gsw_CH: schweizertysk (Schweiz)
+gsw_FR: schweizertysk (Frankrig)
+gsw_LI: schweizertysk (Liechtenstein)
+gu: gujarati
+gu_IN: gujarati (Indien)
+guz: gusii
+guz_KE: gusii (Kenya)
+gv: manx
+gv_IM: manx (Isle of Man)
+ha: hausa
+ha_GH: hausa (Ghana)
+ha_NE: hausa (Niger)
+ha_NG: hausa (Nigeria)
+haw: hawaiiansk
+haw_US: hawaiiansk (USA)
+he: hebraisk
+he_IL: hebraisk (Israel)
+hi: hindi
+hi_IN: hindi (Indien)
+hi_Latn: hindi (latinsk)
+hi_Latn_IN: hindi (latinsk, Indien)
+hr: kroatisk
+hr_BA: kroatisk (Bosnien-Hercegovina)
+hr_HR: kroatisk (Kroatien)
+hsb: øvresorbisk
+hsb_DE: øvresorbisk (Tyskland)
+hu: ungarsk
+hu_HU: ungarsk (Ungarn)
+hy: armensk
+hy_AM: armensk (Armenien)
+ia: interlingua
+ia_001: interlingua (Verden)
+id: indonesisk
+id_ID: indonesisk (Indonesien)
+ig: igbo
+ig_NG: igbo (Nigeria)
+ii: sichuan yi
+ii_CN: sichuan yi (Kina, fastlandet)
+io: ido
+io_001: ido (Verden)
+is: islandsk
+is_IS: islandsk (Island)
+it: italiensk
+it_CH: italiensk (Schweiz)
+it_IT: italiensk (Italien)
+it_SM: italiensk (San Marino)
+it_VA: italiensk (Vatikanstaten)
+iu: inuktitut
+iu_CA: inuktitut (Canada)
+ja: japansk
+ja_JP: japansk (Japan)
+jbo: lojban
+jbo_001: lojban (Verden)
+jgo: ngomba
+jgo_CM: ngomba (Cameroun)
+jmc: machame
+jmc_TZ: machame (Tanzania)
+jv: javanesisk
+jv_ID: javanesisk (Indonesien)
+ka: georgisk
+ka_GE: georgisk (Georgien)
+kab: kabylisk
+kab_DZ: kabylisk (Algeriet)
+kaj: jju
+kaj_NG: jju (Nigeria)
+kam: kamba
+kam_KE: kamba (Kenya)
+kcg: tyap
+kcg_NG: tyap (Nigeria)
+kde: makonde
+kde_TZ: makonde (Tanzania)
+kea: kapverdisk
+kea_CV: kapverdisk (Kap Verde)
+khq: koyra-chiini
+khq_ML: koyra-chiini (Mali)
+ki: kikuyu
+ki_KE: kikuyu (Kenya)
+kk: kasakhisk
+kk_KZ: kasakhisk (Kasakhstan)
+kkj: kako
+kkj_CM: kako (Cameroun)
+kl: grønlandsk
+kl_GL: grønlandsk (Grønland)
+kln: kalenjin
+kln_KE: kalenjin (Kenya)
+km: khmer
+km_KH: khmer (Cambodja)
+kn: kannada
+kn_IN: kannada (Indien)
+ko: koreansk
+ko_KP: koreansk (Nordkorea)
+ko_KR: koreansk (Sydkorea)
+kok: konkani
+kok_IN: konkani (Indien)
+kpe: kpelle
+kpe_GN: kpelle (Guinea)
+kpe_LR: kpelle (Liberia)
+ks: kashmiri
+ks_Arab: kashmiri (naskh)
+ks_Arab_IN: kashmiri (naskh, Indien)
+ks_Aran_IN: kashmiri (nastaliq, Indien)
+ks_Deva: kashmiri (devanagari)
+ks_Deva_IN: kashmiri (devanagari, Indien)
+ksb: shambala
+ksb_TZ: shambala (Tanzania)
+ksf: bafia
+ksf_CM: bafia (Cameroun)
+ksh: kölsch
+ksh_DE: kölsch (Tyskland)
+ku: kurdisk
+ku_TR: kurdisk (Tyrkiet)
+kw: cornisk
+kw_GB: cornisk (Storbritannien)
+ky: kirgisisk
+ky_KG: kirgisisk (Kirgisistan)
+lag: langi
+lag_TZ: langi (Tanzania)
+lb: luxembourgsk
+lb_LU: luxembourgsk (Luxembourg)
+lg: ganda
+lg_UG: ganda (Uganda)
+lkt: lakota
+lkt_US: lakota (USA)
+ln: lingala
+ln_AO: lingala (Angola)
+ln_CD: lingala (Congo-Kinshasa)
+ln_CF: lingala (Den Centralafrikanske Republik)
+ln_CG: lingala (Congo-Brazzaville)
+lo: lao
+lo_LA: lao (Laos)
+lrc: nordluri
+lrc_IQ: nordluri (Irak)
+lrc_IR: nordluri (Iran)
+lt: litauisk
+lt_LT: litauisk (Litauen)
+lu: luba-Katanga
+lu_CD: luba-Katanga (Congo-Kinshasa)
+luo: luo
+luo_KE: luo (Kenya)
+luy: luyana
+luy_KE: luyana (Kenya)
+lv: lettisk
+lv_LV: lettisk (Letland)
+mai: maithili
+mai_IN: maithili (Indien)
+mas: masai
+mas_KE: masai (Kenya)
+mas_TZ: masai (Tanzania)
+mer: meru
+mer_KE: meru (Kenya)
+mfe: morisyen
+mfe_MU: morisyen (Mauritius)
+mg: malagassisk
+mg_MG: malagassisk (Madagaskar)
+mgh: makhuwa-meetto
+mgh_MZ: makhuwa-meetto (Mozambique)
+mgo: meta
+mgo_CM: meta (Cameroun)
+mi: maori
+mi_NZ: maori (New Zealand)
+mk: makedonsk
+mk_MK: makedonsk (Nordmakedonien)
+ml: malayalam
+ml_IN: malayalam (Indien)
+mn: mongolsk
+mn_MN: mongolsk (Mongoliet)
+mni: manipuri
+mni_Beng: manipuri (bengali)
+mni_Beng_IN: manipuri (bengali, Indien)
+mni_Mtei: manipuri (meitei-mayek)
+mni_Mtei_IN: manipuri (meitei-mayek, Indien)
+moh: mohawk
+moh_CA: mohawk (Canada)
+mr: marathisk
+mr_IN: marathisk (Indien)
+ms: malajisk
+ms_Arab: malajisk (arabisk)
+ms_Arab_BN: malajisk (arabisk, Brunei)
+ms_Arab_MY: malajisk (arabisk, Malaysia)
+ms_BN: malajisk (Brunei)
+ms_ID: malajisk (Indonesien)
+ms_MY: malajisk (Malaysia)
+ms_SG: malajisk (Singapore)
+mt: maltesisk
+mt_MT: maltesisk (Malta)
+mua: mundang
+mua_CM: mundang (Cameroun)
+my: burmesisk
+my_MM: burmesisk (Myanmar [Burma])
+myv: erzya
+myv_RU: erzya (Rusland)
+mzn: mazenisk
+mzn_IR: mazenisk (Iran)
+naq: nama
+naq_NA: nama (Namibia)
+nb: norsk bokmål
+nb_NO: norsk bokmål (Norge)
+nb_SJ: norsk bokmål (Svalbard og Jan Mayen)
+nd: nordndebele
+nd_ZW: nordndebele (Zimbabwe)
+nds: nedertysk
+nds_DE: nedertysk (Tyskland)
+nds_NL: nedertysk (Holland)
+ne: nepalesisk
+ne_IN: nepalesisk (Indien)
+ne_NP: nepalesisk (Nepal)
+nl: hollandsk
+nl_AW: hollandsk (Aruba)
+nl_BE: hollandsk (Belgien)
+nl_BQ: hollandsk (De tidligere Nederlandske Antiller)
+nl_CW: hollandsk (Curaçao)
+nl_NL: hollandsk (Holland)
+nl_SR: hollandsk (Surinam)
+nl_SX: hollandsk (Sint Maarten)
+nmg: kwasio
+nmg_CM: kwasio (Cameroun)
+nn: nynorsk
+nn_NO: nynorsk (Norge)
+nnh: ngiemboon
+nnh_CM: ngiemboon (Cameroun)
+no: norsk
+nqo: n-ko
+nqo_GN: n-ko (Guinea)
+nr: sydndebele
+nr_ZA: sydndebele (Sydafrika)
+nso: nordsotho
+nso_ZA: nordsotho (Sydafrika)
+nus: nuer
+nus_SS: nuer (Sydsudan)
+nv: navajo
+nv_US: navajo (USA)
+ny: nyanja
+ny_MW: nyanja (Malawi)
+nyn: nyankole
+nyn_UG: nyankole (Uganda)
+oc: occitansk
+oc_FR: occitansk (Frankrig)
+om: oromo
+om_ET: oromo (Etiopien)
+om_KE: oromo (Kenya)
+or: oriya
+or_IN: oriya (Indien)
+os: ossetisk
+os_GE: ossetisk (Georgien)
+os_RU: ossetisk (Rusland)
+pa: punjabisk
+pa_Arab: punjabisk (naskh)
+pa_Arab_PK: punjabisk (naskh, Pakistan)
+pa_Aran_PK: punjabisk (nastaliq, Pakistan)
+pa_Guru: punjabisk (gurmukhi)
+pa_Guru_IN: punjabisk (gurmukhi, Indien)
+pcm: nigeriansk pidgin
+pcm_NG: nigeriansk pidgin (Nigeria)
+pl: polsk
+pl_PL: polsk (Polen)
+ps: pashto
+ps_AF: pashto (Afghanistan)
+ps_PK: pashto (Pakistan)
+pt: portugisisk
+pt_AO: portugisisk (Angola)
+pt_BR: portugisisk (Brasilien)
+pt_CH: portugisisk (Schweiz)
+pt_CV: portugisisk (Kap Verde)
+pt_FR: portugisisk (Frankrig)
+pt_GQ: portugisisk (Ækvatorialguinea)
+pt_GW: portugisisk (Guinea-Bissau)
+pt_LU: portugisisk (Luxembourg)
+pt_MO: portugisisk (Macao)
+pt_MZ: portugisisk (Mozambique)
+pt_PT: portugisisk (Portugal)
+pt_ST: portugisisk (São Tomé og Príncipe)
+pt_TL: portugisisk (Timor-Leste)
+qu: quechua
+qu_BO: quechua (Bolivia)
+qu_EC: quechua (Ecuador)
+qu_PE: quechua (Peru)
+rhg: rohingya
+rhg_Rohg: rohingya (hanifi rohingya)
+rhg_Rohg_BD: rohingya (hanifi rohingya, Bangladesh)
+rhg_Rohg_MM: rohingya (hanifi rohingya, Myanmar [Burma])
+rm: rætoromansk
+rm_CH: rætoromansk (Schweiz)
+rn: rundi
+rn_BI: rundi (Burundi)
+ro: rumænsk
+ro_MD: rumænsk (Moldova)
+ro_RO: rumænsk (Rumænien)
+rof: rombo
+rof_TZ: rombo (Tanzania)
+ru: russisk
+ru_BY: russisk (Hviderusland)
+ru_KG: russisk (Kirgisistan)
+ru_KZ: russisk (Kasakhstan)
+ru_MD: russisk (Moldova)
+ru_RU: russisk (Rusland)
+ru_UA: russisk (Ukraine)
+rw: kinyarwanda
+rw_RW: kinyarwanda (Rwanda)
+rwk: rwa
+rwk_TZ: rwa (Tanzania)
+sa: sanskrit
+sa_IN: sanskrit (Indien)
+sah: jakutisk
+sah_RU: jakutisk (Rusland)
+saq: samburu
+saq_KE: samburu (Kenya)
+sat: santali
+sat_Deva: santali (devanagari)
+sat_Deva_IN: santali (devanagari, Indien)
+sat_Olck: santali (ol-chiki)
+sat_Olck_IN: santali (ol-chiki, Indien)
+sbp: sangu
+sbp_TZ: sangu (Tanzania)
+sc: sardinsk
+sc_IT: sardinsk (Italien)
+scn: siciliansk
+scn_IT: siciliansk (Italien)
+sd: sindhi
+sd_Arab: sindhi (arabisk)
+sd_Arab_PK: sindhi (arabisk, Pakistan)
+sd_Deva: sindhi (devanagari)
+sd_Deva_IN: sindhi (devanagari, Indien)
+se: nordsamisk
+se_FI: nordsamisk (Finland)
+se_NO: nordsamisk (Norge)
+se_SE: nordsamisk (Sverige)
+seh: sena
+seh_MZ: sena (Mozambique)
+ses: koyraboro senni
+ses_ML: koyraboro senni (Mali)
+sg: sango
+sg_CF: sango (Den Centralafrikanske Republik)
+shi: tachelhit
+shi_Latn: tachelhit (latinsk)
+shi_Latn_MA: tachelhit (latinsk, Marokko)
+shi_Tfng: tachelhit (tifinagh)
+shi_Tfng_MA: tachelhit (tifinagh, Marokko)
+si: singalesisk
+si_LK: singalesisk (Sri Lanka)
+sk: slovakisk
+sk_SK: slovakisk (Slovakiet)
+sl: slovensk
+sl_SI: slovensk (Slovenien)
+sm: samoansk
+sm_AS: samoansk (Amerikansk Samoa)
+sm_WS: samoansk (Samoa)
+smn: enaresamisk
+smn_FI: enaresamisk (Finland)
+sn: shona
+sn_ZW: shona (Zimbabwe)
+so: somali
+so_DJ: somali (Djibouti)
+so_ET: somali (Etiopien)
+so_KE: somali (Kenya)
+so_SO: somali (Somalia)
+sq: albansk
+sq_AL: albansk (Albanien)
+sq_MK: albansk (Nordmakedonien)
+sq_XK: albansk (Kosovo)
+sr: serbisk
+sr_Cyrl: serbisk (kyrillisk)
+sr_Cyrl_BA: serbisk (kyrillisk, Bosnien-Hercegovina)
+sr_Cyrl_ME: serbisk (kyrillisk, Montenegro)
+sr_Cyrl_RS: serbisk (kyrillisk, Serbien)
+sr_Cyrl_XK: serbisk (kyrillisk, Kosovo)
+sr_Latn: serbisk (latinsk)
+sr_Latn_BA: serbisk (latinsk, Bosnien-Hercegovina)
+sr_Latn_ME: serbisk (latinsk, Montenegro)
+sr_Latn_RS: serbisk (latinsk, Serbien)
+sr_Latn_XK: serbisk (latinsk, Kosovo)
+ss: swati
+ss_SZ: swati (Eswatini)
+ss_ZA: swati (Sydafrika)
+st: sydsotho
+st_LS: sydsotho (Lesotho)
+st_ZA: sydsotho (Sydafrika)
+su: sundanesisk
+su_Latn: sundanesisk (latinsk)
+su_Latn_ID: sundanesisk (latinsk, Indonesien)
+sv: svensk
+sv_AX: svensk (Åland)
+sv_FI: svensk (Finland)
+sv_SE: svensk (Sverige)
+sw: swahili
+sw_CD: swahili (Congo-Kinshasa)
+sw_KE: swahili (Kenya)
+sw_TZ: swahili (Tanzania)
+sw_UG: swahili (Uganda)
+syr: syrisk
+syr_IQ: syrisk (Irak)
+syr_SY: syrisk (Syrien)
+ta: tamil
+ta_IN: tamil (Indien)
+ta_LK: tamil (Sri Lanka)
+ta_MY: tamil (Malaysia)
+ta_SG: tamil (Singapore)
+te: telugu
+te_IN: telugu (Indien)
+teo: teso
+teo_KE: teso (Kenya)
+teo_UG: teso (Uganda)
+tg: tadsjikisk
+tg_TJ: tadsjikisk (Tadsjikistan)
+th: thai
+th_TH: thai (Thailand)
+ti: tigrinya
+ti_ER: tigrinya (Eritrea)
+ti_ET: tigrinya (Etiopien)
+tig: tigre
+tig_ER: tigre (Eritrea)
+tk: turkmensk
+tk_TM: turkmensk (Turkmenistan)
+tn: tswana
+tn_BW: tswana (Botswana)
+tn_ZA: tswana (Sydafrika)
+to: tongansk
+to_TO: tongansk (Tonga)
+tr: tyrkisk
+tr_CY: tyrkisk (Cypern)
+tr_TR: tyrkisk (Tyrkiet)
+trv: taroko
+trv_TW: taroko (Taiwan)
+ts: tsonga
+ts_ZA: tsonga (Sydafrika)
+tt: tatarisk
+tt_RU: tatarisk (Rusland)
+twq: tasawaq
+twq_NE: tasawaq (Niger)
+tzm: centralmarokkansk tamazight
+tzm_MA: centralmarokkansk tamazight (Marokko)
+ug: uygurisk
+ug_CN: uygurisk (Kina, fastlandet)
+uk: ukrainsk
+uk_UA: ukrainsk (Ukraine)
+ur: urdu
+ur_Arab: urdu (naskh)
+ur_Arab_IN: urdu (naskh, Indien)
+ur_Arab_PK: urdu (naskh, Pakistan)
+ur_Aran_PK: urdu (nastaliq, Pakistan)
+uz: usbekisk
+uz_Arab: usbekisk (arabisk)
+uz_Arab_AF: usbekisk (arabisk, Afghanistan)
+uz_Cyrl: usbekisk (kyrillisk)
+uz_Cyrl_UZ: usbekisk (kyrillisk, Usbekistan)
+uz_Latn: usbekisk (latinsk)
+uz_Latn_UZ: usbekisk (latinsk, Usbekistan)
+vai: vai
+vai_Latn: vai (latinsk)
+vai_Latn_LR: vai (latinsk, Liberia)
+vai_Vaii: vai (vai)
+vai_Vaii_LR: vai (vai, Liberia)
+ve: venda
+ve_ZA: venda (Sydafrika)
+vi: vietnamesisk
+vi_VN: vietnamesisk (Vietnam)
+vun: vunjo
+vun_TZ: vunjo (Tanzania)
+wa: vallonsk
+wa_BE: vallonsk (Belgien)
+wae: walsertysk
+wae_CH: walsertysk (Schweiz)
+wal: walamo
+wal_ET: walamo (Etiopien)
+wo: wolof
+wo_SN: wolof (Senegal)
+xh: xhosa
+xh_ZA: xhosa (Sydafrika)
+xog: soga
+xog_UG: soga (Uganda)
+yav: yangben
+yav_CM: yangben (Cameroun)
+yi: jiddisch
+yi_001: jiddisch (Verden)
+yo: yoruba
+yo_BJ: yoruba (Benin)
+yo_NG: yoruba (Nigeria)
+yue: kantonesisk
+yue_Hans: kantonesisk (forenklet)
+yue_Hans_CN: kantonesisk (forenklet, Kina, fastlandet)
+yue_Hant: kantonesisk (traditionelt)
+yue_Hant_HK: kantonesisk (traditionelt, Hongkong)
+zgh: tamazight
+zgh_MA: tamazight (Marokko)
+zh: kinesisk
+zh_Hans: forenklet kinesisk
+zh_Hans_CN: forenklet kinesisk (Kina, fastlandet)
+zh_Hans_HK: forenklet kinesisk (Hongkong)
+zh_Hans_JP: forenklet kinesisk (Japan)
+zh_Hans_MO: forenklet kinesisk (Macao)
+zh_Hans_SG: forenklet kinesisk (Singapore)
+zh_Hant: traditionelt kinesisk
+zh_Hant_CN: traditionelt kinesisk (Kina, fastlandet)
+zh_Hant_HK: traditionelt kinesisk (Hongkong)
+zh_Hant_MO: traditionelt kinesisk (Macao)
+zh_Hant_TW: traditionelt kinesisk (Taiwan)
+zu: zulu
+zu_ZA: zulu (Sydafrika)

@@ -1,0 +1,945 @@
+af: afrikaans
+af_NA: afrikaans (Namibia)
+af_ZA: afrikaans (Maadâ-Afrikka)
+agq: aghem
+agq_CM: aghem (Kamerun)
+ain: ainukielâ
+ain_JP: ainukielâ (Jaapaan)
+ak: akankielâ
+ak_GH: akankielâ (Ghana)
+am: amharakielâ
+am_ET: amharakielâ (Etiopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: arabiakielâ
+ar_001: arabiakielâ (001)
+ar_AE: arabiakielâ (Arabiemirkodeh)
+ar_BH: arabiakielâ (Bahrain)
+ar_DJ: arabiakielâ (Djibouti)
+ar_DZ: arabiakielâ (Algeria)
+ar_EG: arabiakielâ (Egypti)
+ar_EH: arabiakielâ (EH)
+ar_ER: arabiakielâ (Eritrea)
+ar_IL: arabiakielâ (Israel)
+ar_IQ: arabiakielâ (Irak)
+ar_JO: arabiakielâ (Jordan)
+ar_KM: arabiakielâ (Komoreh)
+ar_KW: arabiakielâ (Kuwait)
+ar_LB: arabiakielâ (Libanon)
+ar_LY: arabiakielâ (Libya)
+ar_MA: arabiakielâ (Marokko)
+ar_MR: arabiakielâ (Mauritania)
+ar_OM: arabiakielâ (Oman)
+ar_PS: arabiakielâ (PS)
+ar_QA: arabiakielâ (Qatar)
+ar_SA: arabiakielâ (Saudi Arabia)
+ar_SD: arabiakielâ (Sudan)
+ar_SO: arabiakielâ (Somalia)
+ar_SS: arabiakielâ (Maadâ-Sudan)
+ar_SY: arabiakielâ (Syria)
+ar_TD: arabiakielâ (Tšad)
+ar_TN: arabiakielâ (Tunisia)
+ar_YE: arabiakielâ (Jemen)
+arn: mapudungun
+arn_CL: mapudungun (Chile)
+as: assamkielâ
+as_IN: assamkielâ (India)
+asa: asukielâ
+asa_TZ: asukielâ (Tansania)
+ast: asturiakielâ
+ast_ES: asturiakielâ (Espanja)
+az: azerbaidžankielâ
+az_Cyrl: azerbaidžankielâ (Cyrl)
+az_Cyrl_AZ: azerbaidžankielâ (Cyrl, Azerbaidžan)
+az_Latn: azerbaidžankielâ (Latn)
+az_Latn_AZ: azerbaidžankielâ (Latn, Azerbaidžan)
+ba: baškirkielâ
+ba_RU: baškirkielâ (Ruoššâ)
+bas: basaakielâ
+bas_CM: basaakielâ (Kamerun)
+be: vielgisruošâkielâ
+be_BY: vielgisruošâkielâ (Vielgis-Ruoššâ)
+bem: bembakielâ
+bem_ZM: bembakielâ (Sambia)
+bez: benakielâ
+bez_TZ: benakielâ (Tansania)
+bg: bulgariakielâ
+bg_BG: bulgariakielâ (Bulgaria)
+bm: bambarakielâ
+bm_ML: bambarakielâ (Mali)
+bn: banglakielâ
+bn_BD: banglakielâ (Bangladesh)
+bn_IN: banglakielâ (India)
+bo: tiibetkielâ
+bo_CN: tiibetkielâ (Kiina)
+bo_IN: tiibetkielâ (India)
+br: bretonkielâ
+br_FR: bretonkielâ (Ranska)
+brx: bodokielâ
+brx_IN: bodokielâ (India)
+bs: bosniakielâ
+bs_Cyrl: bosniakielâ (Cyrl)
+bs_Cyrl_BA: bosniakielâ (Cyrl, Bosnia já Herzegovina)
+bs_Latn: bosniakielâ (Latn)
+bs_Latn_BA: bosniakielâ (Latn, Bosnia já Herzegovina)
+byn: blinkielâ
+byn_ER: blinkielâ (Eritrea)
+ca: katalankielâ
+ca_AD: katalankielâ (Andorra)
+ca_ES: katalankielâ (Espanja)
+ca_FR: katalankielâ (Ranska)
+ca_IT: katalankielâ (Italia)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: tšetšenkielâ
+ce_RU: tšetšenkielâ (Ruoššâ)
+ceb: cebuanokielâ
+ceb_PH: cebuanokielâ (Filipineh)
+cgg: kigakielâ
+cgg_UG: kigakielâ (Uganda)
+chr: cherokeekielâ
+chr_US: cherokeekielâ (Ovtâstum Staatah)
+ckb: sorani kurdikielâ
+ckb_IQ: sorani kurdikielâ (Irak)
+ckb_IR: sorani kurdikielâ (Iran)
+co: korsikakielâ
+co_FR: korsikakielâ (Ranska)
+cs: tšeekikielâ
+cs_CZ: tšeekikielâ (Tšekki)
+cv: tšuvaskielâ
+cv_RU: tšuvaskielâ (Ruoššâ)
+cy: kymrikielâ
+cy_GB: kymrikielâ (Ovtâstum Kunâgâskodde)
+da: tanskakielâ
+da_DK: tanskakielâ (Tanska)
+da_GL: tanskakielâ (Grönland)
+dav: taitakielâ
+dav_KE: taitakielâ (Kenia)
+de: saksakielâ
+de_AT: saksakielâ (Nuorttâriijkâ)
+de_BE: saksakielâ (Belgia)
+de_CH: saksakielâ (Sveitsi)
+de_DE: saksakielâ (Saksa)
+de_IT: saksakielâ (Italia)
+de_LI: saksakielâ (Liechtenstein)
+de_LU: saksakielâ (Luxemburg)
+dje: zarmakielâ
+dje_NE: zarmakielâ (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: vyelisorbi
+dsb_DE: vyelisorbi (Saksa)
+dua: dualakielâ
+dua_CM: dualakielâ (Kamerun)
+dv: divehikielâ
+dv_MV: divehikielâ (Malediveh)
+dyo: jola-fonyi
+dyo_SN: jola-fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: embukielâ
+ebu_KE: embukielâ (Kenia)
+ee: ewekielâ
+ee_GH: ewekielâ (Ghana)
+ee_TG: ewekielâ (Togo)
+el: kreikakielâ
+el_CY: kreikakielâ (Kypros)
+el_GR: kreikakielâ (Kreikka)
+en: eŋgâlâskielâ
+en_001: eŋgâlâskielâ (001)
+en_150: eŋgâlâskielâ (150)
+en_AE: eŋgâlâskielâ (Arabiemirkodeh)
+en_AG: eŋgâlâskielâ (Antigua já Barbuda)
+en_AI: eŋgâlâskielâ (Anguilla)
+en_AL: eŋgâlâskielâ (Albania)
+en_AR: eŋgâlâskielâ (Argentina)
+en_AS: eŋgâlâskielâ (Amerika Samoa)
+en_AT: eŋgâlâskielâ (Nuorttâriijkâ)
+en_AU: eŋgâlâskielâ (Australia)
+en_BB: eŋgâlâskielâ (Barbados)
+en_BD: eŋgâlâskielâ (Bangladesh)
+en_BE: eŋgâlâskielâ (Belgia)
+en_BG: eŋgâlâskielâ (Bulgaria)
+en_BI: eŋgâlâskielâ (Burundi)
+en_BM: eŋgâlâskielâ (Bermuda)
+en_BN: eŋgâlâskielâ (Brunei)
+en_BR: eŋgâlâskielâ (Brasilia)
+en_BS: eŋgâlâskielâ (Bahama)
+en_BW: eŋgâlâskielâ (Botswana)
+en_BZ: eŋgâlâskielâ (Belize)
+en_CA: eŋgâlâskielâ (Kanada)
+en_CC: eŋgâlâskielâ (Kookossuolluuh [Keelingsuolluuh])
+en_CH: eŋgâlâskielâ (Sveitsi)
+en_CK: eŋgâlâskielâ (Cooksuolluuh)
+en_CL: eŋgâlâskielâ (Chile)
+en_CM: eŋgâlâskielâ (Kamerun)
+en_CN: eŋgâlâskielâ (Kiina)
+en_CO: eŋgâlâskielâ (Kolumbia)
+en_CV: eŋgâlâskielâ (Cape Verde)
+en_CX: eŋgâlâskielâ (Juovlâsuálui)
+en_CY: eŋgâlâskielâ (Kypros)
+en_CZ: eŋgâlâskielâ (Tšekki)
+en_DE: eŋgâlâskielâ (Saksa)
+en_DG: eŋgâlâskielâ (Diego Garcia)
+en_DK: eŋgâlâskielâ (Tanska)
+en_DM: eŋgâlâskielâ (Dominica)
+en_EE: eŋgâlâskielâ (Eestieennâm)
+en_ER: eŋgâlâskielâ (Eritrea)
+en_FI: eŋgâlâskielâ (Suomâ)
+en_FJ: eŋgâlâskielâ (Fidži)
+en_FK: eŋgâlâskielâ (Falklandsuolluuh)
+en_FM: eŋgâlâskielâ (Mikronesia littoväldi)
+en_FR: eŋgâlâskielâ (Ranska)
+en_GB: eŋgâlâskielâ (Ovtâstum Kunâgâskodde)
+en_GD: eŋgâlâskielâ (Grenada)
+en_GG: eŋgâlâskielâ (Guernsey)
+en_GH: eŋgâlâskielâ (Ghana)
+en_GI: eŋgâlâskielâ (Gibraltar)
+en_GM: eŋgâlâskielâ (Gambia)
+en_GR: eŋgâlâskielâ (Kreikka)
+en_GU: eŋgâlâskielâ (Guam)
+en_GY: eŋgâlâskielâ (Guyana)
+en_HK: eŋgâlâskielâ (Hong Kong)
+en_HU: eŋgâlâskielâ (Uŋgar)
+en_ID: eŋgâlâskielâ (Indonesia)
+en_IE: eŋgâlâskielâ (Irland)
+en_IL: eŋgâlâskielâ (Israel)
+en_IM: eŋgâlâskielâ (Mansuálui)
+en_IN: eŋgâlâskielâ (India)
+en_IO: eŋgâlâskielâ (Brittilâš India väldimeerâ kuávlu)
+en_JE: eŋgâlâskielâ (Jersey)
+en_JM: eŋgâlâskielâ (Jamaika)
+en_JP: eŋgâlâskielâ (Jaapaan)
+en_KE: eŋgâlâskielâ (Kenia)
+en_KI: eŋgâlâskielâ (Kiribati)
+en_KN: eŋgâlâskielâ (St. Kitts já Nevis)
+en_KR: eŋgâlâskielâ (Maadâ-Korea)
+en_KY: eŋgâlâskielâ (Caymansuolluuh)
+en_LC: eŋgâlâskielâ (St. Lucia)
+en_LR: eŋgâlâskielâ (Liberia)
+en_LS: eŋgâlâskielâ (Lesotho)
+en_LT: eŋgâlâskielâ (Liettua)
+en_LV: eŋgâlâskielâ (Latvia)
+en_MG: eŋgâlâskielâ (Madagaskar)
+en_MH: eŋgâlâskielâ (Marshallsuolluuh)
+en_MM: eŋgâlâskielâ (Myanmar [Burma])
+en_MO: eŋgâlâskielâ (Macao)
+en_MP: eŋgâlâskielâ (Tave-Marianeh)
+en_MS: eŋgâlâskielâ (Montserrat)
+en_MT: eŋgâlâskielâ (Malta)
+en_MU: eŋgâlâskielâ (Mauritius)
+en_MV: eŋgâlâskielâ (Malediveh)
+en_MW: eŋgâlâskielâ (Malawi)
+en_MX: eŋgâlâskielâ (Meksiko)
+en_MY: eŋgâlâskielâ (Malaysia)
+en_NA: eŋgâlâskielâ (Namibia)
+en_NF: eŋgâlâskielâ (Norfolksuálui)
+en_NG: eŋgâlâskielâ (Nigeria)
+en_NL: eŋgâlâskielâ (Vuáládâhenâmeh)
+en_NO: eŋgâlâskielâ (Taažâ)
+en_NR: eŋgâlâskielâ (Nauru)
+en_NU: eŋgâlâskielâ (Niue)
+en_NZ: eŋgâlâskielâ (Uđđâ-Seeland)
+en_PG: eŋgâlâskielâ (Papua-Uđđâ-Guinea)
+en_PH: eŋgâlâskielâ (Filipineh)
+en_PK: eŋgâlâskielâ (Pakistan)
+en_PL: eŋgâlâskielâ (Puola)
+en_PN: eŋgâlâskielâ (Pitcairn)
+en_PR: eŋgâlâskielâ (Puerto Rico)
+en_PT: eŋgâlâskielâ (Portugal)
+en_PW: eŋgâlâskielâ (Palau)
+en_RU: eŋgâlâskielâ (Ruoššâ)
+en_RW: eŋgâlâskielâ (Ruanda)
+en_SA: eŋgâlâskielâ (Saudi Arabia)
+en_SB: eŋgâlâskielâ (Salomosuolluuh)
+en_SC: eŋgâlâskielâ (Seychelleh)
+en_SD: eŋgâlâskielâ (Sudan)
+en_SE: eŋgâlâskielâ (Ruotâ)
+en_SG: eŋgâlâskielâ (Singapore)
+en_SH: eŋgâlâskielâ (Saint Helena)
+en_SI: eŋgâlâskielâ (Slovenia)
+en_SK: eŋgâlâskielâ (Slovakia)
+en_SL: eŋgâlâskielâ (Sierra Leone)
+en_SS: eŋgâlâskielâ (Maadâ-Sudan)
+en_SX: eŋgâlâskielâ (Sint Maarten)
+en_SZ: eŋgâlâskielâ (Swazieennâm)
+en_TC: eŋgâlâskielâ (Turks- já Caicossuolluuh)
+en_TH: eŋgâlâskielâ (Thaieennâm)
+en_TK: eŋgâlâskielâ (Tokelau)
+en_TO: eŋgâlâskielâ (Tonga)
+en_TR: eŋgâlâskielâ (Turkki)
+en_TT: eŋgâlâskielâ (Trinidad já Tobago)
+en_TV: eŋgâlâskielâ (Tuvalu)
+en_TW: eŋgâlâskielâ (Taiwan)
+en_TZ: eŋgâlâskielâ (Tansania)
+en_UA: eŋgâlâskielâ (Ukraina)
+en_UG: eŋgâlâskielâ (Uganda)
+en_UM: eŋgâlâskielâ (Ovtâstum Staatâi sierânâssuolluuh)
+en_US: eŋgâlâskielâ (Ovtâstum Staatah)
+en_US_POSIX: eŋgâlâskielâ (Ovtâstum Staatah, POSIX)
+en_VC: eŋgâlâskielâ (St. Vincent já Grenadines)
+en_VG: eŋgâlâskielâ (Brittiliih Nieidâsuolluuh)
+en_VI: eŋgâlâskielâ (Ovtâstum Staatâi Nieidâsuolluuh)
+en_VU: eŋgâlâskielâ (Vanuatu)
+en_WS: eŋgâlâskielâ (Samoa)
+en_ZA: eŋgâlâskielâ (Maadâ-Afrikka)
+en_ZM: eŋgâlâskielâ (Sambia)
+en_ZW: eŋgâlâskielâ (Zimbabwe)
+eo: esperantokielâ
+eo_001: esperantokielâ (001)
+es: espanjakielâ
+es_003: espanjakielâ (003)
+es_419: espanjakielâ (419)
+es_AG: espanjakielâ (Antigua já Barbuda)
+es_AR: espanjakielâ (Argentina)
+es_BB: espanjakielâ (Barbados)
+es_BM: espanjakielâ (Bermuda)
+es_BO: espanjakielâ (Bolivia)
+es_BQ: espanjakielâ (BQ)
+es_BR: espanjakielâ (Brasilia)
+es_BS: espanjakielâ (Bahama)
+es_BZ: espanjakielâ (Belize)
+es_CA: espanjakielâ (Kanada)
+es_CL: espanjakielâ (Chile)
+es_CO: espanjakielâ (Kolumbia)
+es_CR: espanjakielâ (Costa Rica)
+es_CU: espanjakielâ (Kuuba)
+es_CW: espanjakielâ (Curaçao)
+es_DM: espanjakielâ (Dominica)
+es_DO: espanjakielâ (Dominikaanisâš täsiväldi)
+es_EA: espanjakielâ (Ceuta já Melilla)
+es_EC: espanjakielâ (Ecuador)
+es_ES: espanjakielâ (Espanja)
+es_GD: espanjakielâ (Grenada)
+es_GQ: espanjakielâ (Peeivitäsideijee Guinea)
+es_GT: espanjakielâ (Guatemala)
+es_GY: espanjakielâ (Guyana)
+es_HN: espanjakielâ (Honduras)
+es_HT: espanjakielâ (Haiti)
+es_IC: espanjakielâ (Kanariasuolluuh)
+es_KN: espanjakielâ (St. Kitts já Nevis)
+es_KY: espanjakielâ (Caymansuolluuh)
+es_LC: espanjakielâ (St. Lucia)
+es_MX: espanjakielâ (Meksiko)
+es_NI: espanjakielâ (Nicaragua)
+es_PA: espanjakielâ (Panama)
+es_PE: espanjakielâ (Peru)
+es_PH: espanjakielâ (Filipineh)
+es_PR: espanjakielâ (Puerto Rico)
+es_PY: espanjakielâ (Paraguay)
+es_SV: espanjakielâ (El Salvador)
+es_TC: espanjakielâ (Turks- já Caicossuolluuh)
+es_TT: espanjakielâ (Trinidad já Tobago)
+es_US: espanjakielâ (Ovtâstum Staatah)
+es_UY: espanjakielâ (Uruguay)
+es_VC: espanjakielâ (St. Vincent já Grenadines)
+es_VE: espanjakielâ (Venezuela)
+es_VG: espanjakielâ (Brittiliih Nieidâsuolluuh)
+es_VI: espanjakielâ (Ovtâstum Staatâi Nieidâsuolluuh)
+et: eestikielâ
+et_EE: eestikielâ (Eestieennâm)
+eu: baskikielâ
+eu_ES: baskikielâ (Espanja)
+ewo: ewondokielâ
+ewo_CM: ewondokielâ (Kamerun)
+fa: persiakielâ
+fa_AF: persiakielâ (Afganistan)
+fa_IR: persiakielâ (Iran)
+ff: fulakielâ
+ff_Adlm: fulakielâ (Adlm)
+ff_Adlm_BF: fulakielâ (Adlm, Burkina Faso)
+ff_Adlm_CM: fulakielâ (Adlm, Kamerun)
+ff_Adlm_GH: fulakielâ (Adlm, Ghana)
+ff_Adlm_GM: fulakielâ (Adlm, Gambia)
+ff_Adlm_GN: fulakielâ (Adlm, Guinea)
+ff_Adlm_GW: fulakielâ (Adlm, Guinea-Bissau)
+ff_Adlm_LR: fulakielâ (Adlm, Liberia)
+ff_Adlm_MR: fulakielâ (Adlm, Mauritania)
+ff_Adlm_NE: fulakielâ (Adlm, Niger)
+ff_Adlm_NG: fulakielâ (Adlm, Nigeria)
+ff_Adlm_SL: fulakielâ (Adlm, Sierra Leone)
+ff_Adlm_SN: fulakielâ (Adlm, Senegal)
+ff_Latn: fulakielâ (Latn)
+ff_Latn_BF: fulakielâ (Latn, Burkina Faso)
+ff_Latn_CM: fulakielâ (Latn, Kamerun)
+ff_Latn_GH: fulakielâ (Latn, Ghana)
+ff_Latn_GM: fulakielâ (Latn, Gambia)
+ff_Latn_GN: fulakielâ (Latn, Guinea)
+ff_Latn_GW: fulakielâ (Latn, Guinea-Bissau)
+ff_Latn_LR: fulakielâ (Latn, Liberia)
+ff_Latn_MR: fulakielâ (Latn, Mauritania)
+ff_Latn_NE: fulakielâ (Latn, Niger)
+ff_Latn_NG: fulakielâ (Latn, Nigeria)
+ff_Latn_SL: fulakielâ (Latn, Sierra Leone)
+ff_Latn_SN: fulakielâ (Latn, Senegal)
+fi: suomâkielâ
+fi_FI: suomâkielâ (Suomâ)
+fil: filipinokielâ
+fil_PH: filipinokielâ (Filipineh)
+fo: fäärikielâ
+fo_DK: fäärikielâ (Tanska)
+fo_FO: fäärikielâ (Färsuolluuh)
+fr: ranskakielâ
+fr_BE: ranskakielâ (Belgia)
+fr_BF: ranskakielâ (Burkina Faso)
+fr_BI: ranskakielâ (Burundi)
+fr_BJ: ranskakielâ (Benin)
+fr_BL: ranskakielâ (St. Barthélemy)
+fr_CA: ranskakielâ (Kanada)
+fr_CD: ranskakielâ (CD)
+fr_CF: ranskakielâ (Koskâ-Afrika täsiväldi)
+fr_CG: ranskakielâ (CG)
+fr_CH: ranskakielâ (Sveitsi)
+fr_CI: ranskakielâ (Côte d’Ivoire)
+fr_CM: ranskakielâ (Kamerun)
+fr_DJ: ranskakielâ (Djibouti)
+fr_DZ: ranskakielâ (Algeria)
+fr_FR: ranskakielâ (Ranska)
+fr_GA: ranskakielâ (Gabon)
+fr_GF: ranskakielâ (Ranska Guyana)
+fr_GN: ranskakielâ (Guinea)
+fr_GP: ranskakielâ (Guadeloupe)
+fr_GQ: ranskakielâ (Peeivitäsideijee Guinea)
+fr_HT: ranskakielâ (Haiti)
+fr_KM: ranskakielâ (Komoreh)
+fr_LU: ranskakielâ (Luxemburg)
+fr_MA: ranskakielâ (Marokko)
+fr_MC: ranskakielâ (Monaco)
+fr_MF: ranskakielâ (St. Martin)
+fr_MG: ranskakielâ (Madagaskar)
+fr_ML: ranskakielâ (Mali)
+fr_MQ: ranskakielâ (Martinique)
+fr_MR: ranskakielâ (Mauritania)
+fr_MU: ranskakielâ (Mauritius)
+fr_NC: ranskakielâ (Uđđâ-Kaledonia)
+fr_NE: ranskakielâ (Niger)
+fr_PF: ranskakielâ (Ranska Polynesia)
+fr_PM: ranskakielâ (St. Pierre já Miquelon)
+fr_RE: ranskakielâ (Réunion)
+fr_RW: ranskakielâ (Ruanda)
+fr_SC: ranskakielâ (Seychelleh)
+fr_SN: ranskakielâ (Senegal)
+fr_SY: ranskakielâ (Syria)
+fr_TD: ranskakielâ (Tšad)
+fr_TG: ranskakielâ (Togo)
+fr_TN: ranskakielâ (Tunisia)
+fr_VU: ranskakielâ (Vanuatu)
+fr_WF: ranskakielâ (Wallis já Futuna)
+fr_YT: ranskakielâ (Mayotte)
+fur: friulikielâ
+fur_IT: friulikielâ (Italia)
+fy: viestârfriisi
+fy_NL: viestârfriisi (Vuáládâhenâmeh)
+ga: iirikielâ
+ga_GB: iirikielâ (Ovtâstum Kunâgâskodde)
+ga_IE: iirikielâ (Irland)
+gaa: gakielâ
+gaa_GH: gakielâ (Ghana)
+gd: skottilâš gaelikielâ
+gd_GB: skottilâš gaelikielâ (Ovtâstum Kunâgâskodde)
+gez: ge’ez
+gez_ER: ge’ez (Eritrea)
+gez_ET: ge’ez (Etiopia)
+gl: galiciakielâ
+gl_ES: galiciakielâ (Espanja)
+gn: guaranikielâ
+gn_PY: guaranikielâ (Paraguay)
+gsw: Sveitsi saksakielâ
+gsw_CH: Sveitsi saksakielâ (Sveitsi)
+gsw_FR: Sveitsi saksakielâ (Ranska)
+gsw_LI: Sveitsi saksakielâ (Liechtenstein)
+gu: gudžaratikielâ
+gu_IN: gudžaratikielâ (India)
+guz: gusiikielâ
+guz_KE: gusiikielâ (Kenia)
+gv: manks
+gv_IM: manks (Mansuálui)
+ha: hausakielâ
+ha_GH: hausakielâ (Ghana)
+ha_NE: hausakielâ (Niger)
+ha_NG: hausakielâ (Nigeria)
+haw: hawaijikielâ
+haw_US: hawaijikielâ (Ovtâstum Staatah)
+he: hepreakielâ
+he_IL: hepreakielâ (Israel)
+hi: hindikielâ
+hi_IN: hindikielâ (India)
+hi_Latn: hindikielâ (Latn)
+hi_Latn_IN: hindikielâ (Latn, India)
+hr: kroatiakielâ
+hr_BA: kroatiakielâ (Bosnia já Herzegovina)
+hr_HR: kroatiakielâ (Kroatia)
+hsb: pajesorbi
+hsb_DE: pajesorbi (Saksa)
+hu: uŋgarkielâ
+hu_HU: uŋgarkielâ (Uŋgar)
+hy: armeniakielâ
+hy_AM: armeniakielâ (Armenia)
+ia: interlingua
+ia_001: interlingua (001)
+id: indonesiakielâ
+id_ID: indonesiakielâ (Indonesia)
+ig: igbokielâ
+ig_NG: igbokielâ (Nigeria)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: ido
+io_001: ido (001)
+is: islandkielâ
+is_IS: islandkielâ (Island)
+it: italiakielâ
+it_CH: italiakielâ (Sveitsi)
+it_IT: italiakielâ (Italia)
+it_SM: italiakielâ (San Marino)
+it_VA: italiakielâ (Vatikan)
+iu: inuktitut
+iu_CA: inuktitut (Kanada)
+ja: jaapaankielâ
+ja_JP: jaapaankielâ (Jaapaan)
+jbo: lojban
+jbo_001: lojban (001)
+jgo: ngomba
+jgo_CM: ngomba (Kamerun)
+jmc: machame
+jmc_TZ: machame (Tansania)
+jv: jaavakielâ
+jv_ID: jaavakielâ (Indonesia)
+ka: georgiakielâ
+ka_GE: georgiakielâ (Georgia)
+kab: kabylkielâ
+kab_DZ: kabylkielâ (Algeria)
+kaj: jju
+kaj_NG: jju (Nigeria)
+kam: kambakielâ
+kam_KE: kambakielâ (Kenia)
+kcg: tyap
+kcg_NG: tyap (Nigeria)
+kde: makonde
+kde_TZ: makonde (Tansania)
+kea: Kap Verde kreoli
+kea_CV: Kap Verde kreoli (Cape Verde)
+khq: koyra chiini
+khq_ML: koyra chiini (Mali)
+ki: kikujukielâ
+ki_KE: kikujukielâ (Kenia)
+kk: kazakkielâ
+kk_KZ: kazakkielâ (Kazakstan)
+kkj: kako
+kkj_CM: kako (Kamerun)
+kl: kalaallisut
+kl_GL: kalaallisut (Grönland)
+kln: kalenjikielâ
+kln_KE: kalenjikielâ (Kenia)
+km: khmerkielâ
+km_KH: khmerkielâ (Kambodža)
+kn: kannada
+kn_IN: kannada (India)
+ko: koreakielâ
+ko_KP: koreakielâ (Tave-Korea)
+ko_KR: koreakielâ (Maadâ-Korea)
+kok: konkani
+kok_IN: konkani (India)
+kpe: kpellekielâ
+kpe_GN: kpellekielâ (Guinea)
+kpe_LR: kpellekielâ (Liberia)
+ks: kashmirkielâ
+ks_Arab: kashmirkielâ (Arab)
+ks_Arab_IN: kashmirkielâ (Arab, India)
+ks_Aran_IN: kashmirkielâ (Aran, India)
+ks_Deva: kashmirkielâ (Deva)
+ks_Deva_IN: kashmirkielâ (Deva, India)
+ksb: shambala
+ksb_TZ: shambala (Tansania)
+ksf: bafia
+ksf_CM: bafia (Kamerun)
+ksh: kölnkielâ
+ksh_DE: kölnkielâ (Saksa)
+ku: kurdikielâ
+ku_TR: kurdikielâ (Turkki)
+kw: kornikielâ
+kw_GB: kornikielâ (Ovtâstum Kunâgâskodde)
+ky: kirgiskielâ
+ky_KG: kirgiskielâ (Kirgisia)
+lag: langokielâ
+lag_TZ: langokielâ (Tansania)
+lb: luxemburgkielâ
+lb_LU: luxemburgkielâ (Luxemburg)
+lg: luganda
+lg_UG: luganda (Uganda)
+lkt: lakotakielâ
+lkt_US: lakotakielâ (Ovtâstum Staatah)
+ln: lingala
+ln_AO: lingala (Angola)
+ln_CD: lingala (CD)
+ln_CF: lingala (Koskâ-Afrika täsiväldi)
+ln_CG: lingala (CG)
+lo: laokielâ
+lo_LA: laokielâ (Laos)
+lrc: taveluri
+lrc_IQ: taveluri (Irak)
+lrc_IR: taveluri (Iran)
+lt: liettuakielâ
+lt_LT: liettuakielâ (Liettua)
+lu: katangaluba
+lu_CD: katangaluba (CD)
+luo: luo
+luo_KE: luo (Kenia)
+luy: luhya
+luy_KE: luhya (Kenia)
+lv: latviakielâ
+lv_LV: latviakielâ (Latvia)
+mai: maithili
+mai_IN: maithili (India)
+mas: masaikielâ
+mas_KE: masaikielâ (Kenia)
+mas_TZ: masaikielâ (Tansania)
+mer: merukielâ
+mer_KE: merukielâ (Kenia)
+mfe: morisyen
+mfe_MU: morisyen (Mauritius)
+mg: malagaskielâ
+mg_MG: malagaskielâ (Madagaskar)
+mgh: makua-meetto
+mgh_MZ: makua-meetto (Mosambik)
+mgo: meta’
+mgo_CM: meta’ (Kamerun)
+mi: maorikielâ
+mi_NZ: maorikielâ (Uđđâ-Seeland)
+mk: makedoniakielâ
+mk_MK: makedoniakielâ (MK)
+ml: malajam
+ml_IN: malajam (India)
+mn: mongoliakielâ
+mn_MN: mongoliakielâ (Mongolia)
+mni: manipuri
+mni_Beng: manipuri (Beng)
+mni_Beng_IN: manipuri (Beng, India)
+mni_Mtei: manipuri (Mtei)
+mni_Mtei_IN: manipuri (Mtei, India)
+moh: mohawkkielâ
+moh_CA: mohawkkielâ (Kanada)
+mr: marathikielâ
+mr_IN: marathikielâ (India)
+ms: malaiji
+ms_Arab: malaiji (Arab)
+ms_Arab_BN: malaiji (Arab, Brunei)
+ms_Arab_MY: malaiji (Arab, Malaysia)
+ms_BN: malaiji (Brunei)
+ms_ID: malaiji (Indonesia)
+ms_MY: malaiji (Malaysia)
+ms_SG: malaiji (Singapore)
+mt: maltakielâ
+mt_MT: maltakielâ (Malta)
+mua: mundang
+mua_CM: mundang (Kamerun)
+my: burmakielâ
+my_MM: burmakielâ (Myanmar [Burma])
+myv: ersäkielâ
+myv_RU: ersäkielâ (Ruoššâ)
+mzn: mazandarani
+mzn_IR: mazandarani (Iran)
+naq: nama
+naq_NA: nama (Namibia)
+nb: tárukielâ bokmål
+nb_NO: tárukielâ bokmål (Taažâ)
+nb_SJ: tárukielâ bokmål (Čokkeväärih já Jan Mayen)
+nd: tave-nbedele
+nd_ZW: tave-nbedele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: nepalkielâ
+ne_IN: nepalkielâ (India)
+ne_NP: nepalkielâ (Nepal)
+nl: hollandkielâ
+nl_AW: hollandkielâ (Aruba)
+nl_BE: hollandkielâ (Belgia)
+nl_BQ: hollandkielâ (BQ)
+nl_CW: hollandkielâ (Curaçao)
+nl_NL: hollandkielâ (Vuáládâhenâmeh)
+nl_SR: hollandkielâ (Surinam)
+nl_SX: hollandkielâ (Sint Maarten)
+nmg: kwasio
+nmg_CM: kwasio (Kamerun)
+nn: tárukielâ nynorsk
+nn_NO: tárukielâ nynorsk (Taažâ)
+nnh: ngiemboon
+nnh_CM: ngiemboon (Kamerun)
+no: tárukielâ
+nqo: n’ko
+nqo_GN: n’ko (Guinea)
+nr: maadâ-nbedele
+nr_ZA: maadâ-nbedele (Maadâ-Afrikka)
+nso: tavesotho
+nso_ZA: tavesotho (Maadâ-Afrikka)
+nus: nuer
+nus_SS: nuer (Maadâ-Sudan)
+nv: navajokielâ
+nv_US: navajokielâ (Ovtâstum Staatah)
+ny: njanža
+ny_MW: njanža (Malawi)
+nyn: nyankolekielâ
+nyn_UG: nyankolekielâ (Uganda)
+oc: oksitan
+oc_FR: oksitan (Ranska)
+om: oromokielâ
+om_ET: oromokielâ (Etiopia)
+om_KE: oromokielâ (Kenia)
+or: orija
+or_IN: orija (India)
+os: ossetkielâ
+os_GE: ossetkielâ (Georgia)
+os_RU: ossetkielâ (Ruoššâ)
+pa: pandžabi
+pa_Arab: pandžabi (Arab)
+pa_Arab_PK: pandžabi (Arab, Pakistan)
+pa_Aran_PK: pandžabi (Aran, Pakistan)
+pa_Guru: pandžabi (Guru)
+pa_Guru_IN: pandžabi (Guru, India)
+pcm: Nigeria pidgin
+pcm_NG: Nigeria pidgin (Nigeria)
+pl: puolakielâ
+pl_PL: puolakielâ (Puola)
+ps: paštu
+ps_AF: paštu (Afganistan)
+ps_PK: paštu (Pakistan)
+pt: portugalkielâ
+pt_AO: portugalkielâ (Angola)
+pt_BR: portugalkielâ (Brasilia)
+pt_CH: portugalkielâ (Sveitsi)
+pt_CV: portugalkielâ (Cape Verde)
+pt_FR: portugalkielâ (Ranska)
+pt_GQ: portugalkielâ (Peeivitäsideijee Guinea)
+pt_GW: portugalkielâ (Guinea-Bissau)
+pt_LU: portugalkielâ (Luxemburg)
+pt_MO: portugalkielâ (Macao)
+pt_MZ: portugalkielâ (Mosambik)
+pt_PT: portugalkielâ (Portugal)
+pt_ST: portugalkielâ (São Tomé já Príncipe)
+pt_TL: portugalkielâ (Timor-Leste)
+qu: quechua
+qu_BO: quechua (Bolivia)
+qu_EC: quechua (Ecuador)
+qu_PE: quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: retoroomaankielâ
+rm_CH: retoroomaankielâ (Sveitsi)
+rn: rundi
+rn_BI: rundi (Burundi)
+ro: romaniakielâ
+ro_MD: romaniakielâ (Moldova)
+ro_RO: romaniakielâ (Romania)
+rof: rombo
+rof_TZ: rombo (Tansania)
+ru: ruošâkielâ
+ru_BY: ruošâkielâ (Vielgis-Ruoššâ)
+ru_KG: ruošâkielâ (Kirgisia)
+ru_KZ: ruošâkielâ (Kazakstan)
+ru_MD: ruošâkielâ (Moldova)
+ru_RU: ruošâkielâ (Ruoššâ)
+ru_UA: ruošâkielâ (Ukraina)
+rw: ruandakielâ
+rw_RW: ruandakielâ (Ruanda)
+rwk: rwa
+rwk_TZ: rwa (Tansania)
+sa: sanskrit
+sa_IN: sanskrit (India)
+sah: jakutkielâ
+sah_RU: jakutkielâ (Ruoššâ)
+saq: samburukielâ
+saq_KE: samburukielâ (Kenia)
+sat: santalikielâ
+sat_Deva: santalikielâ (Deva)
+sat_Deva_IN: santalikielâ (Deva, India)
+sat_Olck: santalikielâ (Olck)
+sat_Olck_IN: santalikielâ (Olck, India)
+sbp: sangu
+sbp_TZ: sangu (Tansania)
+sc: sardiniakielâ
+sc_IT: sardiniakielâ (Italia)
+scn: sisiliakielâ
+scn_IT: sisiliakielâ (Italia)
+sd: sindhi
+sd_Arab: sindhi (Arab)
+sd_Arab_PK: sindhi (Arab, Pakistan)
+sd_Deva: sindhi (Deva)
+sd_Deva_IN: sindhi (Deva, India)
+se: tavekielâ
+se_FI: tavekielâ (Suomâ)
+se_NO: tavekielâ (Taažâ)
+se_SE: tavekielâ (Ruotâ)
+seh: sena
+seh_MZ: sena (Mosambik)
+ses: koyraboro senni
+ses_ML: koyraboro senni (Mali)
+sg: sango
+sg_CF: sango (Koskâ-Afrika täsiväldi)
+shi: tašelhit
+shi_Latn: tašelhit (Latn)
+shi_Latn_MA: tašelhit (Latn, Marokko)
+shi_Tfng: tašelhit (Tfng)
+shi_Tfng_MA: tašelhit (Tfng, Marokko)
+si: sinhala
+si_LK: sinhala (Sri Lanka)
+sk: slovakiakielâ
+sk_SK: slovakiakielâ (Slovakia)
+sl: sloveniakielâ
+sl_SI: sloveniakielâ (Slovenia)
+sm: samoakielâ
+sm_AS: samoakielâ (Amerika Samoa)
+sm_WS: samoakielâ (Samoa)
+smn: anarâškielâ
+smn_FI: anarâškielâ (Suomâ)
+sn: shona
+sn_ZW: shona (Zimbabwe)
+so: somalikielâ
+so_DJ: somalikielâ (Djibouti)
+so_ET: somalikielâ (Etiopia)
+so_KE: somalikielâ (Kenia)
+so_SO: somalikielâ (Somalia)
+sq: albaniakielâ
+sq_AL: albaniakielâ (Albania)
+sq_MK: albaniakielâ (MK)
+sq_XK: albaniakielâ (Kosovo)
+sr: serbiakielâ
+sr_Cyrl: serbiakielâ (Cyrl)
+sr_Cyrl_BA: serbiakielâ (Cyrl, Bosnia já Herzegovina)
+sr_Cyrl_ME: serbiakielâ (Cyrl, Montenegro)
+sr_Cyrl_RS: serbiakielâ (Cyrl, Serbia)
+sr_Cyrl_XK: serbiakielâ (Cyrl, Kosovo)
+sr_Latn: serbiakielâ (Latn)
+sr_Latn_BA: serbiakielâ (Latn, Bosnia já Herzegovina)
+sr_Latn_ME: serbiakielâ (Latn, Montenegro)
+sr_Latn_RS: serbiakielâ (Latn, Serbia)
+sr_Latn_XK: serbiakielâ (Latn, Kosovo)
+ss: swazikielâ
+ss_SZ: swazikielâ (Swazieennâm)
+ss_ZA: swazikielâ (Maadâ-Afrikka)
+st: maadâsotho
+st_LS: maadâsotho (Lesotho)
+st_ZA: maadâsotho (Maadâ-Afrikka)
+su: sundakielâ
+su_Latn: sundakielâ (Latn)
+su_Latn_ID: sundakielâ (Latn, Indonesia)
+sv: ruotâkielâ
+sv_AX: ruotâkielâ (Vuáskueennâm)
+sv_FI: ruotâkielâ (Suomâ)
+sv_SE: ruotâkielâ (Ruotâ)
+sw: swahilikielâ
+sw_CD: swahilikielâ (CD)
+sw_KE: swahilikielâ (Kenia)
+sw_TZ: swahilikielâ (Tansania)
+sw_UG: swahilikielâ (Uganda)
+syr: syyriakielâ
+syr_IQ: syyriakielâ (Irak)
+syr_SY: syyriakielâ (Syria)
+ta: tamilkielâ
+ta_IN: tamilkielâ (India)
+ta_LK: tamilkielâ (Sri Lanka)
+ta_MY: tamilkielâ (Malaysia)
+ta_SG: tamilkielâ (Singapore)
+te: telugu
+te_IN: telugu (India)
+teo: ateso
+teo_KE: ateso (Kenia)
+teo_UG: ateso (Uganda)
+tg: tadžikkielâ
+tg_TJ: tadžikkielâ (Tadžikistan)
+th: thaikielâ
+th_TH: thaikielâ (Thaieennâm)
+ti: tigrinyakielâ
+ti_ER: tigrinyakielâ (Eritrea)
+ti_ET: tigrinyakielâ (Etiopia)
+tig: tigrekielâ
+tig_ER: tigrekielâ (Eritrea)
+tk: turkmenkielâ
+tk_TM: turkmenkielâ (Turkmenistan)
+tn: tswanakielâ
+tn_BW: tswanakielâ (Botswana)
+tn_ZA: tswanakielâ (Maadâ-Afrikka)
+to: tongakielâ
+to_TO: tongakielâ (Tonga)
+tr: tuurkikielâ
+tr_CY: tuurkikielâ (Kypros)
+tr_TR: tuurkikielâ (Turkki)
+trv: taroko
+trv_TW: taroko (Taiwan)
+ts: tsongakielâ
+ts_ZA: tsongakielâ (Maadâ-Afrikka)
+tt: tatarkielâ
+tt_RU: tatarkielâ (Ruoššâ)
+twq: tasawaq
+twq_NE: tasawaq (Niger)
+tzm: Koskâatlas tamazight
+tzm_MA: Koskâatlas tamazight (Marokko)
+ug: uigurkielâ
+ug_CN: uigurkielâ (Kiina)
+uk: ukrainakielâ
+uk_UA: ukrainakielâ (Ukraina)
+ur: urdu
+ur_Arab: urdu (Arab)
+ur_Arab_IN: urdu (Arab, India)
+ur_Arab_PK: urdu (Arab, Pakistan)
+ur_Aran_PK: urdu (Aran, Pakistan)
+uz: uzbekkielâ
+uz_Arab: uzbekkielâ (Arab)
+uz_Arab_AF: uzbekkielâ (Arab, Afganistan)
+uz_Cyrl: uzbekkielâ (Cyrl)
+uz_Cyrl_UZ: uzbekkielâ (Cyrl, Uzbekistan)
+uz_Latn: uzbekkielâ (Latn)
+uz_Latn_UZ: uzbekkielâ (Latn, Uzbekistan)
+vai: vaikielâ
+vai_Latn: vaikielâ (Latn)
+vai_Latn_LR: vaikielâ (Latn, Liberia)
+vai_Vaii: vaikielâ (Vaii)
+vai_Vaii_LR: vaikielâ (Vaii, Liberia)
+ve: vendakielâ
+ve_ZA: vendakielâ (Maadâ-Afrikka)
+vi: vietnamkielâ
+vi_VN: vietnamkielâ (Vietnam)
+vun: vunjo
+vun_TZ: vunjo (Tansania)
+wa: walloonkielâ
+wa_BE: walloonkielâ (Belgia)
+wae: walliskielâ
+wae_CH: walliskielâ (Sveitsi)
+wal: wolaitakielâ
+wal_ET: wolaitakielâ (Etiopia)
+wo: wolofkielâ
+wo_SN: wolofkielâ (Senegal)
+xh: xhosakielâ
+xh_ZA: xhosakielâ (Maadâ-Afrikka)
+xog: soga
+xog_UG: soga (Uganda)
+yav: yangben
+yav_CM: yangben (Kamerun)
+yi: jiddish
+yi_001: jiddish (001)
+yo: yorubakielâ
+yo_BJ: yorubakielâ (Benin)
+yo_NG: yorubakielâ (Nigeria)
+yue: kantonkielâ
+yue_Hans: kantonkielâ (Hans)
+yue_Hans_CN: kantonkielâ (Hans, Kiina)
+yue_Hant: kantonkielâ (Hant)
+yue_Hant_HK: kantonkielâ (Hant, Hong Kong)
+zgh: standard tamazight
+zgh_MA: standard tamazight (Marokko)
+zh: mandarinkiinakielâ
+zh_Hans: oovtâkiärdánis kiinakielâ
+zh_Hans_CN: oovtâkiärdánis kiinakielâ (Kiina)
+zh_Hans_HK: oovtâkiärdánis kiinakielâ (Hong Kong)
+zh_Hans_JP: oovtâkiärdánis kiinakielâ (Jaapaan)
+zh_Hans_MO: oovtâkiärdánis kiinakielâ (Macao)
+zh_Hans_SG: oovtâkiärdánis kiinakielâ (Singapore)
+zh_Hant: ärbivuáválâš kiinakielâ
+zh_Hant_CN: ärbivuáválâš kiinakielâ (Kiina)
+zh_Hant_HK: ärbivuáválâš kiinakielâ (Hong Kong)
+zh_Hant_MO: ärbivuáválâš kiinakielâ (Macao)
+zh_Hant_TW: ärbivuáválâš kiinakielâ (Taiwan)
+zu: zulukielâ
+zu_ZA: zulukielâ (Maadâ-Afrikka)

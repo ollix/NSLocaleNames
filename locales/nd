@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: isi-Akhani
+ak_GH: isi-Akhani (Ghana)
+am: isi-Amaharikhi
+am_ET: isi-Amaharikhi (Ethiopia)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: isi-Alabhu
+ar_001: isi-Alabhu (001)
+ar_AE: isi-Alabhu (United Arab Emirates)
+ar_BH: isi-Alabhu (Bhahareni)
+ar_DJ: isi-Alabhu (Djibouti)
+ar_DZ: isi-Alabhu (Aljeriya)
+ar_EG: isi-Alabhu (Egypt)
+ar_EH: isi-Alabhu (EH)
+ar_ER: isi-Alabhu (Eritrea)
+ar_IL: isi-Alabhu (Isuraeli)
+ar_IQ: isi-Alabhu (Iraki)
+ar_JO: isi-Alabhu (Jodani)
+ar_KM: isi-Alabhu (Khomoro)
+ar_KW: isi-Alabhu (Khuweiti)
+ar_LB: isi-Alabhu (Lebhanoni)
+ar_LY: isi-Alabhu (Libhiya)
+ar_MA: isi-Alabhu (Morokho)
+ar_MR: isi-Alabhu (Mauritania)
+ar_OM: isi-Alabhu (Omani)
+ar_PS: isi-Alabhu (Palestinian West Bank and Gaza)
+ar_QA: isi-Alabhu (Kathari)
+ar_SA: isi-Alabhu (Saudi Arabia)
+ar_SD: isi-Alabhu (Sudani)
+ar_SO: isi-Alabhu (Somaliya)
+ar_SS: isi-Alabhu (SS)
+ar_SY: isi-Alabhu (Syria)
+ar_TD: isi-Alabhu (Chadi)
+ar_TN: isi-Alabhu (Tunisiya)
+ar_YE: isi-Alabhu (Yemeni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: isi-Bhelarashiyani
+be_BY: isi-Bhelarashiyani (Bhelarusi)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: isi-Bulgaria
+bg_BG: isi-Bulgaria (Bhulgariya)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: isi-Bhengali
+bn_BD: isi-Bhengali (Bhangiladeshi)
+bn_IN: isi-Bhengali (Indiya)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: isi-Czech
+cs_CZ: isi-Czech (Czech Republic)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: isi-Jalimani
+de_AT: isi-Jalimani (Austria)
+de_BE: isi-Jalimani (Bhelgium)
+de_CH: isi-Jalimani (Switzerland)
+de_DE: isi-Jalimani (Germany)
+de_IT: isi-Jalimani (Itali)
+de_LI: isi-Jalimani (Liechtenstein)
+de_LU: isi-Jalimani (Luxembourg)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: isi-Giliki
+el_CY: isi-Giliki (Cyprus)
+el_GR: isi-Giliki (Greece)
+en: isi-Ngisi
+en_001: isi-Ngisi (001)
+en_150: isi-Ngisi (150)
+en_AE: isi-Ngisi (United Arab Emirates)
+en_AG: isi-Ngisi (Antigua le Barbuda)
+en_AI: isi-Ngisi (Anguilla)
+en_AL: isi-Ngisi (Albania)
+en_AR: isi-Ngisi (Ajentina)
+en_AS: isi-Ngisi (Samoa ye Amelika)
+en_AT: isi-Ngisi (Austria)
+en_AU: isi-Ngisi (Australia)
+en_BB: isi-Ngisi (Bhabhadosi)
+en_BD: isi-Ngisi (Bhangiladeshi)
+en_BE: isi-Ngisi (Bhelgium)
+en_BG: isi-Ngisi (Bhulgariya)
+en_BI: isi-Ngisi (Bhurundi)
+en_BM: isi-Ngisi (Bhemuda)
+en_BN: isi-Ngisi (Brunei)
+en_BR: isi-Ngisi (Brazili)
+en_BS: isi-Ngisi (Bhahamas)
+en_BW: isi-Ngisi (Botswana)
+en_BZ: isi-Ngisi (Bhelize)
+en_CA: isi-Ngisi (Khanada)
+en_CC: isi-Ngisi (CC)
+en_CH: isi-Ngisi (Switzerland)
+en_CK: isi-Ngisi (Cook Islands)
+en_CL: isi-Ngisi (Chile)
+en_CM: isi-Ngisi (Khameruni)
+en_CN: isi-Ngisi (China)
+en_CO: isi-Ngisi (Kholombiya)
+en_CV: isi-Ngisi (Cape Verde Islands)
+en_CX: isi-Ngisi (CX)
+en_CY: isi-Ngisi (Cyprus)
+en_CZ: isi-Ngisi (Czech Republic)
+en_DE: isi-Ngisi (Germany)
+en_DG: isi-Ngisi (DG)
+en_DK: isi-Ngisi (Denmakhi)
+en_DM: isi-Ngisi (Dominikha)
+en_EE: isi-Ngisi (Estonia)
+en_ER: isi-Ngisi (Eritrea)
+en_FI: isi-Ngisi (Finland)
+en_FJ: isi-Ngisi (Fiji)
+en_FK: isi-Ngisi (Falkland Islands)
+en_FM: isi-Ngisi (Micronesia)
+en_FR: isi-Ngisi (Furansi)
+en_GB: isi-Ngisi (United Kingdom)
+en_GD: isi-Ngisi (Grenada)
+en_GG: isi-Ngisi (GG)
+en_GH: isi-Ngisi (Ghana)
+en_GI: isi-Ngisi (Gibraltar)
+en_GM: isi-Ngisi (Gambiya)
+en_GR: isi-Ngisi (Greece)
+en_GU: isi-Ngisi (Guam)
+en_GY: isi-Ngisi (Guyana)
+en_HK: isi-Ngisi (HK)
+en_HU: isi-Ngisi (Hungary)
+en_ID: isi-Ngisi (Indonesiya)
+en_IE: isi-Ngisi (Ireland)
+en_IL: isi-Ngisi (Isuraeli)
+en_IM: isi-Ngisi (IM)
+en_IN: isi-Ngisi (Indiya)
+en_IO: isi-Ngisi (British Indian Ocean Territory)
+en_JE: isi-Ngisi (JE)
+en_JM: isi-Ngisi (Jamaica)
+en_JP: isi-Ngisi (Japan)
+en_KE: isi-Ngisi (Khenya)
+en_KI: isi-Ngisi (Khiribati)
+en_KN: isi-Ngisi (Saint Kitts and Nevis)
+en_KR: isi-Ngisi (South Korea)
+en_KY: isi-Ngisi (Cayman Islands)
+en_LC: isi-Ngisi (Saint Lucia)
+en_LR: isi-Ngisi (Libheriya)
+en_LS: isi-Ngisi (Lesotho)
+en_LT: isi-Ngisi (Lithuania)
+en_LV: isi-Ngisi (Latvia)
+en_MG: isi-Ngisi (Madagaska)
+en_MH: isi-Ngisi (Marshall Islands)
+en_MM: isi-Ngisi (Myanmar)
+en_MO: isi-Ngisi (MO)
+en_MP: isi-Ngisi (Northern Mariana Islands)
+en_MS: isi-Ngisi (Montserrat)
+en_MT: isi-Ngisi (Malta)
+en_MU: isi-Ngisi (Mauritius)
+en_MV: isi-Ngisi (Maldives)
+en_MW: isi-Ngisi (Malawi)
+en_MX: isi-Ngisi (Meksikho)
+en_MY: isi-Ngisi (Malezhiya)
+en_NA: isi-Ngisi (Namibhiya)
+en_NF: isi-Ngisi (Norfolk Island)
+en_NG: isi-Ngisi (Nigeriya)
+en_NL: isi-Ngisi (Netherlands)
+en_NO: isi-Ngisi (Noweyi)
+en_NR: isi-Ngisi (Nauru)
+en_NU: isi-Ngisi (Niue)
+en_NZ: isi-Ngisi (New Zealand)
+en_PG: isi-Ngisi (Papua New Guinea)
+en_PH: isi-Ngisi (Philippines)
+en_PK: isi-Ngisi (Phakistani)
+en_PL: isi-Ngisi (Pholandi)
+en_PN: isi-Ngisi (Pitcairn)
+en_PR: isi-Ngisi (Puerto Rico)
+en_PT: isi-Ngisi (Portugal)
+en_PW: isi-Ngisi (Palau)
+en_RU: isi-Ngisi (Rashiya)
+en_RW: isi-Ngisi (Ruwanda)
+en_SA: isi-Ngisi (Saudi Arabia)
+en_SB: isi-Ngisi (Solomon Islands)
+en_SC: isi-Ngisi (Seychelles)
+en_SD: isi-Ngisi (Sudani)
+en_SE: isi-Ngisi (Sweden)
+en_SG: isi-Ngisi (Singapore)
+en_SH: isi-Ngisi (Saint Helena)
+en_SI: isi-Ngisi (Slovenia)
+en_SK: isi-Ngisi (Slovakia)
+en_SL: isi-Ngisi (Sierra Leone)
+en_SS: isi-Ngisi (SS)
+en_SX: isi-Ngisi (SX)
+en_SZ: isi-Ngisi (Swaziland)
+en_TC: isi-Ngisi (Turks and Caicos Islands)
+en_TH: isi-Ngisi (Thayilandi)
+en_TK: isi-Ngisi (Thokelawu)
+en_TO: isi-Ngisi (Thonga)
+en_TR: isi-Ngisi (Thekhi)
+en_TT: isi-Ngisi (Trinidad le Tobago)
+en_TV: isi-Ngisi (Thuvalu)
+en_TW: isi-Ngisi (Thayiwani)
+en_TZ: isi-Ngisi (Tanzaniya)
+en_UA: isi-Ngisi (Yukreini)
+en_UG: isi-Ngisi (Uganda)
+en_UM: isi-Ngisi (UM)
+en_US: isi-Ngisi (Amelika)
+en_US_POSIX: isi-Ngisi (Amelika, POSIX)
+en_VC: isi-Ngisi (Saint Vincent and the Grenadines)
+en_VG: isi-Ngisi (British Virgin Islands)
+en_VI: isi-Ngisi (U.S. Virgin Islands)
+en_VU: isi-Ngisi (Vhanuatu)
+en_WS: isi-Ngisi (Samowa)
+en_ZA: isi-Ngisi (Mzansi ye Afrika)
+en_ZM: isi-Ngisi (Zambiya)
+en_ZW: isi-Ngisi (Zimbabwe)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: isi-Sipeyini
+es_003: isi-Sipeyini (003)
+es_419: isi-Sipeyini (419)
+es_AG: isi-Sipeyini (Antigua le Barbuda)
+es_AR: isi-Sipeyini (Ajentina)
+es_BB: isi-Sipeyini (Bhabhadosi)
+es_BM: isi-Sipeyini (Bhemuda)
+es_BO: isi-Sipeyini (Bholiviya)
+es_BQ: isi-Sipeyini (BQ)
+es_BR: isi-Sipeyini (Brazili)
+es_BS: isi-Sipeyini (Bhahamas)
+es_BZ: isi-Sipeyini (Bhelize)
+es_CA: isi-Sipeyini (Khanada)
+es_CL: isi-Sipeyini (Chile)
+es_CO: isi-Sipeyini (Kholombiya)
+es_CR: isi-Sipeyini (Khosta Rikha)
+es_CU: isi-Sipeyini (Cuba)
+es_CW: isi-Sipeyini (CW)
+es_DM: isi-Sipeyini (Dominikha)
+es_DO: isi-Sipeyini (Dominican Republic)
+es_EA: isi-Sipeyini (EA)
+es_EC: isi-Sipeyini (Ecuador)
+es_ES: isi-Sipeyini (Spain)
+es_GD: isi-Sipeyini (Grenada)
+es_GQ: isi-Sipeyini (Equatorial Guinea)
+es_GT: isi-Sipeyini (Guatemala)
+es_GY: isi-Sipeyini (Guyana)
+es_HN: isi-Sipeyini (Honduras)
+es_HT: isi-Sipeyini (Hayiti)
+es_IC: isi-Sipeyini (IC)
+es_KN: isi-Sipeyini (Saint Kitts and Nevis)
+es_KY: isi-Sipeyini (Cayman Islands)
+es_LC: isi-Sipeyini (Saint Lucia)
+es_MX: isi-Sipeyini (Meksikho)
+es_NI: isi-Sipeyini (Nicaragua)
+es_PA: isi-Sipeyini (Panama)
+es_PE: isi-Sipeyini (Pheru)
+es_PH: isi-Sipeyini (Philippines)
+es_PR: isi-Sipeyini (Puerto Rico)
+es_PY: isi-Sipeyini (Paraguay)
+es_SV: isi-Sipeyini (El Salvador)
+es_TC: isi-Sipeyini (Turks and Caicos Islands)
+es_TT: isi-Sipeyini (Trinidad le Tobago)
+es_US: isi-Sipeyini (Amelika)
+es_UY: isi-Sipeyini (Yurugwai)
+es_VC: isi-Sipeyini (Saint Vincent and the Grenadines)
+es_VE: isi-Sipeyini (Venezuela)
+es_VG: isi-Sipeyini (British Virgin Islands)
+es_VI: isi-Sipeyini (U.S. Virgin Islands)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: isi-Pheshiyani
+fa_AF: isi-Pheshiyani (Afghanistan)
+fa_IR: isi-Pheshiyani (Iran)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: isi-Fulentshi
+fr_BE: isi-Fulentshi (Bhelgium)
+fr_BF: isi-Fulentshi (Bhukina Faso)
+fr_BI: isi-Fulentshi (Bhurundi)
+fr_BJ: isi-Fulentshi (Bhenini)
+fr_BL: isi-Fulentshi (BL)
+fr_CA: isi-Fulentshi (Khanada)
+fr_CD: isi-Fulentshi (Democratic Republic of the Congo)
+fr_CF: isi-Fulentshi (Central African Republic)
+fr_CG: isi-Fulentshi (Khongo)
+fr_CH: isi-Fulentshi (Switzerland)
+fr_CI: isi-Fulentshi (Ivory Coast)
+fr_CM: isi-Fulentshi (Khameruni)
+fr_DJ: isi-Fulentshi (Djibouti)
+fr_DZ: isi-Fulentshi (Aljeriya)
+fr_FR: isi-Fulentshi (Furansi)
+fr_GA: isi-Fulentshi (Gabhoni)
+fr_GF: isi-Fulentshi (Gwiyana ye Furansi)
+fr_GN: isi-Fulentshi (Guinea)
+fr_GP: isi-Fulentshi (Guadeloupe)
+fr_GQ: isi-Fulentshi (Equatorial Guinea)
+fr_HT: isi-Fulentshi (Hayiti)
+fr_KM: isi-Fulentshi (Khomoro)
+fr_LU: isi-Fulentshi (Luxembourg)
+fr_MA: isi-Fulentshi (Morokho)
+fr_MC: isi-Fulentshi (Monakho)
+fr_MF: isi-Fulentshi (MF)
+fr_MG: isi-Fulentshi (Madagaska)
+fr_ML: isi-Fulentshi (Mali)
+fr_MQ: isi-Fulentshi (Martinique)
+fr_MR: isi-Fulentshi (Mauritania)
+fr_MU: isi-Fulentshi (Mauritius)
+fr_NC: isi-Fulentshi (New Caledonia)
+fr_NE: isi-Fulentshi (Niger)
+fr_PF: isi-Fulentshi (Pholinesiya ye Fulansi)
+fr_PM: isi-Fulentshi (Saint Pierre and Miquelon)
+fr_RE: isi-Fulentshi (Réunion)
+fr_RW: isi-Fulentshi (Ruwanda)
+fr_SC: isi-Fulentshi (Seychelles)
+fr_SN: isi-Fulentshi (Senegali)
+fr_SY: isi-Fulentshi (Syria)
+fr_TD: isi-Fulentshi (Chadi)
+fr_TG: isi-Fulentshi (Thogo)
+fr_TN: isi-Fulentshi (Tunisiya)
+fr_VU: isi-Fulentshi (Vhanuatu)
+fr_WF: isi-Fulentshi (Wallis and Futuna)
+fr_YT: isi-Fulentshi (Mayotte)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: isi-Hausa
+ha_GH: isi-Hausa (Ghana)
+ha_NE: isi-Hausa (Niger)
+ha_NG: isi-Hausa (Nigeriya)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: isi-Hindi
+hi_IN: isi-Hindi (Indiya)
+hi_Latn: isi-Hindi (Latn)
+hi_Latn_IN: isi-Hindi (Latn, Indiya)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: isi-Hangari
+hu_HU: isi-Hangari (Hungary)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: isi-Indonesia
+id_ID: isi-Indonesia (Indonesiya)
+ig: isi-Igbo
+ig_NG: isi-Igbo (Nigeriya)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: isi-Italiano
+it_CH: isi-Italiano (Switzerland)
+it_IT: isi-Italiano (Itali)
+it_SM: isi-Italiano (San Marino)
+it_VA: isi-Italiano (Vatican State)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: isi-Japhani
+ja_JP: isi-Japhani (Japan)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: isi-Java
+jv_ID: isi-Java (Indonesiya)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: isi-Khambodiya
+km_KH: isi-Khambodiya (Cambodia)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: isi-Koriya
+ko_KP: isi-Koriya (North Korea)
+ko_KR: isi-Koriya (South Korea)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, Indiya)
+ks_Aran_IN: ks (Aran, Indiya)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, Indiya)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: isi-Malayi
+ms_Arab: isi-Malayi (Arab)
+ms_Arab_BN: isi-Malayi (Arab, Brunei)
+ms_Arab_MY: isi-Malayi (Arab, Malezhiya)
+ms_BN: isi-Malayi (Brunei)
+ms_ID: isi-Malayi (Indonesiya)
+ms_MY: isi-Malayi (Malezhiya)
+ms_SG: isi-Malayi (Singapore)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: isi-Burma
+my_MM: isi-Burma (Myanmar)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: isiNdebele
+nd_ZW: isiNdebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: isi-Nepali
+ne_IN: isi-Nepali (Indiya)
+ne_NP: isi-Nepali (Nephali)
+nl: isi-Dutch
+nl_AW: isi-Dutch (Arubha)
+nl_BE: isi-Dutch (Bhelgium)
+nl_BQ: isi-Dutch (BQ)
+nl_CW: isi-Dutch (CW)
+nl_NL: isi-Dutch (Netherlands)
+nl_SR: isi-Dutch (Suriname)
+nl_SX: isi-Dutch (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: isi-Phunjabi
+pa_Arab: isi-Phunjabi (Arab)
+pa_Arab_PK: isi-Phunjabi (Arab, Phakistani)
+pa_Aran_PK: isi-Phunjabi (Aran, Phakistani)
+pa_Guru: isi-Phunjabi (Guru)
+pa_Guru_IN: isi-Phunjabi (Guru, Indiya)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: isi-Pholoshi
+pl_PL: isi-Pholoshi (Pholandi)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: isi-Potukezi
+pt_AO: isi-Potukezi (Angola)
+pt_BR: isi-Potukezi (Brazili)
+pt_CH: isi-Potukezi (Switzerland)
+pt_CV: isi-Potukezi (Cape Verde Islands)
+pt_FR: isi-Potukezi (Furansi)
+pt_GQ: isi-Potukezi (Equatorial Guinea)
+pt_GW: isi-Potukezi (Guinea-Bissau)
+pt_LU: isi-Potukezi (Luxembourg)
+pt_MO: isi-Potukezi (MO)
+pt_MZ: isi-Potukezi (Mozambique)
+pt_PT: isi-Potukezi (Portugal)
+pt_ST: isi-Potukezi (São Tomé and Príncipe)
+pt_TL: isi-Potukezi (East Timor)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: isi-Romani
+ro_MD: isi-Romani (Moldova)
+ro_RO: isi-Romani (Romania)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: isi-Rashiya
+ru_BY: isi-Rashiya (Bhelarusi)
+ru_KG: isi-Rashiya (Kyrgyzstan)
+ru_KZ: isi-Rashiya (Kazakhstan)
+ru_MD: isi-Rashiya (Moldova)
+ru_RU: isi-Rashiya (Rashiya)
+ru_UA: isi-Rashiya (Yukreini)
+rw: isi-Ruwanda
+rw_RW: isi-Ruwanda (Ruwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: isi-Somali
+so_DJ: isi-Somali (Djibouti)
+so_ET: isi-Somali (Ethiopia)
+so_KE: isi-Somali (Khenya)
+so_SO: isi-Somali (Somaliya)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: isi-Swidishi
+sv_AX: isi-Swidishi (AX)
+sv_FI: isi-Swidishi (Finland)
+sv_SE: isi-Swidishi (Sweden)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: isi-Thamil
+ta_IN: isi-Thamil (Indiya)
+ta_LK: isi-Thamil (Sri Lanka)
+ta_MY: isi-Thamil (Malezhiya)
+ta_SG: isi-Thamil (Singapore)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: isi-Thayi
+th_TH: isi-Thayi (Thayilandi)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: isi-Thekishi
+tr_CY: isi-Thekishi (Cyprus)
+tr_TR: isi-Thekishi (Thekhi)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: isi-Ukrain
+uk_UA: isi-Ukrain (Yukreini)
+ur: isi-Udu
+ur_Arab: isi-Udu (Arab)
+ur_Arab_IN: isi-Udu (Arab, Indiya)
+ur_Arab_PK: isi-Udu (Arab, Phakistani)
+ur_Aran_PK: isi-Udu (Aran, Phakistani)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: isi-Vietnamese
+vi_VN: isi-Vietnamese (Vietnam)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: isi-Yorubha
+yo_BJ: isi-Yorubha (Bhenini)
+yo_NG: isi-Yorubha (Nigeriya)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, China)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: isi-China
+zh_Hans: isi-China (Hans)
+zh_Hans_CN: isi-China (Hans, China)
+zh_Hans_HK: isi-China (Hans, HK)
+zh_Hans_JP: isi-China (Hans, Japan)
+zh_Hans_MO: isi-China (Hans, MO)
+zh_Hans_SG: isi-China (Hans, Singapore)
+zh_Hant: isi-China (Hant)
+zh_Hant_CN: isi-China (Hant, China)
+zh_Hant_HK: isi-China (Hant, HK)
+zh_Hant_MO: isi-China (Hant, MO)
+zh_Hant_TW: isi-China (Hant, Thayiwani)
+zu: isi-Zulu
+zu_ZA: isi-Zulu (Mzansi ye Afrika)

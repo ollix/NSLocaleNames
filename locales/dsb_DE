@@ -1,0 +1,945 @@
+af: afrikans
+af_NA: afrikans (Namibija)
+af_ZA: afrikans (Pódpołdnjowa Afrika [Republika])
+agq: aghem
+agq_CM: aghem (Kamerun)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: akanšćina
+ak_GH: akanšćina (Ghana)
+am: amharšćina
+am_ET: amharšćina (Etiopiska)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: arabšćina
+ar_001: arabšćina (swět)
+ar_AE: arabšćina (Zjadnośone arabiske emiraty)
+ar_BH: arabšćina (Bahrain)
+ar_DJ: arabšćina (Džibuti)
+ar_DZ: arabšćina (Algeriska)
+ar_EG: arabšćina (Egyptojska)
+ar_EH: arabšćina (Pódwjacorna Sahara)
+ar_ER: arabšćina (Eritreja)
+ar_IL: arabšćina (Israel)
+ar_IQ: arabšćina (Irak)
+ar_JO: arabšćina (Jordaniska)
+ar_KM: arabšćina (Komory)
+ar_KW: arabšćina (Kuwait)
+ar_LB: arabšćina (Libanon)
+ar_LY: arabšćina (Libyska)
+ar_MA: arabšćina (Marokko)
+ar_MR: arabšćina (Mawretańska)
+ar_OM: arabšćina (Oman)
+ar_PS: arabšćina (Palestinski awtonomny teritorium)
+ar_QA: arabšćina (Katar)
+ar_SA: arabšćina (Saudi-Arabiska)
+ar_SD: arabšćina (Sudan)
+ar_SO: arabšćina (Somalija)
+ar_SS: arabšćina (Pódpołdnjowy Sudan)
+ar_SY: arabšćina (Syriska)
+ar_TD: arabšćina (Čad)
+ar_TN: arabšćina (Tuneziska)
+ar_YE: arabšćina (Jemen)
+arn: arawkašćina
+arn_CL: arawkašćina (Chilska)
+as: asamšćina
+as_IN: asamšćina (Indiska)
+asa: pare
+asa_TZ: pare (Tansanija)
+ast: asturšćina
+ast_ES: asturšćina (Špańska)
+az: azerbajdžanšćina
+az_Cyrl: azerbajdžanšćina (kyriliski)
+az_Cyrl_AZ: azerbajdžanšćina (kyriliski, Azerbajdžan)
+az_Latn: azerbajdžanšćina (łatyński)
+az_Latn_AZ: azerbajdžanšćina (łatyński, Azerbajdžan)
+ba: baškiršćina
+ba_RU: baškiršćina (Ruska)
+bas: basaa
+bas_CM: basaa (Kamerun)
+be: běłorušćina
+be_BY: běłorušćina (Běłoruska)
+bem: bemba
+bem_ZM: bemba (Sambija)
+bez: bena
+bez_TZ: bena (Tansanija)
+bg: bulgaršćina
+bg_BG: bulgaršćina (Bulgarska)
+bm: bambara
+bm_ML: bambara (Mali)
+bn: bengalšćina
+bn_BD: bengalšćina (Bangladeš)
+bn_IN: bengalšćina (Indiska)
+bo: tibetšćina
+bo_CN: tibetšćina (China)
+bo_IN: tibetšćina (Indiska)
+br: bretonšćina
+br_FR: bretonšćina (Francojska)
+brx: bodo
+brx_IN: bodo (Indiska)
+bs: bosnišćina
+bs_Cyrl: bosnišćina (kyriliski)
+bs_Cyrl_BA: bosnišćina (kyriliski, Bosniska a Hercegowina)
+bs_Latn: bosnišćina (łatyński)
+bs_Latn_BA: bosnišćina (łatyński, Bosniska a Hercegowina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: katanlanšćina
+ca_AD: katanlanšćina (Andorra)
+ca_ES: katanlanšćina (Špańska)
+ca_FR: katanlanšćina (Francojska)
+ca_IT: katanlanšćina (Italska)
+ccp: čakma
+ccp_BD: čakma (Bangladeš)
+ccp_IN: čakma (Indiska)
+ce: čečenšćina
+ce_RU: čečenšćina (Ruska)
+ceb: cebuanšćina
+ceb_PH: cebuanšćina (Filipiny)
+cgg: chiga
+cgg_UG: chiga (Uganda)
+chr: cherokee
+chr_US: cherokee (Zjadnośone staty Ameriki)
+ckb: sorani
+ckb_IQ: sorani (Irak)
+ckb_IR: sorani (Iran)
+co: korsišćina
+co_FR: korsišćina (Francojska)
+cs: češćina
+cs_CZ: češćina (Česka republika)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: walizišćina
+cy_GB: walizišćina (Zjadnośone kralejstwo)
+da: danšćina
+da_DK: danšćina (Dańska)
+da_GL: danšćina (Grönlandska)
+dav: taita
+dav_KE: taita (Kenia)
+de: nimšćina
+de_AT: nimšćina (Awstriska)
+de_BE: nimšćina (Belgiska)
+de_CH: nimšćina (Šwicarska)
+de_DE: nimšćina (Nimska)
+de_IT: nimšćina (Italska)
+de_LI: nimšćina (Liechtenstein)
+de_LU: nimšćina (Luxemburgska)
+dje: zarma
+dje_NE: zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (Indiska)
+dsb: dolnoserbšćina
+dsb_DE: dolnoserbšćina (Nimska)
+dua: duala
+dua_CM: duala (Kamerun)
+dv: divehi
+dv_MV: divehi (Malediwy)
+dyo: jola-fonyi
+dyo_SN: jola-fonyi (Senegal)
+dz: dzongkha
+dz_BT: dzongkha (Bhutan)
+ebu: embu
+ebu_KE: embu (Kenia)
+ee: ewe
+ee_GH: ewe (Ghana)
+ee_TG: ewe (Togo)
+el: grichišćina
+el_CY: grichišćina (Cypriska)
+el_GR: grichišćina (Grichiska)
+en: engelšćina
+en_001: engelšćina (swět)
+en_150: engelšćina (Europa)
+en_AE: engelšćina (Zjadnośone arabiske emiraty)
+en_AG: engelšćina (Antigua a Barbuda)
+en_AI: engelšćina (Anguilla)
+en_AL: engelšćina (Albańska)
+en_AR: engelšćina (Argentinska)
+en_AS: engelšćina (Ameriska Samoa)
+en_AT: engelšćina (Awstriska)
+en_AU: engelšćina (Awstralska)
+en_BB: engelšćina (Barbados)
+en_BD: engelšćina (Bangladeš)
+en_BE: engelšćina (Belgiska)
+en_BG: engelšćina (Bulgarska)
+en_BI: engelšćina (Burundi)
+en_BM: engelšćina (Bermudy)
+en_BN: engelšćina (Brunei)
+en_BR: engelšćina (Brazilska)
+en_BS: engelšćina (Bahamy)
+en_BW: engelšćina (Botswana)
+en_BZ: engelšćina (Belize)
+en_CA: engelšćina (Kanada)
+en_CC: engelšćina (Kokosowe kupy)
+en_CH: engelšćina (Šwicarska)
+en_CK: engelšćina (Cookowe kupy)
+en_CL: engelšćina (Chilska)
+en_CM: engelšćina (Kamerun)
+en_CN: engelšćina (China)
+en_CO: engelšćina (Kolumbiska)
+en_CV: engelšćina (Kap Verde)
+en_CX: engelšćina (Gódowne kupy)
+en_CY: engelšćina (Cypriska)
+en_CZ: engelšćina (Česka republika)
+en_DE: engelšćina (Nimska)
+en_DG: engelšćina (Diego Garcia)
+en_DK: engelšćina (Dańska)
+en_DM: engelšćina (Dominika)
+en_EE: engelšćina (Estniska)
+en_ER: engelšćina (Eritreja)
+en_FI: engelšćina (Finska)
+en_FJ: engelšćina (Fidži)
+en_FK: engelšćina (Falklandske kupy)
+en_FM: engelšćina (Mikroneziska)
+en_FR: engelšćina (Francojska)
+en_GB: engelšćina (Zjadnośone kralejstwo)
+en_GD: engelšćina (Grenada)
+en_GG: engelšćina (Guernsey)
+en_GH: engelšćina (Ghana)
+en_GI: engelšćina (Gibraltar)
+en_GM: engelšćina (Gambija)
+en_GR: engelšćina (Grichiska)
+en_GU: engelšćina (Guam)
+en_GY: engelšćina (Guyana)
+en_HK: engelšćina (Hongkong)
+en_HU: engelšćina (Hungorska)
+en_ID: engelšćina (Indoneziska)
+en_IE: engelšćina (Irska)
+en_IL: engelšćina (Israel)
+en_IM: engelšćina (Man)
+en_IN: engelšćina (Indiska)
+en_IO: engelšćina (Britiski indiskooceaniski teritorium)
+en_JE: engelšćina (Jersey)
+en_JM: engelšćina (Jamaika)
+en_JP: engelšćina (Japańska)
+en_KE: engelšćina (Kenia)
+en_KI: engelšćina (Kiribati)
+en_KN: engelšćina (St. Kitts a Nevis)
+en_KR: engelšćina (Pódpołdnjowa Koreja)
+en_KY: engelšćina (Kajmaniske kupy)
+en_LC: engelšćina (St. Lucia)
+en_LR: engelšćina (Liberija)
+en_LS: engelšćina (Lesotho)
+en_LT: engelšćina (Litawska)
+en_LV: engelšćina (Letiska)
+en_MG: engelšćina (Madagaskar)
+en_MH: engelšćina (Marshallowe kupy)
+en_MM: engelšćina (Myanmar)
+en_MO: engelšćina (Macao)
+en_MP: engelšćina (Pódpołnocne Mariany)
+en_MS: engelšćina (Montserrat)
+en_MT: engelšćina (Malta)
+en_MU: engelšćina (Mauritius)
+en_MV: engelšćina (Malediwy)
+en_MW: engelšćina (Malawi)
+en_MX: engelšćina (Mexiko)
+en_MY: engelšćina (Malajzija)
+en_NA: engelšćina (Namibija)
+en_NF: engelšćina (Norfolkowa kupa)
+en_NG: engelšćina (Nigerija)
+en_NL: engelšćina (Nižozemska)
+en_NO: engelšćina (Norwegska)
+en_NR: engelšćina (Nauru)
+en_NU: engelšćina (Niue)
+en_NZ: engelšćina (Nowoseelandska)
+en_PG: engelšćina (Papua-Neuguinea)
+en_PH: engelšćina (Filipiny)
+en_PK: engelšćina (Pakistan)
+en_PL: engelšćina (Pólska)
+en_PN: engelšćina (Pitcairnowe kupy)
+en_PR: engelšćina (Puerto Rico)
+en_PT: engelšćina (Portugalska)
+en_PW: engelšćina (Palau)
+en_RU: engelšćina (Ruska)
+en_RW: engelšćina (Ruanda)
+en_SA: engelšćina (Saudi-Arabiska)
+en_SB: engelšćina (Salomony)
+en_SC: engelšćina (Seychelle)
+en_SD: engelšćina (Sudan)
+en_SE: engelšćina (Šwedska)
+en_SG: engelšćina (Singapur)
+en_SH: engelšćina (St. Helena)
+en_SI: engelšćina (Słowjeńska)
+en_SK: engelšćina (Słowakska)
+en_SL: engelšćina (Sierra Leone)
+en_SS: engelšćina (Pódpołdnjowy Sudan)
+en_SX: engelšćina (Sint Maarten)
+en_SZ: engelšćina (Swasiska)
+en_TC: engelšćina (Turks a Caicos kupy)
+en_TH: engelšćina (Thailandska)
+en_TK: engelšćina (Tokelau)
+en_TO: engelšćina (Tonga)
+en_TR: engelšćina (Turkojska)
+en_TT: engelšćina (Trinidad a Tobago)
+en_TV: engelšćina (Tuvalu)
+en_TW: engelšćina (Taiwan)
+en_TZ: engelšćina (Tansanija)
+en_UA: engelšćina (Ukraina)
+en_UG: engelšćina (Uganda)
+en_UM: engelšćina (Ameriska Oceaniska)
+en_US: engelšćina (Zjadnośone staty Ameriki)
+en_US_POSIX: engelšćina (Zjadnośone staty Ameriki, POSIX)
+en_VC: engelšćina (St. Vincent a Grenadiny)
+en_VG: engelšćina (Britiske kněžniske kupy)
+en_VI: engelšćina (Ameriske kněžniske kupy)
+en_VU: engelšćina (Vanuatu)
+en_WS: engelšćina (Samoa)
+en_ZA: engelšćina (Pódpołdnjowa Afrika [Republika])
+en_ZM: engelšćina (Sambija)
+en_ZW: engelšćina (Simbabwe)
+eo: esperanto
+eo_001: esperanto (swět)
+es: špańšćina
+es_003: špańšćina (Pódpołnocna Amerika)
+es_419: špańšćina (Łatyńska Amerika)
+es_AG: špańšćina (Antigua a Barbuda)
+es_AR: špańšćina (Argentinska)
+es_BB: špańšćina (Barbados)
+es_BM: špańšćina (Bermudy)
+es_BO: špańšćina (Boliwiska)
+es_BQ: špańšćina (Karibiska Nižozemska)
+es_BR: špańšćina (Brazilska)
+es_BS: špańšćina (Bahamy)
+es_BZ: špańšćina (Belize)
+es_CA: špańšćina (Kanada)
+es_CL: špańšćina (Chilska)
+es_CO: špańšćina (Kolumbiska)
+es_CR: špańšćina (Kosta Rika)
+es_CU: špańšćina (Kuba)
+es_CW: špańšćina (Curaçao)
+es_DM: špańšćina (Dominika)
+es_DO: špańšćina (Dominikańska republika)
+es_EA: špańšćina (Ceuta a Melilla)
+es_EC: špańšćina (Ekwador)
+es_ES: špańšćina (Špańska)
+es_GD: špańšćina (Grenada)
+es_GQ: špańšćina (Ekwatorialna Gineja)
+es_GT: špańšćina (Guatemala)
+es_GY: špańšćina (Guyana)
+es_HN: špańšćina (Honduras)
+es_HT: špańšćina (Haiti)
+es_IC: špańšćina (Kanariske kupy)
+es_KN: špańšćina (St. Kitts a Nevis)
+es_KY: špańšćina (Kajmaniske kupy)
+es_LC: špańšćina (St. Lucia)
+es_MX: špańšćina (Mexiko)
+es_NI: špańšćina (Nikaragua)
+es_PA: špańšćina (Panama)
+es_PE: špańšćina (Peru)
+es_PH: špańšćina (Filipiny)
+es_PR: špańšćina (Puerto Rico)
+es_PY: špańšćina (Paraguay)
+es_SV: špańšćina (El Salvador)
+es_TC: špańšćina (Turks a Caicos kupy)
+es_TT: špańšćina (Trinidad a Tobago)
+es_US: špańšćina (Zjadnośone staty Ameriki)
+es_UY: špańšćina (Uruguay)
+es_VC: špańšćina (St. Vincent a Grenadiny)
+es_VE: špańšćina (Venezuela)
+es_VG: špańšćina (Britiske kněžniske kupy)
+es_VI: špańšćina (Ameriske kněžniske kupy)
+et: estišćina
+et_EE: estišćina (Estniska)
+eu: baskišćina
+eu_ES: baskišćina (Špańska)
+ewo: ewondo
+ewo_CM: ewondo (Kamerun)
+fa: persišćina
+fa_AF: persišćina (Afghanistan)
+fa_IR: persišćina (Iran)
+ff: fulbšćina
+ff_Adlm: fulbšćina (Adlm)
+ff_Adlm_BF: fulbšćina (Adlm, Burkina Faso)
+ff_Adlm_CM: fulbšćina (Adlm, Kamerun)
+ff_Adlm_GH: fulbšćina (Adlm, Ghana)
+ff_Adlm_GM: fulbšćina (Adlm, Gambija)
+ff_Adlm_GN: fulbšćina (Adlm, Gineja)
+ff_Adlm_GW: fulbšćina (Adlm, Gineja-Bissau)
+ff_Adlm_LR: fulbšćina (Adlm, Liberija)
+ff_Adlm_MR: fulbšćina (Adlm, Mawretańska)
+ff_Adlm_NE: fulbšćina (Adlm, Niger)
+ff_Adlm_NG: fulbšćina (Adlm, Nigerija)
+ff_Adlm_SL: fulbšćina (Adlm, Sierra Leone)
+ff_Adlm_SN: fulbšćina (Adlm, Senegal)
+ff_Latn: fulbšćina (łatyński)
+ff_Latn_BF: fulbšćina (łatyński, Burkina Faso)
+ff_Latn_CM: fulbšćina (łatyński, Kamerun)
+ff_Latn_GH: fulbšćina (łatyński, Ghana)
+ff_Latn_GM: fulbšćina (łatyński, Gambija)
+ff_Latn_GN: fulbšćina (łatyński, Gineja)
+ff_Latn_GW: fulbšćina (łatyński, Gineja-Bissau)
+ff_Latn_LR: fulbšćina (łatyński, Liberija)
+ff_Latn_MR: fulbšćina (łatyński, Mawretańska)
+ff_Latn_NE: fulbšćina (łatyński, Niger)
+ff_Latn_NG: fulbšćina (łatyński, Nigerija)
+ff_Latn_SL: fulbšćina (łatyński, Sierra Leone)
+ff_Latn_SN: fulbšćina (łatyński, Senegal)
+fi: finšćina
+fi_FI: finšćina (Finska)
+fil: filipinšćina
+fil_PH: filipinšćina (Filipiny)
+fo: ferejšćina
+fo_DK: ferejšćina (Dańska)
+fo_FO: ferejšćina (Färöje)
+fr: francojšćina
+fr_BE: francojšćina (Belgiska)
+fr_BF: francojšćina (Burkina Faso)
+fr_BI: francojšćina (Burundi)
+fr_BJ: francojšćina (Benin)
+fr_BL: francojšćina (St. Barthélemy)
+fr_CA: francojšćina (Kanada)
+fr_CD: francojšćina (Kongo-Kinshasa)
+fr_CF: francojšćina (Centralnoafriska republika)
+fr_CG: francojšćina (Kongo-Brazzaville)
+fr_CH: francojšćina (Šwicarska)
+fr_CI: francojšćina (Côte d’Ivoire)
+fr_CM: francojšćina (Kamerun)
+fr_DJ: francojšćina (Džibuti)
+fr_DZ: francojšćina (Algeriska)
+fr_FR: francojšćina (Francojska)
+fr_GA: francojšćina (Gabun)
+fr_GF: francojšćina (Francojska Guyana)
+fr_GN: francojšćina (Gineja)
+fr_GP: francojšćina (Guadeloupe)
+fr_GQ: francojšćina (Ekwatorialna Gineja)
+fr_HT: francojšćina (Haiti)
+fr_KM: francojšćina (Komory)
+fr_LU: francojšćina (Luxemburgska)
+fr_MA: francojšćina (Marokko)
+fr_MC: francojšćina (Monaco)
+fr_MF: francojšćina (St. Martin)
+fr_MG: francojšćina (Madagaskar)
+fr_ML: francojšćina (Mali)
+fr_MQ: francojšćina (Martinique)
+fr_MR: francojšćina (Mawretańska)
+fr_MU: francojšćina (Mauritius)
+fr_NC: francojšćina (Nowa Kaledoniska)
+fr_NE: francojšćina (Niger)
+fr_PF: francojšćina (Francojska Polyneziska)
+fr_PM: francojšćina (St. Pierre a Miquelon)
+fr_RE: francojšćina (Réunion)
+fr_RW: francojšćina (Ruanda)
+fr_SC: francojšćina (Seychelle)
+fr_SN: francojšćina (Senegal)
+fr_SY: francojšćina (Syriska)
+fr_TD: francojšćina (Čad)
+fr_TG: francojšćina (Togo)
+fr_TN: francojšćina (Tuneziska)
+fr_VU: francojšćina (Vanuatu)
+fr_WF: francojšćina (Wallis a Futuna)
+fr_YT: francojšćina (Mayotte)
+fur: friulšćina
+fur_IT: friulšćina (Italska)
+fy: frizišćina
+fy_NL: frizišćina (Nižozemska)
+ga: iršćina
+ga_GB: iršćina (Zjadnośone kralejstwo)
+ga_IE: iršćina (Irska)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: šotišćina
+gd_GB: šotišćina (Zjadnośone kralejstwo)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: galicišćina
+gl_ES: galicišćina (Špańska)
+gn: guarani
+gn_PY: guarani (Paraguay)
+gsw: šwicarska nimšćina
+gsw_CH: šwicarska nimšćina (Šwicarska)
+gsw_FR: šwicarska nimšćina (Francojska)
+gsw_LI: šwicarska nimšćina (Liechtenstein)
+gu: gudžaratšćina
+gu_IN: gudžaratšćina (Indiska)
+guz: gusii
+guz_KE: gusii (Kenia)
+gv: manšćina
+gv_IM: manšćina (Man)
+ha: hausa
+ha_GH: hausa (Ghana)
+ha_NE: hausa (Niger)
+ha_NG: hausa (Nigerija)
+haw: hawaiišćina
+haw_US: hawaiišćina (Zjadnośone staty Ameriki)
+he: hebrejšćina
+he_IL: hebrejšćina (Israel)
+hi: hindišćina
+hi_IN: hindišćina (Indiska)
+hi_Latn: hindišćina (łatyński)
+hi_Latn_IN: hindišćina (łatyński, Indiska)
+hr: chorwatšćina
+hr_BA: chorwatšćina (Bosniska a Hercegowina)
+hr_HR: chorwatšćina (Chorwatska)
+hsb: górnoserbšćina
+hsb_DE: górnoserbšćina (Nimska)
+hu: hungoršćina
+hu_HU: hungoršćina (Hungorska)
+hy: armeńšćina
+hy_AM: armeńšćina (Armeńska)
+ia: interlingua
+ia_001: interlingua (swět)
+id: indonešćina
+id_ID: indonešćina (Indoneziska)
+ig: igbo
+ig_NG: igbo (Nigerija)
+ii: sichuan yi
+ii_CN: sichuan yi (China)
+io: ido
+io_001: ido (swět)
+is: islandšćina
+is_IS: islandšćina (Islandska)
+it: italšćina
+it_CH: italšćina (Šwicarska)
+it_IT: italšćina (Italska)
+it_SM: italšćina (San Marino)
+it_VA: italšćina (Vatikańske město)
+iu: inuitšćina
+iu_CA: inuitšćina (Kanada)
+ja: japańšćina
+ja_JP: japańšćina (Japańska)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: ngomba
+jgo_CM: ngomba (Kamerun)
+jmc: machame
+jmc_TZ: machame (Tansanija)
+jv: javašćina
+jv_ID: javašćina (Indoneziska)
+ka: georgišćina
+ka_GE: georgišćina (Georgiska)
+kab: kabylšćina
+kab_DZ: kabylšćina (Algeriska)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: kamba
+kam_KE: kamba (Kenia)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: makonde
+kde_TZ: makonde (Tansanija)
+kea: kapverdšćina
+kea_CV: kapverdšćina (Kap Verde)
+khq: koyra chiini
+khq_ML: koyra chiini (Mali)
+ki: kikuyu
+ki_KE: kikuyu (Kenia)
+kk: kazachšćina
+kk_KZ: kazachšćina (Kazachstan)
+kkj: kako
+kkj_CM: kako (Kamerun)
+kl: grönlandšćina
+kl_GL: grönlandšćina (Grönlandska)
+kln: kalenjin
+kln_KE: kalenjin (Kenia)
+km: kambodžanšćina
+km_KH: kambodžanšćina (Kambodža)
+kn: kannadšćina
+kn_IN: kannadšćina (Indiska)
+ko: korejańšćina
+ko_KP: korejańšćina (Pódpołnocna Koreja)
+ko_KR: korejańšćina (Pódpołdnjowa Koreja)
+kok: konkani
+kok_IN: konkani (Indiska)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: kašmiršćina
+ks_Arab: kašmiršćina (arabski)
+ks_Arab_IN: kašmiršćina (arabski, Indiska)
+ks_Aran_IN: kašmiršćina (Aran, Indiska)
+ks_Deva: kašmiršćina (devanagari)
+ks_Deva_IN: kašmiršćina (devanagari, Indiska)
+ksb: šambala
+ksb_TZ: šambala (Tansanija)
+ksf: bafia
+ksf_CM: bafia (Kamerun)
+ksh: kelnšćina
+ksh_DE: kelnšćina (Nimska)
+ku: kurdišćina
+ku_TR: kurdišćina (Turkojska)
+kw: kornišćina
+kw_GB: kornišćina (Zjadnośone kralejstwo)
+ky: kirgišćina
+ky_KG: kirgišćina (Kirgizistan)
+lag: langi
+lag_TZ: langi (Tansanija)
+lb: luxemburgšćina
+lb_LU: luxemburgšćina (Luxemburgska)
+lg: gandšćina
+lg_UG: gandšćina (Uganda)
+lkt: lakotšćina
+lkt_US: lakotšćina (Zjadnośone staty Ameriki)
+ln: lingala
+ln_AO: lingala (Angola)
+ln_CD: lingala (Kongo-Kinshasa)
+ln_CF: lingala (Centralnoafriska republika)
+ln_CG: lingala (Kongo-Brazzaville)
+lo: laošćina
+lo_LA: laošćina (Laos)
+lrc: sewjerny luri
+lrc_IQ: sewjerny luri (Irak)
+lrc_IR: sewjerny luri (Iran)
+lt: litawšćina
+lt_LT: litawšćina (Litawska)
+lu: luba-katanga
+lu_CD: luba-katanga (Kongo-Kinshasa)
+luo: luo
+luo_KE: luo (Kenia)
+luy: luhya
+luy_KE: luhya (Kenia)
+lv: letišćina
+lv_LV: letišćina (Letiska)
+mai: maithilšćina
+mai_IN: maithilšćina (Indiska)
+mas: masaišćina
+mas_KE: masaišćina (Kenia)
+mas_TZ: masaišćina (Tansanija)
+mer: meru
+mer_KE: meru (Kenia)
+mfe: mauriciska kreolšćina
+mfe_MU: mauriciska kreolšćina (Mauritius)
+mg: malgašćina
+mg_MG: malgašćina (Madagaskar)
+mgh: makhuwa-meetto
+mgh_MZ: makhuwa-meetto (Mosambik)
+mgo: meta’
+mgo_CM: meta’ (Kamerun)
+mi: maorišćina
+mi_NZ: maorišćina (Nowoseelandska)
+mk: makedońšćina
+mk_MK: makedońšćina (Pódpołnocna Makedańska)
+ml: malajamšćina
+ml_IN: malajamšćina (Indiska)
+mn: mongolšćina
+mn_MN: mongolšćina (Mongolska)
+mni: manipuršćina
+mni_Beng: manipuršćina (bengalski)
+mni_Beng_IN: manipuršćina (bengalski, Indiska)
+mni_Mtei: manipuršćina (Mtei)
+mni_Mtei_IN: manipuršćina (Mtei, Indiska)
+moh: mohawkšćina
+moh_CA: mohawkšćina (Kanada)
+mr: maratišćina
+mr_IN: maratišćina (Indiska)
+ms: malajšćina
+ms_Arab: malajšćina (arabski)
+ms_Arab_BN: malajšćina (arabski, Brunei)
+ms_Arab_MY: malajšćina (arabski, Malajzija)
+ms_BN: malajšćina (Brunei)
+ms_ID: malajšćina (Indoneziska)
+ms_MY: malajšćina (Malajzija)
+ms_SG: malajšćina (Singapur)
+mt: maltašćina
+mt_MT: maltašćina (Malta)
+mua: mundang
+mua_CM: mundang (Kamerun)
+my: burmašćina
+my_MM: burmašćina (Myanmar)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: mazanderanšćina
+mzn_IR: mazanderanšćina (Iran)
+naq: nama
+naq_NA: nama (Namibija)
+nb: norwegske bokmål
+nb_NO: norwegske bokmål (Norwegska)
+nb_SJ: norwegske bokmål (Svalbard a Jan Mayen)
+nd: pódpołnocne ndebele
+nd_ZW: pódpołnocne ndebele (Simbabwe)
+nds: dolnonimšćina
+nds_DE: dolnonimšćina (Nimska)
+nds_NL: dolnonimšćina (Nižozemska)
+ne: nepalšćina
+ne_IN: nepalšćina (Indiska)
+ne_NP: nepalšćina (Nepal)
+nl: nižozemšćina
+nl_AW: nižozemšćina (Aruba)
+nl_BE: nižozemšćina (Belgiska)
+nl_BQ: nižozemšćina (Karibiska Nižozemska)
+nl_CW: nižozemšćina (Curaçao)
+nl_NL: nižozemšćina (Nižozemska)
+nl_SR: nižozemšćina (Surinamska)
+nl_SX: nižozemšćina (Sint Maarten)
+nmg: kwasio
+nmg_CM: kwasio (Kamerun)
+nn: norwegske nynorsk
+nn_NO: norwegske nynorsk (Norwegska)
+nnh: ngiemboon
+nnh_CM: ngiemboon (Kamerun)
+no: norwegšćina
+nqo: n’ko
+nqo_GN: n’ko (Gineja)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: nuer
+nus_SS: nuer (Pódpołdnjowy Sudan)
+nv: navaho
+nv_US: navaho (Zjadnośone staty Ameriki)
+ny: nyanja
+ny_MW: nyanja (Malawi)
+nyn: nyankole
+nyn_UG: nyankole (Uganda)
+oc: okcitanšćina
+oc_FR: okcitanšćina (Francojska)
+om: oromo
+om_ET: oromo (Etiopiska)
+om_KE: oromo (Kenia)
+or: orojišćina
+or_IN: orojišćina (Indiska)
+os: osetšćina
+os_GE: osetšćina (Georgiska)
+os_RU: osetšćina (Ruska)
+pa: pandžabšćina
+pa_Arab: pandžabšćina (arabski)
+pa_Arab_PK: pandžabšćina (arabski, Pakistan)
+pa_Aran_PK: pandžabšćina (Aran, Pakistan)
+pa_Guru: pandžabšćina (gurmukhi)
+pa_Guru_IN: pandžabšćina (gurmukhi, Indiska)
+pcm: nigerijanski pidgin
+pcm_NG: nigerijanski pidgin (Nigerija)
+pl: pólšćina
+pl_PL: pólšćina (Pólska)
+ps: paštunšćina
+ps_AF: paštunšćina (Afghanistan)
+ps_PK: paštunšćina (Pakistan)
+pt: portugalšćina
+pt_AO: portugalšćina (Angola)
+pt_BR: portugalšćina (Brazilska)
+pt_CH: portugalšćina (Šwicarska)
+pt_CV: portugalšćina (Kap Verde)
+pt_FR: portugalšćina (Francojska)
+pt_GQ: portugalšćina (Ekwatorialna Gineja)
+pt_GW: portugalšćina (Gineja-Bissau)
+pt_LU: portugalšćina (Luxemburgska)
+pt_MO: portugalšćina (Macao)
+pt_MZ: portugalšćina (Mosambik)
+pt_PT: portugalšćina (Portugalska)
+pt_ST: portugalšćina (São Tomé a Príncipe)
+pt_TL: portugalšćina (Timor-Leste)
+qu: kečua
+qu_BO: kečua (Boliwiska)
+qu_EC: kečua (Ekwador)
+qu_PE: kečua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Rohg)
+rhg_Rohg_BD: Rohingya (Rohg, Bangladeš)
+rhg_Rohg_MM: Rohingya (Rohg, Myanmar)
+rm: retoromańšćina
+rm_CH: retoromańšćina (Šwicarska)
+rn: kirundišćina
+rn_BI: kirundišćina (Burundi)
+ro: rumunšćina
+ro_MD: rumunšćina (Moldawska)
+ro_RO: rumunšćina (Rumuńska)
+rof: rombo
+rof_TZ: rombo (Tansanija)
+ru: rušćina
+ru_BY: rušćina (Běłoruska)
+ru_KG: rušćina (Kirgizistan)
+ru_KZ: rušćina (Kazachstan)
+ru_MD: rušćina (Moldawska)
+ru_RU: rušćina (Ruska)
+ru_UA: rušćina (Ukraina)
+rw: kinjarwanda
+rw_RW: kinjarwanda (Ruanda)
+rwk: rwa
+rwk_TZ: rwa (Tansanija)
+sa: sanskrit
+sa_IN: sanskrit (Indiska)
+sah: jakutšćina
+sah_RU: jakutšćina (Ruska)
+saq: samburu
+saq_KE: samburu (Kenia)
+sat: santalšćina
+sat_Deva: santalšćina (devanagari)
+sat_Deva_IN: santalšćina (devanagari, Indiska)
+sat_Olck: santalšćina (Olck)
+sat_Olck_IN: santalšćina (Olck, Indiska)
+sbp: sangu
+sbp_TZ: sangu (Tansanija)
+sc: sardinšćina
+sc_IT: sardinšćina (Italska)
+scn: sicilianišćina
+scn_IT: sicilianišćina (Italska)
+sd: sindšćina
+sd_Arab: sindšćina (arabski)
+sd_Arab_PK: sindšćina (arabski, Pakistan)
+sd_Deva: sindšćina (devanagari)
+sd_Deva_IN: sindšćina (devanagari, Indiska)
+se: lapšćina
+se_FI: lapšćina (Finska)
+se_NO: lapšćina (Norwegska)
+se_SE: lapšćina (Šwedska)
+seh: sena
+seh_MZ: sena (Mosambik)
+ses: koyra senni
+ses_ML: koyra senni (Mali)
+sg: sango
+sg_CF: sango (Centralnoafriska republika)
+shi: tašelhit
+shi_Latn: tašelhit (łatyński)
+shi_Latn_MA: tašelhit (łatyński, Marokko)
+shi_Tfng: tašelhit (Tfng)
+shi_Tfng_MA: tašelhit (Tfng, Marokko)
+si: singalšćina
+si_LK: singalšćina (Sri Lanka)
+sk: słowakšćina
+sk_SK: słowakšćina (Słowakska)
+sl: słowjeńšćina
+sl_SI: słowjeńšćina (Słowjeńska)
+sm: samošćina
+sm_AS: samošćina (Ameriska Samoa)
+sm_WS: samošćina (Samoa)
+smn: inari-samišćina
+smn_FI: inari-samišćina (Finska)
+sn: šonšćina
+sn_ZW: šonšćina (Simbabwe)
+so: somališćina
+so_DJ: somališćina (Džibuti)
+so_ET: somališćina (Etiopiska)
+so_KE: somališćina (Kenia)
+so_SO: somališćina (Somalija)
+sq: albanšćina
+sq_AL: albanšćina (Albańska)
+sq_MK: albanšćina (Pódpołnocna Makedańska)
+sq_XK: albanšćina (Kosowo)
+sr: serbišćina
+sr_Cyrl: serbišćina (kyriliski)
+sr_Cyrl_BA: serbišćina (kyriliski, Bosniska a Hercegowina)
+sr_Cyrl_ME: serbišćina (kyriliski, Carna Góra)
+sr_Cyrl_RS: serbišćina (kyriliski, Serbiska)
+sr_Cyrl_XK: serbišćina (kyriliski, Kosowo)
+sr_Latn: serbišćina (łatyński)
+sr_Latn_BA: serbišćina (łatyński, Bosniska a Hercegowina)
+sr_Latn_ME: serbišćina (łatyński, Carna Góra)
+sr_Latn_RS: serbišćina (łatyński, Serbiska)
+sr_Latn_XK: serbišćina (łatyński, Kosowo)
+ss: siswati
+ss_SZ: siswati (Swasiska)
+ss_ZA: siswati (Pódpołdnjowa Afrika [Republika])
+st: pódpołdnjowa sotšćina (Sesotho)
+st_LS: pódpołdnjowa sotšćina (Sesotho) (Lesotho)
+st_ZA: pódpołdnjowa sotšćina (Sesotho) (Pódpołdnjowa Afrika [Republika])
+su: sundanšćina
+su_Latn: sundanšćina (łatyński)
+su_Latn_ID: sundanšćina (łatyński, Indoneziska)
+sv: šwedšćina
+sv_AX: šwedšćina (Åland)
+sv_FI: šwedšćina (Finska)
+sv_SE: šwedšćina (Šwedska)
+sw: swahilišćina
+sw_CD: swahilišćina (Kongo-Kinshasa)
+sw_KE: swahilišćina (Kenia)
+sw_TZ: swahilišćina (Tansanija)
+sw_UG: swahilišćina (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: tamilšćina
+ta_IN: tamilšćina (Indiska)
+ta_LK: tamilšćina (Sri Lanka)
+ta_MY: tamilšćina (Malajzija)
+ta_SG: tamilšćina (Singapur)
+te: telugšćina
+te_IN: telugšćina (Indiska)
+teo: teso
+teo_KE: teso (Kenia)
+teo_UG: teso (Uganda)
+tg: tadžikišćina
+tg_TJ: tadžikišćina (Tadźikistan)
+th: thailandšćina
+th_TH: thailandšćina (Thailandska)
+ti: tigrinja
+ti_ER: tigrinja (Eritreja)
+ti_ET: tigrinja (Etiopiska)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: turkmeńšćina
+tk_TM: turkmeńšćina (Turkmeniska)
+tn: tswana
+tn_BW: tswana (Botswana)
+tn_ZA: tswana (Pódpołdnjowa Afrika [Republika])
+to: tonganšćina
+to_TO: tonganšćina (Tonga)
+tr: turkojšćina
+tr_CY: turkojšćina (Cypriska)
+tr_TR: turkojšćina (Turkojska)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: tsonga
+ts_ZA: tsonga (Pódpołdnjowa Afrika [Republika])
+tt: tataršćina
+tt_RU: tataršćina (Ruska)
+twq: tasawaq
+twq_NE: tasawaq (Niger)
+tzm: centralnoatlaski tamazight
+tzm_MA: centralnoatlaski tamazight (Marokko)
+ug: ujguršćina
+ug_CN: ujguršćina (China)
+uk: ukrainšćina
+uk_UA: ukrainšćina (Ukraina)
+ur: urdušćina
+ur_Arab: urdušćina (arabski)
+ur_Arab_IN: urdušćina (arabski, Indiska)
+ur_Arab_PK: urdušćina (arabski, Pakistan)
+ur_Aran_PK: urdušćina (Aran, Pakistan)
+uz: usbekšćina
+uz_Arab: usbekšćina (arabski)
+uz_Arab_AF: usbekšćina (arabski, Afghanistan)
+uz_Cyrl: usbekšćina (kyriliski)
+uz_Cyrl_UZ: usbekšćina (kyriliski, Uzbekistan)
+uz_Latn: usbekšćina (łatyński)
+uz_Latn_UZ: usbekšćina (łatyński, Uzbekistan)
+vai: vai
+vai_Latn: vai (łatyński)
+vai_Latn_LR: vai (łatyński, Liberija)
+vai_Vaii: vai (Vaii)
+vai_Vaii_LR: vai (Vaii, Liberija)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: vietnamšćina
+vi_VN: vietnamšćina (Vietnam)
+vun: vunjo
+vun_TZ: vunjo (Tansanija)
+wa: walonšćina
+wa_BE: walonšćina (Belgiska)
+wae: walzeršćina
+wae_CH: walzeršćina (Šwicarska)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: wolof
+wo_SN: wolof (Senegal)
+xh: xhosa
+xh_ZA: xhosa (Pódpołdnjowa Afrika [Republika])
+xog: soga
+xog_UG: soga (Uganda)
+yav: yangben
+yav_CM: yangben (Kamerun)
+yi: jidišćina
+yi_001: jidišćina (swět)
+yo: jorubšćina
+yo_BJ: jorubšćina (Benin)
+yo_NG: jorubšćina (Nigerija)
+yue: kantonšćina
+yue_Hans: kantonšćina (zjadnorjone)
+yue_Hans_CN: kantonšćina (zjadnorjone, China)
+yue_Hant: kantonšćina (tradionalne)
+yue_Hant_HK: kantonšćina (tradionalne, Hongkong)
+zgh: standardny marokkański tamazight
+zgh_MA: standardny marokkański tamazight (Marokko)
+zh: chinšćina
+zh_Hans: chinšćina (zjadnorjona)
+zh_Hans_CN: chinšćina (zjadnorjona, China)
+zh_Hans_HK: chinšćina (zjadnorjona, Hongkong)
+zh_Hans_JP: chinšćina (zjadnorjona, Japańska)
+zh_Hans_MO: chinšćina (zjadnorjona, Macao)
+zh_Hans_SG: chinšćina (zjadnorjona, Singapur)
+zh_Hant: chinšćina (tradicionalna)
+zh_Hant_CN: chinšćina (tradicionalna, China)
+zh_Hant_HK: chinšćina (tradicionalna, Hongkong)
+zh_Hant_MO: chinšćina (tradicionalna, Macao)
+zh_Hant_TW: chinšćina (tradicionalna, Taiwan)
+zu: zulu
+zu_ZA: zulu (Pódpołdnjowa Afrika [Republika])

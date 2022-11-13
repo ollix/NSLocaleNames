@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Kiakan
+ak_GH: Kiakan (Ghana)
+am: Kiamhari
+am_ET: Kiamhari (Uhabeshi)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Kiarabu
+ar_001: Kiarabu (001)
+ar_AE: Kiarabu (Falme za Kiarabu)
+ar_BH: Kiarabu (Bahareni)
+ar_DJ: Kiarabu (Jibuti)
+ar_DZ: Kiarabu (Aljeria)
+ar_EG: Kiarabu (Misri)
+ar_EH: Kiarabu (EH)
+ar_ER: Kiarabu (Eritrea)
+ar_IL: Kiarabu (Israeli)
+ar_IQ: Kiarabu (Iraki)
+ar_JO: Kiarabu (Yordani)
+ar_KM: Kiarabu (Komoro)
+ar_KW: Kiarabu (Kuwaiti)
+ar_LB: Kiarabu (Lebanoni)
+ar_LY: Kiarabu (Libya)
+ar_MA: Kiarabu (Moroko)
+ar_MR: Kiarabu (Moritania)
+ar_OM: Kiarabu (Omani)
+ar_PS: Kiarabu (Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina)
+ar_QA: Kiarabu (Katari)
+ar_SA: Kiarabu (Saudi)
+ar_SD: Kiarabu (Sudani)
+ar_SO: Kiarabu (Somalia)
+ar_SS: Kiarabu (SS)
+ar_SY: Kiarabu (Siria)
+ar_TD: Kiarabu (Chadi)
+ar_TN: Kiarabu (Tunisia)
+ar_YE: Kiarabu (Yemeni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Kibelarusi
+be_BY: Kibelarusi (Belarusi)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Kibulgaria
+bg_BG: Kibulgaria (Bulgaria)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Kibangla
+bn_BD: Kibangla (Bangladeshi)
+bn_IN: Kibangla (India)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Kichecki
+cs_CZ: Kichecki (Jamhuri ya Cheki)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Kitaita
+dav_KE: Kitaita (Kenya)
+de: Kijerumani
+de_AT: Kijerumani (Austria)
+de_BE: Kijerumani (Ubelgiji)
+de_CH: Kijerumani (Uswisi)
+de_DE: Kijerumani (Ujerumani)
+de_IT: Kijerumani (Italia)
+de_LI: Kijerumani (Lishenteni)
+de_LU: Kijerumani (Lasembagi)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Kigiriki
+el_CY: Kigiriki (Kuprosi)
+el_GR: Kigiriki (Ugiriki)
+en: Kingereza
+en_001: Kingereza (001)
+en_150: Kingereza (150)
+en_AE: Kingereza (Falme za Kiarabu)
+en_AG: Kingereza (Antigua na Barbuda)
+en_AI: Kingereza (Anguilla)
+en_AL: Kingereza (Albania)
+en_AR: Kingereza (Ajentina)
+en_AS: Kingereza (Samoa ya Marekani)
+en_AT: Kingereza (Austria)
+en_AU: Kingereza (Australia)
+en_BB: Kingereza (Babadosi)
+en_BD: Kingereza (Bangladeshi)
+en_BE: Kingereza (Ubelgiji)
+en_BG: Kingereza (Bulgaria)
+en_BI: Kingereza (Burundi)
+en_BM: Kingereza (Bermuda)
+en_BN: Kingereza (Brunei)
+en_BR: Kingereza (Brazili)
+en_BS: Kingereza (Bahama)
+en_BW: Kingereza (Botswana)
+en_BZ: Kingereza (Belize)
+en_CA: Kingereza (Kanada)
+en_CC: Kingereza (CC)
+en_CH: Kingereza (Uswisi)
+en_CK: Kingereza (Visiwa vya Cook)
+en_CL: Kingereza (Chile)
+en_CM: Kingereza (Kameruni)
+en_CN: Kingereza (China)
+en_CO: Kingereza (Kolombia)
+en_CV: Kingereza (Kepuvede)
+en_CX: Kingereza (CX)
+en_CY: Kingereza (Kuprosi)
+en_CZ: Kingereza (Jamhuri ya Cheki)
+en_DE: Kingereza (Ujerumani)
+en_DG: Kingereza (DG)
+en_DK: Kingereza (Denmaki)
+en_DM: Kingereza (Dominika)
+en_EE: Kingereza (Estonia)
+en_ER: Kingereza (Eritrea)
+en_FI: Kingereza (Ufini)
+en_FJ: Kingereza (Fiji)
+en_FK: Kingereza (Visiwa vya Falkland)
+en_FM: Kingereza (Mikronesia)
+en_FR: Kingereza (Ufaransa)
+en_GB: Kingereza (Uingereza)
+en_GD: Kingereza (Grenada)
+en_GG: Kingereza (GG)
+en_GH: Kingereza (Ghana)
+en_GI: Kingereza (Jibralta)
+en_GM: Kingereza (Gambia)
+en_GR: Kingereza (Ugiriki)
+en_GU: Kingereza (Gwam)
+en_GY: Kingereza (Guyana)
+en_HK: Kingereza (HK)
+en_HU: Kingereza (Hungaria)
+en_ID: Kingereza (Indonesia)
+en_IE: Kingereza (Ayalandi)
+en_IL: Kingereza (Israeli)
+en_IM: Kingereza (IM)
+en_IN: Kingereza (India)
+en_IO: Kingereza (Eneo la Uingereza katika Bahari Hindi)
+en_JE: Kingereza (JE)
+en_JM: Kingereza (Jamaika)
+en_JP: Kingereza (Japani)
+en_KE: Kingereza (Kenya)
+en_KI: Kingereza (Kiribati)
+en_KN: Kingereza (Santakitzi na Nevis)
+en_KR: Kingereza (Korea Kusini)
+en_KY: Kingereza (Visiwa vya Kayman)
+en_LC: Kingereza (Santalusia)
+en_LR: Kingereza (Liberia)
+en_LS: Kingereza (Lesoto)
+en_LT: Kingereza (Litwania)
+en_LV: Kingereza (Lativia)
+en_MG: Kingereza (Bukini)
+en_MH: Kingereza (Visiwa vya Marshal)
+en_MM: Kingereza (Myama)
+en_MO: Kingereza (MO)
+en_MP: Kingereza (Visiwa vya Mariana vya Kaskazini)
+en_MS: Kingereza (Montserrati)
+en_MT: Kingereza (Malta)
+en_MU: Kingereza (Morisi)
+en_MV: Kingereza (Modivu)
+en_MW: Kingereza (Malawi)
+en_MX: Kingereza (Meksiko)
+en_MY: Kingereza (Malesia)
+en_NA: Kingereza (Namibia)
+en_NF: Kingereza (Kisiwa cha Norfok)
+en_NG: Kingereza (Nijeria)
+en_NL: Kingereza (Uholanzi)
+en_NO: Kingereza (Norwe)
+en_NR: Kingereza (Nauru)
+en_NU: Kingereza (Niue)
+en_NZ: Kingereza (Nyuzilandi)
+en_PG: Kingereza (Papua)
+en_PH: Kingereza (Filipino)
+en_PK: Kingereza (Pakistani)
+en_PL: Kingereza (Polandi)
+en_PN: Kingereza (Pitkairni)
+en_PR: Kingereza (Pwetoriko)
+en_PT: Kingereza (Ureno)
+en_PW: Kingereza (Palau)
+en_RU: Kingereza (Urusi)
+en_RW: Kingereza (Rwanda)
+en_SA: Kingereza (Saudi)
+en_SB: Kingereza (Visiwa vya Solomon)
+en_SC: Kingereza (Shelisheli)
+en_SD: Kingereza (Sudani)
+en_SE: Kingereza (Uswidi)
+en_SG: Kingereza (Singapoo)
+en_SH: Kingereza (Santahelena)
+en_SI: Kingereza (Slovenia)
+en_SK: Kingereza (Slovakia)
+en_SL: Kingereza (Siera Leoni)
+en_SS: Kingereza (SS)
+en_SX: Kingereza (SX)
+en_SZ: Kingereza (Uswazi)
+en_TC: Kingereza (Visiwa vya Turki na Kaiko)
+en_TH: Kingereza (Tailandi)
+en_TK: Kingereza (Tokelau)
+en_TO: Kingereza (Tonga)
+en_TR: Kingereza (Uturuki)
+en_TT: Kingereza (Trinidad na Tobago)
+en_TV: Kingereza (Tuvalu)
+en_TW: Kingereza (Taiwani)
+en_TZ: Kingereza (Tanzania)
+en_UA: Kingereza (Ukraini)
+en_UG: Kingereza (Uganda)
+en_UM: Kingereza (UM)
+en_US: Kingereza (Marekani)
+en_US_POSIX: Kingereza (Marekani, POSIX)
+en_VC: Kingereza (Santavisenti na Grenadini)
+en_VG: Kingereza (Visiwa vya Virgin vya Uingereza)
+en_VI: Kingereza (Visiwa vya Virgin vya Marekani)
+en_VU: Kingereza (Vanuatu)
+en_WS: Kingereza (Samoa)
+en_ZA: Kingereza (Afrika Kusini)
+en_ZM: Kingereza (Zambia)
+en_ZW: Kingereza (Zimbabwe)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Kihispania
+es_003: Kihispania (003)
+es_419: Kihispania (419)
+es_AG: Kihispania (Antigua na Barbuda)
+es_AR: Kihispania (Ajentina)
+es_BB: Kihispania (Babadosi)
+es_BM: Kihispania (Bermuda)
+es_BO: Kihispania (Bolivia)
+es_BQ: Kihispania (BQ)
+es_BR: Kihispania (Brazili)
+es_BS: Kihispania (Bahama)
+es_BZ: Kihispania (Belize)
+es_CA: Kihispania (Kanada)
+es_CL: Kihispania (Chile)
+es_CO: Kihispania (Kolombia)
+es_CR: Kihispania (Kostarika)
+es_CU: Kihispania (Kuba)
+es_CW: Kihispania (CW)
+es_DM: Kihispania (Dominika)
+es_DO: Kihispania (Jamhuri ya Dominika)
+es_EA: Kihispania (EA)
+es_EC: Kihispania (Ekwado)
+es_ES: Kihispania (Hispania)
+es_GD: Kihispania (Grenada)
+es_GQ: Kihispania (Ginekweta)
+es_GT: Kihispania (Gwatemala)
+es_GY: Kihispania (Guyana)
+es_HN: Kihispania (Hondurasi)
+es_HT: Kihispania (Haiti)
+es_IC: Kihispania (IC)
+es_KN: Kihispania (Santakitzi na Nevis)
+es_KY: Kihispania (Visiwa vya Kayman)
+es_LC: Kihispania (Santalusia)
+es_MX: Kihispania (Meksiko)
+es_NI: Kihispania (Nikaragwa)
+es_PA: Kihispania (Panama)
+es_PE: Kihispania (Peru)
+es_PH: Kihispania (Filipino)
+es_PR: Kihispania (Pwetoriko)
+es_PY: Kihispania (Paragwai)
+es_SV: Kihispania (Elsavado)
+es_TC: Kihispania (Visiwa vya Turki na Kaiko)
+es_TT: Kihispania (Trinidad na Tobago)
+es_US: Kihispania (Marekani)
+es_UY: Kihispania (Urugwai)
+es_VC: Kihispania (Santavisenti na Grenadini)
+es_VE: Kihispania (Venezuela)
+es_VG: Kihispania (Visiwa vya Virgin vya Uingereza)
+es_VI: Kihispania (Visiwa vya Virgin vya Marekani)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Kiajemi
+fa_AF: Kiajemi (Afuganistani)
+fa_IR: Kiajemi (Uajemi)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Kifaransa
+fr_BE: Kifaransa (Ubelgiji)
+fr_BF: Kifaransa (Bukinafaso)
+fr_BI: Kifaransa (Burundi)
+fr_BJ: Kifaransa (Benini)
+fr_BL: Kifaransa (BL)
+fr_CA: Kifaransa (Kanada)
+fr_CD: Kifaransa (Jamhuri ya Kidemokrasia ya Kongo)
+fr_CF: Kifaransa (Jamhuri ya Afrika ya Kati)
+fr_CG: Kifaransa (Kongo)
+fr_CH: Kifaransa (Uswisi)
+fr_CI: Kifaransa (Kodivaa)
+fr_CM: Kifaransa (Kameruni)
+fr_DJ: Kifaransa (Jibuti)
+fr_DZ: Kifaransa (Aljeria)
+fr_FR: Kifaransa (Ufaransa)
+fr_GA: Kifaransa (Gaboni)
+fr_GF: Kifaransa (Gwiyana ya Ufaransa)
+fr_GN: Kifaransa (Gine)
+fr_GP: Kifaransa (Gwadelupe)
+fr_GQ: Kifaransa (Ginekweta)
+fr_HT: Kifaransa (Haiti)
+fr_KM: Kifaransa (Komoro)
+fr_LU: Kifaransa (Lasembagi)
+fr_MA: Kifaransa (Moroko)
+fr_MC: Kifaransa (Monako)
+fr_MF: Kifaransa (MF)
+fr_MG: Kifaransa (Bukini)
+fr_ML: Kifaransa (Mali)
+fr_MQ: Kifaransa (Martiniki)
+fr_MR: Kifaransa (Moritania)
+fr_MU: Kifaransa (Morisi)
+fr_NC: Kifaransa (Nyukaledonia)
+fr_NE: Kifaransa (Nijeri)
+fr_PF: Kifaransa (Polinesia ya Ufaransa)
+fr_PM: Kifaransa (Santapieri na Mikeloni)
+fr_RE: Kifaransa (Riyunioni)
+fr_RW: Kifaransa (Rwanda)
+fr_SC: Kifaransa (Shelisheli)
+fr_SN: Kifaransa (Senegali)
+fr_SY: Kifaransa (Siria)
+fr_TD: Kifaransa (Chadi)
+fr_TG: Kifaransa (Togo)
+fr_TN: Kifaransa (Tunisia)
+fr_VU: Kifaransa (Vanuatu)
+fr_WF: Kifaransa (Walis na Futuna)
+fr_YT: Kifaransa (Mayotte)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Kihausa
+ha_GH: Kihausa (Ghana)
+ha_NE: Kihausa (Nijeri)
+ha_NG: Kihausa (Nijeria)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: Kihindi
+hi_IN: Kihindi (India)
+hi_Latn: Kihindi (Latn)
+hi_Latn_IN: Kihindi (Latn, India)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Kihungari
+hu_HU: Kihungari (Hungaria)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Kiindonesia
+id_ID: Kiindonesia (Indonesia)
+ig: Kiigbo
+ig_NG: Kiigbo (Nijeria)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: Kiitaliano
+it_CH: Kiitaliano (Uswisi)
+it_IT: Kiitaliano (Italia)
+it_SM: Kiitaliano (Samarino)
+it_VA: Kiitaliano (Vatikani)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Kijapani
+ja_JP: Kijapani (Japani)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Kijava
+jv_ID: Kijava (Indonesia)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Kikambodia
+km_KH: Kikambodia (Kambodia)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Kikorea
+ko_KP: Kikorea (Korea Kaskazini)
+ko_KR: Kikorea (Korea Kusini)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, India)
+ks_Aran_IN: ks (Aran, India)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, India)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Kimalesia
+ms_Arab: Kimalesia (Arab)
+ms_Arab_BN: Kimalesia (Arab, Brunei)
+ms_Arab_MY: Kimalesia (Arab, Malesia)
+ms_BN: Kimalesia (Brunei)
+ms_ID: Kimalesia (Indonesia)
+ms_MY: Kimalesia (Malesia)
+ms_SG: Kimalesia (Singapoo)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Kiburma
+my_MM: Kiburma (Myama)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Kinepali
+ne_IN: Kinepali (India)
+ne_NP: Kinepali (Nepali)
+nl: Kiholanzi
+nl_AW: Kiholanzi (Aruba)
+nl_BE: Kiholanzi (Ubelgiji)
+nl_BQ: Kiholanzi (BQ)
+nl_CW: Kiholanzi (CW)
+nl_NL: Kiholanzi (Uholanzi)
+nl_SR: Kiholanzi (Surinamu)
+nl_SX: Kiholanzi (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Nyankole
+nyn_UG: Nyankole (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Kipunjabi
+pa_Arab: Kipunjabi (Arab)
+pa_Arab_PK: Kipunjabi (Arab, Pakistani)
+pa_Aran_PK: Kipunjabi (Aran, Pakistani)
+pa_Guru: Kipunjabi (Guru)
+pa_Guru_IN: Kipunjabi (Guru, India)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Kipolandi
+pl_PL: Kipolandi (Polandi)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Kireno
+pt_AO: Kireno (Angola)
+pt_BR: Kireno (Brazili)
+pt_CH: Kireno (Uswisi)
+pt_CV: Kireno (Kepuvede)
+pt_FR: Kireno (Ufaransa)
+pt_GQ: Kireno (Ginekweta)
+pt_GW: Kireno (Ginebisau)
+pt_LU: Kireno (Lasembagi)
+pt_MO: Kireno (MO)
+pt_MZ: Kireno (Msumbiji)
+pt_PT: Kireno (Ureno)
+pt_ST: Kireno (Sao Tome na Principe)
+pt_TL: Kireno (Timori ya Mashariki)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Kiromania
+ro_MD: Kiromania (Moldova)
+ro_RO: Kiromania (Romania)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Kirusi
+ru_BY: Kirusi (Belarusi)
+ru_KG: Kirusi (Kirigizistani)
+ru_KZ: Kirusi (Kazakistani)
+ru_MD: Kirusi (Moldova)
+ru_RU: Kirusi (Urusi)
+ru_UA: Kirusi (Ukraini)
+rw: Kinyarwanda
+rw_RW: Kinyarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Kisomali
+so_DJ: Kisomali (Jibuti)
+so_ET: Kisomali (Uhabeshi)
+so_KE: Kisomali (Kenya)
+so_SO: Kisomali (Somalia)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Kiswidi
+sv_AX: Kiswidi (AX)
+sv_FI: Kiswidi (Ufini)
+sv_SE: Kiswidi (Uswidi)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Kitamil
+ta_IN: Kitamil (India)
+ta_LK: Kitamil (Sirilanka)
+ta_MY: Kitamil (Malesia)
+ta_SG: Kitamil (Singapoo)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Kitailandi
+th_TH: Kitailandi (Tailandi)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Kituruki
+tr_CY: Kituruki (Kuprosi)
+tr_TR: Kituruki (Uturuki)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Kiukrania
+uk_UA: Kiukrania (Ukraini)
+ur: Kiurdu
+ur_Arab: Kiurdu (Arab)
+ur_Arab_IN: Kiurdu (Arab, India)
+ur_Arab_PK: Kiurdu (Arab, Pakistani)
+ur_Aran_PK: Kiurdu (Aran, Pakistani)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Kivietinamu
+vi_VN: Kivietinamu (Vietinamu)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Kiyoruba
+yo_BJ: Kiyoruba (Benini)
+yo_NG: Kiyoruba (Nijeria)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, China)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Kichina
+zh_Hans: Kichina (Hans)
+zh_Hans_CN: Kichina (Hans, China)
+zh_Hans_HK: Kichina (Hans, HK)
+zh_Hans_JP: Kichina (Hans, Japani)
+zh_Hans_MO: Kichina (Hans, MO)
+zh_Hans_SG: Kichina (Hans, Singapoo)
+zh_Hant: Kichina (Hant)
+zh_Hant_CN: Kichina (Hant, China)
+zh_Hant_HK: Kichina (Hant, HK)
+zh_Hant_MO: Kichina (Hant, MO)
+zh_Hant_TW: Kichina (Hant, Taiwani)
+zu: Kizulu
+zu_ZA: Kizulu (Afrika Kusini)

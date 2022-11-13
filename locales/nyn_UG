@@ -1,0 +1,945 @@
+af: Afrikaans
+af_NA: Afrikaans (Namibia)
+af_ZA: Afrikaans (South Africa)
+agq: Aghem
+agq_CM: Aghem (Cameroon)
+ain: Ainu
+ain_JP: Ainu (Japan)
+ak: Orukani
+ak_GH: Orukani (Gana)
+am: Orumariki
+am_ET: Orumariki (Ethiyopiya)
+apw: Apache, Western
+apw_US: Apache, Western (United States)
+ar: Oruharabu
+ar_001: Oruharabu (001)
+ar_AE: Oruharabu (Amahanga ga Buharabu ageeteereine)
+ar_BH: Oruharabu (Bahareni)
+ar_DJ: Oruharabu (Gyibuti)
+ar_DZ: Oruharabu (Arigyeriya)
+ar_EG: Oruharabu (Misiri)
+ar_EH: Oruharabu (EH)
+ar_ER: Oruharabu (Eriteriya)
+ar_IL: Oruharabu (Isirairi)
+ar_IQ: Oruharabu (Iraaka)
+ar_JO: Oruharabu (Yorudaani)
+ar_KM: Oruharabu (Koromo)
+ar_KW: Oruharabu (Kuweiti)
+ar_LB: Oruharabu (Lebanoni)
+ar_LY: Oruharabu (Libya)
+ar_MA: Oruharabu (Morocco)
+ar_MR: Oruharabu (Mauriteeniya)
+ar_OM: Oruharabu (Omaani)
+ar_PS: Oruharabu (Parestiina na Gaza)
+ar_QA: Oruharabu (Kata)
+ar_SA: Oruharabu (Saudi Areebiya)
+ar_SD: Oruharabu (Sudani)
+ar_SO: Oruharabu (Somaariya)
+ar_SS: Oruharabu (SS)
+ar_SY: Oruharabu (Siriya)
+ar_TD: Oruharabu (Chadi)
+ar_TN: Oruharabu (Tunizia)
+ar_YE: Oruharabu (Yemeni)
+arn: Mapuche
+arn_CL: Mapuche (Chile)
+as: Assamese
+as_IN: Assamese (India)
+asa: Asu
+asa_TZ: Asu (Tanzania)
+ast: Asturian
+ast_ES: Asturian (Spain)
+az: Azerbaijani
+az_Cyrl: Azerbaijani (Cyrillic)
+az_Cyrl_AZ: Azerbaijani (Cyrillic, Azerbaijan)
+az_Latn: Azerbaijani (Latin)
+az_Latn_AZ: Azerbaijani (Latin, Azerbaijan)
+ba: Bashkir
+ba_RU: Bashkir (Russia)
+bas: Basaa
+bas_CM: Basaa (Cameroon)
+be: Oruberarusi
+be_BY: Oruberarusi (Bararusi)
+bem: Bemba
+bem_ZM: Bemba (Zambia)
+bez: Bena
+bez_TZ: Bena (Tanzania)
+bg: Oruburugariya
+bg_BG: Oruburugariya (Burugariya)
+bm: Bambara
+bm_ML: Bambara (Mali)
+bn: Orubengari
+bn_BD: Orubengari (Bangaradeshi)
+bn_IN: Orubengari (Indiya)
+bo: Tibetan
+bo_CN: Tibetan (China mainland)
+bo_IN: Tibetan (India)
+br: Breton
+br_FR: Breton (France)
+brx: Bodo
+brx_IN: Bodo (India)
+bs: Bosnian
+bs_Cyrl: Bosnian (Cyrillic)
+bs_Cyrl_BA: Bosnian (Cyrillic, Bosnia & Herzegovina)
+bs_Latn: Bosnian (Latin)
+bs_Latn_BA: Bosnian (Latin, Bosnia & Herzegovina)
+byn: Blin
+byn_ER: Blin (Eritrea)
+ca: Catalan
+ca_AD: Catalan (Andorra)
+ca_ES: Catalan (Spain)
+ca_FR: Catalan (France)
+ca_IT: Catalan (Italy)
+ccp: Chakma
+ccp_BD: Chakma (Bangladesh)
+ccp_IN: Chakma (India)
+ce: Chechen
+ce_RU: Chechen (Russia)
+ceb: Cebuano
+ceb_PH: Cebuano (Philippines)
+cgg: Chiga
+cgg_UG: Chiga (Uganda)
+chr: Cherokee
+chr_US: Cherokee (United States)
+ckb: Kurdish, Sorani
+ckb_IQ: Kurdish, Sorani (Iraq)
+ckb_IR: Kurdish, Sorani (Iran)
+co: Corsican
+co_FR: Corsican (France)
+cs: Oruceeki
+cs_CZ: Oruceeki (Ripaaburika ya Zeeki)
+cv: Chuvash
+cv_RU: Chuvash (Russia)
+cy: Welsh
+cy_GB: Welsh (United Kingdom)
+da: Danish
+da_DK: Danish (Denmark)
+da_GL: Danish (Greenland)
+dav: Taita
+dav_KE: Taita (Kenya)
+de: Orugirimaani
+de_AT: Orugirimaani (Osituria)
+de_BE: Orugirimaani (Bubirigi)
+de_CH: Orugirimaani (Swisi)
+de_DE: Orugirimaani (Bugirimaani)
+de_IT: Orugirimaani (Itare)
+de_LI: Orugirimaani (Lishenteni)
+de_LU: Orugirimaani (Lakizembaaga)
+dje: Zarma
+dje_NE: Zarma (Niger)
+doi: Dogri
+doi_IN: Dogri (India)
+dsb: Lower Sorbian
+dsb_DE: Lower Sorbian (Germany)
+dua: Duala
+dua_CM: Duala (Cameroon)
+dv: Dhivehi
+dv_MV: Dhivehi (Maldives)
+dyo: Jola-Fonyi
+dyo_SN: Jola-Fonyi (Senegal)
+dz: Dzongkha
+dz_BT: Dzongkha (Bhutan)
+ebu: Embu
+ebu_KE: Embu (Kenya)
+ee: Ewe
+ee_GH: Ewe (Ghana)
+ee_TG: Ewe (Togo)
+el: Oruguriiki
+el_CY: Oruguriiki (Saipurasi)
+el_GR: Oruguriiki (Guriisi)
+en: Orungyereza
+en_001: Orungyereza (001)
+en_150: Orungyereza (150)
+en_AE: Orungyereza (Amahanga ga Buharabu ageeteereine)
+en_AG: Orungyereza (Angiguwa na Babuda)
+en_AI: Orungyereza (Angwira)
+en_AL: Orungyereza (Arubania)
+en_AR: Orungyereza (Arigentina)
+en_AS: Orungyereza (Samowa ya Ameerika)
+en_AT: Orungyereza (Osituria)
+en_AU: Orungyereza (Ositureeriya)
+en_BB: Orungyereza (Babadosi)
+en_BD: Orungyereza (Bangaradeshi)
+en_BE: Orungyereza (Bubirigi)
+en_BG: Orungyereza (Burugariya)
+en_BI: Orungyereza (Burundi)
+en_BM: Orungyereza (Berimuda)
+en_BN: Orungyereza (Burunei)
+en_BR: Orungyereza (Buraziiri)
+en_BS: Orungyereza (Bahama)
+en_BW: Orungyereza (Botswana)
+en_BZ: Orungyereza (Berize)
+en_CA: Orungyereza (Kanada)
+en_CC: Orungyereza (CC)
+en_CH: Orungyereza (Swisi)
+en_CK: Orungyereza (Ebizinga bya Kuuku)
+en_CL: Orungyereza (Chile)
+en_CM: Orungyereza (Kameruuni)
+en_CN: Orungyereza (China)
+en_CO: Orungyereza (Korombiya)
+en_CV: Orungyereza (Ebizinga bya Kepuvade)
+en_CX: Orungyereza (CX)
+en_CY: Orungyereza (Saipurasi)
+en_CZ: Orungyereza (Ripaaburika ya Zeeki)
+en_DE: Orungyereza (Bugirimaani)
+en_DG: Orungyereza (DG)
+en_DK: Orungyereza (Deenimaaka)
+en_DM: Orungyereza (Dominika)
+en_EE: Orungyereza (Esitoniya)
+en_ER: Orungyereza (Eriteriya)
+en_FI: Orungyereza (Bufini)
+en_FJ: Orungyereza (Figyi)
+en_FK: Orungyereza (Ebizinga bya Faakilanda)
+en_FM: Orungyereza (Mikironesiya)
+en_FR: Orungyereza (Bufaransa)
+en_GB: Orungyereza (Bungyereza)
+en_GD: Orungyereza (Gurenada)
+en_GG: Orungyereza (GG)
+en_GH: Orungyereza (Gana)
+en_GI: Orungyereza (Giburaata)
+en_GM: Orungyereza (Gambiya)
+en_GR: Orungyereza (Guriisi)
+en_GU: Orungyereza (Gwamu)
+en_GY: Orungyereza (Guyana)
+en_HK: Orungyereza (HK)
+en_HU: Orungyereza (Hangare)
+en_ID: Orungyereza (Indoneeziya)
+en_IE: Orungyereza (Irerandi)
+en_IL: Orungyereza (Isirairi)
+en_IM: Orungyereza (IM)
+en_IN: Orungyereza (Indiya)
+en_IO: Orungyereza (Ebizinga bya Indian ebya Bungyereza)
+en_JE: Orungyereza (JE)
+en_JM: Orungyereza (Gyamaika)
+en_JP: Orungyereza (Gyapaani)
+en_KE: Orungyereza (Kenya)
+en_KI: Orungyereza (Kiribati)
+en_KN: Orungyereza (Senti Kittis na Nevisi)
+en_KR: Orungyereza (Koreya Amashuuma)
+en_KY: Orungyereza (Ebizinga bya Kayimani)
+en_LC: Orungyereza (Senti Rusiya)
+en_LR: Orungyereza (Liberiya)
+en_LS: Orungyereza (Lesotho)
+en_LT: Orungyereza (Lithuania)
+en_LV: Orungyereza (Latviya)
+en_MG: Orungyereza (Madagasika)
+en_MH: Orungyereza (Ebizinga bya Marshaa)
+en_MM: Orungyereza (Myanamar)
+en_MO: Orungyereza (MO)
+en_MP: Orungyereza (Ebizinga by’amatemba ga Mariana)
+en_MS: Orungyereza (Montserrati)
+en_MT: Orungyereza (Marita)
+en_MU: Orungyereza (Maurishiasi)
+en_MV: Orungyereza (Maridives)
+en_MW: Orungyereza (Marawi)
+en_MX: Orungyereza (Mexico)
+en_MY: Orungyereza (marayizia)
+en_NA: Orungyereza (Namibiya)
+en_NF: Orungyereza (Ekizinga Norifoko)
+en_NG: Orungyereza (Naigyeriya)
+en_NL: Orungyereza (Hoorandi)
+en_NO: Orungyereza (Noorwe)
+en_NR: Orungyereza (Nauru)
+en_NU: Orungyereza (Niue)
+en_NZ: Orungyereza (Niuzirandi)
+en_PG: Orungyereza (Papua)
+en_PH: Orungyereza (Firipino)
+en_PK: Orungyereza (Pakisitaani)
+en_PL: Orungyereza (Poorandi)
+en_PN: Orungyereza (Pitkaini)
+en_PR: Orungyereza (Pwetoriko)
+en_PT: Orungyereza (Pocugo)
+en_PW: Orungyereza (Palaawu)
+en_RU: Orungyereza (Rrasha)
+en_RW: Orungyereza (Rwanda)
+en_SA: Orungyereza (Saudi Areebiya)
+en_SB: Orungyereza (Ebizinga bya Surimaani)
+en_SC: Orungyereza (Shesheresi)
+en_SD: Orungyereza (Sudani)
+en_SE: Orungyereza (Swideni)
+en_SG: Orungyereza (Singapo)
+en_SH: Orungyereza (Senti Herena)
+en_SI: Orungyereza (Sirovaaniya)
+en_SK: Orungyereza (Sirovaakiya)
+en_SL: Orungyereza (Sirra Riyooni)
+en_SS: Orungyereza (SS)
+en_SX: Orungyereza (SX)
+en_SZ: Orungyereza (Swazirandi)
+en_TC: Orungyereza (Ebizinga bya Buturuki na Kaiko)
+en_TH: Orungyereza (Tairandi)
+en_TK: Orungyereza (Tokerawu)
+en_TO: Orungyereza (Tonga)
+en_TR: Orungyereza (Buturuki /Take)
+en_TT: Orungyereza (Turinidad na Tobago)
+en_TV: Orungyereza (Tuvaru)
+en_TW: Orungyereza (Tayiwaani)
+en_TZ: Orungyereza (Tanzania)
+en_UA: Orungyereza (Ukureini)
+en_UG: Orungyereza (Uganda)
+en_UM: Orungyereza (UM)
+en_US: Orungyereza (Amerika)
+en_US_POSIX: Orungyereza (Amerika, POSIX)
+en_VC: Orungyereza (Senti Vinsent na Gurenadini)
+en_VG: Orungyereza (Ebizinga bya Virigini ebya Bungyereza)
+en_VI: Orungyereza (Ebizinga bya Virigini ebya Amerika)
+en_VU: Orungyereza (Vanuatu)
+en_WS: Orungyereza (Samowa)
+en_ZA: Orungyereza (Sausi Afirika)
+en_ZM: Orungyereza (Zambia)
+en_ZW: Orungyereza (Zimbabwe)
+eo: Esperanto
+eo_001: Esperanto (world)
+es: Orusupaani
+es_003: Orusupaani (003)
+es_419: Orusupaani (419)
+es_AG: Orusupaani (Angiguwa na Babuda)
+es_AR: Orusupaani (Arigentina)
+es_BB: Orusupaani (Babadosi)
+es_BM: Orusupaani (Berimuda)
+es_BO: Orusupaani (Boriiviya)
+es_BQ: Orusupaani (BQ)
+es_BR: Orusupaani (Buraziiri)
+es_BS: Orusupaani (Bahama)
+es_BZ: Orusupaani (Berize)
+es_CA: Orusupaani (Kanada)
+es_CL: Orusupaani (Chile)
+es_CO: Orusupaani (Korombiya)
+es_CR: Orusupaani (Kositarika)
+es_CU: Orusupaani (Cuba)
+es_CW: Orusupaani (CW)
+es_DM: Orusupaani (Dominika)
+es_DO: Orusupaani (Ripaaburika ya Dominica)
+es_EA: Orusupaani (EA)
+es_EC: Orusupaani (Ikweda)
+es_ES: Orusupaani (Sipeyini)
+es_GD: Orusupaani (Gurenada)
+es_GQ: Orusupaani (Guni)
+es_GT: Orusupaani (Gwatemara)
+es_GY: Orusupaani (Guyana)
+es_HN: Orusupaani (Hondurasi)
+es_HT: Orusupaani (Haiti)
+es_IC: Orusupaani (IC)
+es_KN: Orusupaani (Senti Kittis na Nevisi)
+es_KY: Orusupaani (Ebizinga bya Kayimani)
+es_LC: Orusupaani (Senti Rusiya)
+es_MX: Orusupaani (Mexico)
+es_NI: Orusupaani (Nikaragwa)
+es_PA: Orusupaani (Panama)
+es_PE: Orusupaani (Peru)
+es_PH: Orusupaani (Firipino)
+es_PR: Orusupaani (Pwetoriko)
+es_PY: Orusupaani (Paragwai)
+es_SV: Orusupaani (Eri Salivado)
+es_TC: Orusupaani (Ebizinga bya Buturuki na Kaiko)
+es_TT: Orusupaani (Turinidad na Tobago)
+es_US: Orusupaani (Amerika)
+es_UY: Orusupaani (Urugwai)
+es_VC: Orusupaani (Senti Vinsent na Gurenadini)
+es_VE: Orusupaani (Venezuwera)
+es_VG: Orusupaani (Ebizinga bya Virigini ebya Bungyereza)
+es_VI: Orusupaani (Ebizinga bya Virigini ebya Amerika)
+et: Estonian
+et_EE: Estonian (Estonia)
+eu: Basque
+eu_ES: Basque (Spain)
+ewo: Ewondo
+ewo_CM: Ewondo (Cameroon)
+fa: Orupaasiya
+fa_AF: Orupaasiya (Afuganistani)
+fa_IR: Orupaasiya (Iraani)
+ff: Fula
+ff_Adlm: Fula (Adlam)
+ff_Adlm_BF: Fula (Adlam, Burkina Faso)
+ff_Adlm_CM: Fula (Adlam, Cameroon)
+ff_Adlm_GH: Fula (Adlam, Ghana)
+ff_Adlm_GM: Fula (Adlam, Gambia)
+ff_Adlm_GN: Fula (Adlam, Guinea)
+ff_Adlm_GW: Fula (Adlam, Guinea-Bissau)
+ff_Adlm_LR: Fula (Adlam, Liberia)
+ff_Adlm_MR: Fula (Adlam, Mauritania)
+ff_Adlm_NE: Fula (Adlam, Niger)
+ff_Adlm_NG: Fula (Adlam, Nigeria)
+ff_Adlm_SL: Fula (Adlam, Sierra Leone)
+ff_Adlm_SN: Fula (Adlam, Senegal)
+ff_Latn: Fula (Latin)
+ff_Latn_BF: Fula (Latin, Burkina Faso)
+ff_Latn_CM: Fula (Latin, Cameroon)
+ff_Latn_GH: Fula (Latin, Ghana)
+ff_Latn_GM: Fula (Latin, Gambia)
+ff_Latn_GN: Fula (Latin, Guinea)
+ff_Latn_GW: Fula (Latin, Guinea-Bissau)
+ff_Latn_LR: Fula (Latin, Liberia)
+ff_Latn_MR: Fula (Latin, Mauritania)
+ff_Latn_NE: Fula (Latin, Niger)
+ff_Latn_NG: Fula (Latin, Nigeria)
+ff_Latn_SL: Fula (Latin, Sierra Leone)
+ff_Latn_SN: Fula (Latin, Senegal)
+fi: Finnish
+fi_FI: Finnish (Finland)
+fil: Filipino
+fil_PH: Filipino (Philippines)
+fo: Faroese
+fo_DK: Faroese (Denmark)
+fo_FO: Faroese (Faroe Islands)
+fr: Orufaransa
+fr_BE: Orufaransa (Bubirigi)
+fr_BF: Orufaransa (Bokina Faso)
+fr_BI: Orufaransa (Burundi)
+fr_BJ: Orufaransa (Benini)
+fr_BL: Orufaransa (BL)
+fr_CA: Orufaransa (Kanada)
+fr_CD: Orufaransa (Demokoratika Ripaaburika ya Kongo)
+fr_CF: Orufaransa (Eihanga rya Rwagati ya Afirika)
+fr_CG: Orufaransa (Kongo)
+fr_CH: Orufaransa (Swisi)
+fr_CI: Orufaransa (Aivore Kositi)
+fr_CM: Orufaransa (Kameruuni)
+fr_DJ: Orufaransa (Gyibuti)
+fr_DZ: Orufaransa (Arigyeriya)
+fr_FR: Orufaransa (Bufaransa)
+fr_GA: Orufaransa (Gabooni)
+fr_GF: Orufaransa (Guyana ya Bufaransa)
+fr_GN: Orufaransa (Gine)
+fr_GP: Orufaransa (Gwaderupe)
+fr_GQ: Orufaransa (Guni)
+fr_HT: Orufaransa (Haiti)
+fr_KM: Orufaransa (Koromo)
+fr_LU: Orufaransa (Lakizembaaga)
+fr_MA: Orufaransa (Morocco)
+fr_MC: Orufaransa (Monaco)
+fr_MF: Orufaransa (MF)
+fr_MG: Orufaransa (Madagasika)
+fr_ML: Orufaransa (Mari)
+fr_MQ: Orufaransa (Martinique)
+fr_MR: Orufaransa (Mauriteeniya)
+fr_MU: Orufaransa (Maurishiasi)
+fr_NC: Orufaransa (Niukaredonia)
+fr_NE: Orufaransa (Naigya)
+fr_PF: Orufaransa (Polinesia ya Bufaransa)
+fr_PM: Orufaransa (Senti Piyerre na Mikweron)
+fr_RE: Orufaransa (Riyuniyoni)
+fr_RW: Orufaransa (Rwanda)
+fr_SC: Orufaransa (Shesheresi)
+fr_SN: Orufaransa (Senego)
+fr_SY: Orufaransa (Siriya)
+fr_TD: Orufaransa (Chadi)
+fr_TG: Orufaransa (Togo)
+fr_TN: Orufaransa (Tunizia)
+fr_VU: Orufaransa (Vanuatu)
+fr_WF: Orufaransa (Warris na Futuna)
+fr_YT: Orufaransa (Mayote)
+fur: Friulian
+fur_IT: Friulian (Italy)
+fy: Western Frisian
+fy_NL: Western Frisian (Netherlands)
+ga: Irish
+ga_GB: Irish (United Kingdom)
+ga_IE: Irish (Ireland)
+gaa: Ga
+gaa_GH: Ga (Ghana)
+gd: Scottish Gaelic
+gd_GB: Scottish Gaelic (United Kingdom)
+gez: Geez
+gez_ER: Geez (Eritrea)
+gez_ET: Geez (Ethiopia)
+gl: Galician
+gl_ES: Galician (Spain)
+gn: Guarani
+gn_PY: Guarani (Paraguay)
+gsw: Swiss German
+gsw_CH: Swiss German (Switzerland)
+gsw_FR: Swiss German (France)
+gsw_LI: Swiss German (Liechtenstein)
+gu: Gujarati
+gu_IN: Gujarati (India)
+guz: Gusii
+guz_KE: Gusii (Kenya)
+gv: Manx
+gv_IM: Manx (Isle of Man)
+ha: Oruhausa
+ha_GH: Oruhausa (Gana)
+ha_NE: Oruhausa (Naigya)
+ha_NG: Oruhausa (Naigyeriya)
+haw: Hawaiian
+haw_US: Hawaiian (United States)
+he: Hebrew
+he_IL: Hebrew (Israel)
+hi: Oruhindi
+hi_IN: Oruhindi (Indiya)
+hi_Latn: Oruhindi (Latn)
+hi_Latn_IN: Oruhindi (Latn, Indiya)
+hr: Croatian
+hr_BA: Croatian (Bosnia & Herzegovina)
+hr_HR: Croatian (Croatia)
+hsb: Upper Sorbian
+hsb_DE: Upper Sorbian (Germany)
+hu: Oruhangare
+hu_HU: Oruhangare (Hangare)
+hy: Armenian
+hy_AM: Armenian (Armenia)
+ia: Interlingua
+ia_001: Interlingua (world)
+id: Oruindonezia
+id_ID: Oruindonezia (Indoneeziya)
+ig: Oruibo
+ig_NG: Oruibo (Naigyeriya)
+ii: Sichuan Yi
+ii_CN: Sichuan Yi (China mainland)
+io: Ido
+io_001: Ido (world)
+is: Icelandic
+is_IS: Icelandic (Iceland)
+it: Oruyitare
+it_CH: Oruyitare (Swisi)
+it_IT: Oruyitare (Itare)
+it_SM: Oruyitare (Samarino)
+it_VA: Oruyitare (Vatikani)
+iu: Inuktitut
+iu_CA: Inuktitut (Canada)
+ja: Orujapaani
+ja_JP: Orujapaani (Gyapaani)
+jbo: Lojban
+jbo_001: Lojban (world)
+jgo: Ngomba
+jgo_CM: Ngomba (Cameroon)
+jmc: Machame
+jmc_TZ: Machame (Tanzania)
+jv: Orujava
+jv_ID: Orujava (Indoneeziya)
+ka: Georgian
+ka_GE: Georgian (Georgia)
+kab: Kabyle
+kab_DZ: Kabyle (Algeria)
+kaj: Jju
+kaj_NG: Jju (Nigeria)
+kam: Kamba
+kam_KE: Kamba (Kenya)
+kcg: Tyap
+kcg_NG: Tyap (Nigeria)
+kde: Makonde
+kde_TZ: Makonde (Tanzania)
+kea: Kabuverdianu
+kea_CV: Kabuverdianu (Cape Verde)
+khq: Koyra Chiini
+khq_ML: Koyra Chiini (Mali)
+ki: Kikuyu
+ki_KE: Kikuyu (Kenya)
+kk: Kazakh
+kk_KZ: Kazakh (Kazakhstan)
+kkj: Kako
+kkj_CM: Kako (Cameroon)
+kl: Kalaallisut
+kl_GL: Kalaallisut (Greenland)
+kln: Kalenjin
+kln_KE: Kalenjin (Kenya)
+km: Orukambodiya
+km_KH: Orukambodiya (Kambodiya)
+kn: Kannada
+kn_IN: Kannada (India)
+ko: Orukoreya
+ko_KP: Orukoreya (Koreya Amatemba)
+ko_KR: Orukoreya (Koreya Amashuuma)
+kok: Konkani
+kok_IN: Konkani (India)
+kpe: Kpelle
+kpe_GN: Kpelle (Guinea)
+kpe_LR: Kpelle (Liberia)
+ks: Kashmiri
+ks_Arab: ks (Arab)
+ks_Arab_IN: ks (Arab, Indiya)
+ks_Aran_IN: ks (Aran, Indiya)
+ks_Deva: ks (Deva)
+ks_Deva_IN: ks (Deva, Indiya)
+ksb: Shambala
+ksb_TZ: Shambala (Tanzania)
+ksf: Bafia
+ksf_CM: Bafia (Cameroon)
+ksh: Colognian
+ksh_DE: Colognian (Germany)
+ku: Kurdish
+ku_TR: Kurdish (Turkey)
+kw: Cornish
+kw_GB: Cornish (United Kingdom)
+ky: Kyrgyz
+ky_KG: Kyrgyz (Kyrgyzstan)
+lag: Langi
+lag_TZ: Langi (Tanzania)
+lb: Luxembourgish
+lb_LU: Luxembourgish (Luxembourg)
+lg: Ganda
+lg_UG: Ganda (Uganda)
+lkt: Lakota
+lkt_US: Lakota (United States)
+ln: Lingala
+ln_AO: Lingala (Angola)
+ln_CD: Lingala (Congo - Kinshasa)
+ln_CF: Lingala (Central African Republic)
+ln_CG: Lingala (Congo - Brazzaville)
+lo: Lao
+lo_LA: Lao (Laos)
+lrc: Northern Luri
+lrc_IQ: Northern Luri (Iraq)
+lrc_IR: Northern Luri (Iran)
+lt: Lithuanian
+lt_LT: Lithuanian (Lithuania)
+lu: Luba-Katanga
+lu_CD: Luba-Katanga (Congo - Kinshasa)
+luo: Luo
+luo_KE: Luo (Kenya)
+luy: Luyia
+luy_KE: Luyia (Kenya)
+lv: Latvian
+lv_LV: Latvian (Latvia)
+mai: Maithili
+mai_IN: Maithili (India)
+mas: Masai
+mas_KE: Masai (Kenya)
+mas_TZ: Masai (Tanzania)
+mer: Meru
+mer_KE: Meru (Kenya)
+mfe: Morisyen
+mfe_MU: Morisyen (Mauritius)
+mg: Malagasy
+mg_MG: Malagasy (Madagascar)
+mgh: Makhuwa-Meetto
+mgh_MZ: Makhuwa-Meetto (Mozambique)
+mgo: Metaʼ
+mgo_CM: Metaʼ (Cameroon)
+mi: Māori
+mi_NZ: Māori (New Zealand)
+mk: Macedonian
+mk_MK: Macedonian (North Macedonia)
+ml: Malayalam
+ml_IN: Malayalam (India)
+mn: Mongolian
+mn_MN: Mongolian (Mongolia)
+mni: Manipuri
+mni_Beng: Manipuri (Bangla)
+mni_Beng_IN: Manipuri (Bangla, India)
+mni_Mtei: Manipuri (Meitei Mayek)
+mni_Mtei_IN: Manipuri (Meitei Mayek, India)
+moh: Mohawk
+moh_CA: Mohawk (Canada)
+mr: Marathi
+mr_IN: Marathi (India)
+ms: Orumalesiya
+ms_Arab: Orumalesiya (Arab)
+ms_Arab_BN: Orumalesiya (Arab, Burunei)
+ms_Arab_MY: Orumalesiya (Arab, marayizia)
+ms_BN: Orumalesiya (Burunei)
+ms_ID: Orumalesiya (Indoneeziya)
+ms_MY: Orumalesiya (marayizia)
+ms_SG: Orumalesiya (Singapo)
+mt: Maltese
+mt_MT: Maltese (Malta)
+mua: Mundang
+mua_CM: Mundang (Cameroon)
+my: Oruburuma
+my_MM: Oruburuma (Myanamar)
+myv: Erzya
+myv_RU: Erzya (Russia)
+mzn: Mazanderani
+mzn_IR: Mazanderani (Iran)
+naq: Nama
+naq_NA: Nama (Namibia)
+nb: Norwegian Bokmål
+nb_NO: Norwegian Bokmål (Norway)
+nb_SJ: Norwegian Bokmål (Svalbard & Jan Mayen)
+nd: North Ndebele
+nd_ZW: North Ndebele (Zimbabwe)
+nds: Low German
+nds_DE: Low German (Germany)
+nds_NL: Low German (Netherlands)
+ne: Orunepali
+ne_IN: Orunepali (Indiya)
+ne_NP: Orunepali (Nepo)
+nl: Orudaaki
+nl_AW: Orudaaki (Aruba)
+nl_BE: Orudaaki (Bubirigi)
+nl_BQ: Orudaaki (BQ)
+nl_CW: Orudaaki (CW)
+nl_NL: Orudaaki (Hoorandi)
+nl_SR: Orudaaki (Surinaamu)
+nl_SX: Orudaaki (SX)
+nmg: Kwasio
+nmg_CM: Kwasio (Cameroon)
+nn: Norwegian Nynorsk
+nn_NO: Norwegian Nynorsk (Norway)
+nnh: Ngiemboon
+nnh_CM: Ngiemboon (Cameroon)
+no: Norwegian
+nqo: N’Ko
+nqo_GN: N’Ko (Guinea)
+nr: South Ndebele
+nr_ZA: South Ndebele (South Africa)
+nso: Northern Sotho
+nso_ZA: Northern Sotho (South Africa)
+nus: Nuer
+nus_SS: Nuer (South Sudan)
+nv: Navajo
+nv_US: Navajo (United States)
+ny: Nyanja
+ny_MW: Nyanja (Malawi)
+nyn: Runyankore
+nyn_UG: Runyankore (Uganda)
+oc: Occitan
+oc_FR: Occitan (France)
+om: Oromo
+om_ET: Oromo (Ethiopia)
+om_KE: Oromo (Kenya)
+or: Odia
+or_IN: Odia (India)
+os: Ossetic
+os_GE: Ossetic (Georgia)
+os_RU: Ossetic (Russia)
+pa: Orupungyabi
+pa_Arab: Orupungyabi (Arab)
+pa_Arab_PK: Orupungyabi (Arab, Pakisitaani)
+pa_Aran_PK: Orupungyabi (Aran, Pakisitaani)
+pa_Guru: Orupungyabi (Guru)
+pa_Guru_IN: Orupungyabi (Guru, Indiya)
+pcm: Nigerian Pidgin
+pcm_NG: Nigerian Pidgin (Nigeria)
+pl: Orupoori
+pl_PL: Orupoori (Poorandi)
+ps: Pashto
+ps_AF: Pashto (Afghanistan)
+ps_PK: Pashto (Pakistan)
+pt: Orupocugo
+pt_AO: Orupocugo (Angora)
+pt_BR: Orupocugo (Buraziiri)
+pt_CH: Orupocugo (Swisi)
+pt_CV: Orupocugo (Ebizinga bya Kepuvade)
+pt_FR: Orupocugo (Bufaransa)
+pt_GQ: Orupocugo (Guni)
+pt_GW: Orupocugo (Ginebisau)
+pt_LU: Orupocugo (Lakizembaaga)
+pt_MO: Orupocugo (MO)
+pt_MZ: Orupocugo (Mozambique)
+pt_PT: Orupocugo (Pocugo)
+pt_ST: Orupocugo (Sawo Tome na Purinsipo)
+pt_TL: Orupocugo (Burugweizooba bwa Timori)
+qu: Quechua
+qu_BO: Quechua (Bolivia)
+qu_EC: Quechua (Ecuador)
+qu_PE: Quechua (Peru)
+rhg: Rohingya
+rhg_Rohg: Rohingya (Hanifi)
+rhg_Rohg_BD: Rohingya (Hanifi, Bangladesh)
+rhg_Rohg_MM: Rohingya (Hanifi, Myanmar [Burma])
+rm: Romansh
+rm_CH: Romansh (Switzerland)
+rn: Rundi
+rn_BI: Rundi (Burundi)
+ro: Oruromania
+ro_MD: Oruromania (Moridova)
+ro_RO: Oruromania (Romaniya)
+rof: Rombo
+rof_TZ: Rombo (Tanzania)
+ru: Orurrasha
+ru_BY: Orurrasha (Bararusi)
+ru_KG: Orurrasha (Kirigizistani)
+ru_KZ: Orurrasha (Kazakisitani)
+ru_MD: Orurrasha (Moridova)
+ru_RU: Orurrasha (Rrasha)
+ru_UA: Orurrasha (Ukureini)
+rw: Orunyarwanda
+rw_RW: Orunyarwanda (Rwanda)
+rwk: Rwa
+rwk_TZ: Rwa (Tanzania)
+sa: Sanskrit
+sa_IN: Sanskrit (India)
+sah: Sakha
+sah_RU: Sakha (Russia)
+saq: Samburu
+saq_KE: Samburu (Kenya)
+sat: Santali
+sat_Deva: Santali (Devanagari)
+sat_Deva_IN: Santali (Devanagari, India)
+sat_Olck: Santali (Ol Chiki)
+sat_Olck_IN: Santali (Ol Chiki, India)
+sbp: Sangu
+sbp_TZ: Sangu (Tanzania)
+sc: Sardinian
+sc_IT: Sardinian (Italy)
+scn: Sicilian
+scn_IT: Sicilian (Italy)
+sd: Sindhi
+sd_Arab: Sindhi (Arabic)
+sd_Arab_PK: Sindhi (Arabic, Pakistan)
+sd_Deva: Sindhi (Devanagari)
+sd_Deva_IN: Sindhi (Devanagari, India)
+se: Northern Sami
+se_FI: Northern Sami (Finland)
+se_NO: Northern Sami (Norway)
+se_SE: Northern Sami (Sweden)
+seh: Sena
+seh_MZ: Sena (Mozambique)
+ses: Koyraboro Senni
+ses_ML: Koyraboro Senni (Mali)
+sg: Sango
+sg_CF: Sango (Central African Republic)
+shi: Tachelhit
+shi_Latn: Tachelhit (Latin)
+shi_Latn_MA: Tachelhit (Latin, Morocco)
+shi_Tfng: Tachelhit (Tifinagh)
+shi_Tfng_MA: Tachelhit (Tifinagh, Morocco)
+si: Sinhala
+si_LK: Sinhala (Sri Lanka)
+sk: Slovak
+sk_SK: Slovak (Slovakia)
+sl: Slovenian
+sl_SI: Slovenian (Slovenia)
+sm: Samoan
+sm_AS: Samoan (American Samoa)
+sm_WS: Samoan (Samoa)
+smn: Inari Sami
+smn_FI: Inari Sami (Finland)
+sn: Shona
+sn_ZW: Shona (Zimbabwe)
+so: Orusomaari
+so_DJ: Orusomaari (Gyibuti)
+so_ET: Orusomaari (Ethiyopiya)
+so_KE: Orusomaari (Kenya)
+so_SO: Orusomaari (Somaariya)
+sq: Albanian
+sq_AL: Albanian (Albania)
+sq_MK: Albanian (North Macedonia)
+sq_XK: Albanian (Kosovo)
+sr: Serbian
+sr_Cyrl: Serbian (Cyrillic)
+sr_Cyrl_BA: Serbian (Cyrillic, Bosnia & Herzegovina)
+sr_Cyrl_ME: Serbian (Cyrillic, Montenegro)
+sr_Cyrl_RS: Serbian (Cyrillic, Serbia)
+sr_Cyrl_XK: Serbian (Cyrillic, Kosovo)
+sr_Latn: Serbian (Latin)
+sr_Latn_BA: Serbian (Latin, Bosnia & Herzegovina)
+sr_Latn_ME: Serbian (Latin, Montenegro)
+sr_Latn_RS: Serbian (Latin, Serbia)
+sr_Latn_XK: Serbian (Latin, Kosovo)
+ss: Swati
+ss_SZ: Swati (Eswatini)
+ss_ZA: Swati (South Africa)
+st: Southern Sotho
+st_LS: Southern Sotho (Lesotho)
+st_ZA: Southern Sotho (South Africa)
+su: Sundanese
+su_Latn: Sundanese (Latin)
+su_Latn_ID: Sundanese (Latin, Indonesia)
+sv: Oruswidi
+sv_AX: Oruswidi (AX)
+sv_FI: Oruswidi (Bufini)
+sv_SE: Oruswidi (Swideni)
+sw: Swahili
+sw_CD: Swahili (Congo - Kinshasa)
+sw_KE: Swahili (Kenya)
+sw_TZ: Swahili (Tanzania)
+sw_UG: Swahili (Uganda)
+syr: Assyrian
+syr_IQ: Assyrian (Iraq)
+syr_SY: Assyrian (Syria)
+ta: Orutamiri
+ta_IN: Orutamiri (Indiya)
+ta_LK: Orutamiri (Siriranka)
+ta_MY: Orutamiri (marayizia)
+ta_SG: Orutamiri (Singapo)
+te: Telugu
+te_IN: Telugu (India)
+teo: Teso
+teo_KE: Teso (Kenya)
+teo_UG: Teso (Uganda)
+tg: Tajik
+tg_TJ: Tajik (Tajikistan)
+th: Orutailandi
+th_TH: Orutailandi (Tairandi)
+ti: Tigrinya
+ti_ER: Tigrinya (Eritrea)
+ti_ET: Tigrinya (Ethiopia)
+tig: Tigre
+tig_ER: Tigre (Eritrea)
+tk: Turkmen
+tk_TM: Turkmen (Turkmenistan)
+tn: Tswana
+tn_BW: Tswana (Botswana)
+tn_ZA: Tswana (South Africa)
+to: Tongan
+to_TO: Tongan (Tonga)
+tr: Orukuruki
+tr_CY: Orukuruki (Saipurasi)
+tr_TR: Orukuruki (Buturuki /Take)
+trv: Taroko
+trv_TW: Taroko (Taiwan)
+ts: Tsonga
+ts_ZA: Tsonga (South Africa)
+tt: Tatar
+tt_RU: Tatar (Russia)
+twq: Tasawaq
+twq_NE: Tasawaq (Niger)
+tzm: Central Atlas Tamazight
+tzm_MA: Central Atlas Tamazight (Morocco)
+ug: Uyghur
+ug_CN: Uyghur (China mainland)
+uk: Orukuraini
+uk_UA: Orukuraini (Ukureini)
+ur: Oru-Urudu
+ur_Arab: Oru-Urudu (Arab)
+ur_Arab_IN: Oru-Urudu (Arab, Indiya)
+ur_Arab_PK: Oru-Urudu (Arab, Pakisitaani)
+ur_Aran_PK: Oru-Urudu (Aran, Pakisitaani)
+uz: Uzbek
+uz_Arab: Uzbek (Arabic)
+uz_Arab_AF: Uzbek (Arabic, Afghanistan)
+uz_Cyrl: Uzbek (Cyrillic)
+uz_Cyrl_UZ: Uzbek (Cyrillic, Uzbekistan)
+uz_Latn: Uzbek (Latin)
+uz_Latn_UZ: Uzbek (Latin, Uzbekistan)
+vai: Vai
+vai_Latn: Vai (Latin)
+vai_Latn_LR: Vai (Latin, Liberia)
+vai_Vaii: Vai (Vai)
+vai_Vaii_LR: Vai (Vai, Liberia)
+ve: Venda
+ve_ZA: Venda (South Africa)
+vi: Oruviyetinaamu
+vi_VN: Oruviyetinaamu (Viyetinaamu)
+vun: Vunjo
+vun_TZ: Vunjo (Tanzania)
+wa: Walloon
+wa_BE: Walloon (Belgium)
+wae: Walser
+wae_CH: Walser (Switzerland)
+wal: Wolaytta
+wal_ET: Wolaytta (Ethiopia)
+wo: Wolof
+wo_SN: Wolof (Senegal)
+xh: Xhosa
+xh_ZA: Xhosa (South Africa)
+xog: Soga
+xog_UG: Soga (Uganda)
+yav: Yangben
+yav_CM: Yangben (Cameroon)
+yi: Yiddish
+yi_001: Yiddish (world)
+yo: Oruyoruba
+yo_BJ: Oruyoruba (Benini)
+yo_NG: Oruyoruba (Naigyeriya)
+yue: Cantonese
+yue_Hans: yue (Hans)
+yue_Hans_CN: yue (Hans, China)
+yue_Hant: yue (Hant)
+yue_Hant_HK: yue (Hant, HK)
+zgh: Standard Moroccan Tamazight
+zgh_MA: Standard Moroccan Tamazight (Morocco)
+zh: Oruchaina
+zh_Hans: Oruchaina (Hans)
+zh_Hans_CN: Oruchaina (Hans, China)
+zh_Hans_HK: Oruchaina (Hans, HK)
+zh_Hans_JP: Oruchaina (Hans, Gyapaani)
+zh_Hans_MO: Oruchaina (Hans, MO)
+zh_Hans_SG: Oruchaina (Hans, Singapo)
+zh_Hant: Oruchaina (Hant)
+zh_Hant_CN: Oruchaina (Hant, China)
+zh_Hant_HK: Oruchaina (Hant, HK)
+zh_Hant_MO: Oruchaina (Hant, MO)
+zh_Hant_TW: Oruchaina (Hant, Tayiwaani)
+zu: Oruzuru
+zu_ZA: Oruzuru (Sausi Afirika)
